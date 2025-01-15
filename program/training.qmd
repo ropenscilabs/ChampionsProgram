@@ -1,9 +1,12 @@
 ---
-title: "About"
+title: "Entrenamiento"
 ---
 
-About this site
+El programa tiene una primera fase de entrenamiento. 
+Se compone de tres ejes de contenido:
 
-```{r}
-1 + 1
-```
+* Desarrollo de software de investigacion.
+* Revision por pares de software de investigacion
+* Gestion de comunidades
+
+
