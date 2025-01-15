@@ -1,0 +1,103 @@
+---
+title: "Apply as an Instructor"
+---
+
+## Instructor Application
+
+::: {.callout-important}
+## Instructor Recruitment Timeline
+- Applications open: [Date]
+- Application deadline: [Date]
+- Training begins: [Date]
+:::
+
+## Instructor Requirements
+
+Essential qualifications:
+
+- Expert-level knowledge in specific R/open science topics
+- Teaching or training experience
+- Strong communication skills
+- Availability for workshop preparation and delivery
+
+## Teaching Topics
+
+We're seeking instructors for:
+
+- R Package Development
+- Testing and Continuous Integration
+- Documentation Best Practices
+- Code Review
+- Open Science Practices
+- Data Management
+- Reproducible Research
+
+## Application Process
+
+1. **Review Teaching Requirements**
+   - Workshop formats and expectations
+   - Time commitments
+   - Material development guidelines
+
+2. **Prepare Required Information**
+   - Teaching experience
+   - Topic expertise
+   - Sample teaching materials
+   - Availability
+
+3. **Complete Application Form**
+
+::: {.application-form}
+<form action="https://formspree.io/f/your-form-id" method="POST">
+  <div class="form-group">
+    <label for="name">Full Name *</label>
+    <input type="text" id="name" name="name" required>
+  </div>
+
+  <div class="form-group">
+    <label for="email">Email Address *</label>
+    <input type="email" id="email" name="email" required>
+  </div>
+
+  <div class="form-group">
+    <label for="topics">Preferred Teaching Topics *</label>
+    <textarea id="topics" name="topics" rows="4" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="experience">Teaching Experience *</label>
+    <textarea id="experience" name="experience" rows="6" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="approach">Teaching Approach and Philosophy *</label>
+    <textarea id="approach" name="approach" rows="6" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="materials">Link to Sample Teaching Materials</label>
+    <input type="url" id="materials" name="materials">
+  </div>
+
+  <div class="form-group">
+    <label for="cv">Upload CV/Resume (PDF) *</label>
+    <input type="file" id="cv" name="cv" accept=".pdf" required>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit Application</button>
+</form>
+:::
+
+## Selection Process
+
+1. Application Review
+2. Teaching Sample Review
+3. Mock Teaching Session
+4. Final Selection and Onboarding
+
+## Questions?
+
+For questions about teaching or the application process:
+
+1. Review our [FAQ section](../resources/faq.qmd)
+2. Contact the training coordinator at [email]

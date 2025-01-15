@@ -1,0 +1,269 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "quarto-apply-instructors.html",
+    "href": "quarto-apply-instructors.html",
+    "title": "Apply as an Instructor",
+    "section": "",
+    "text": "Instructor Recruitment Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nTraining begins: [Date]"
+  },
+  {
+    "objectID": "quarto-apply-instructors.html#instructor-application",
+    "href": "quarto-apply-instructors.html#instructor-application",
+    "title": "Apply as an Instructor",
+    "section": "",
+    "text": "Instructor Recruitment Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nTraining begins: [Date]"
+  },
+  {
+    "objectID": "quarto-apply-instructors.html#instructor-requirements",
+    "href": "quarto-apply-instructors.html#instructor-requirements",
+    "title": "Apply as an Instructor",
+    "section": "Instructor Requirements",
+    "text": "Instructor Requirements\nEssential qualifications:\n\nExpert-level knowledge in specific R/open science topics\nTeaching or training experience\nStrong communication skills\nAvailability for workshop preparation and delivery"
+  },
+  {
+    "objectID": "quarto-apply-instructors.html#teaching-topics",
+    "href": "quarto-apply-instructors.html#teaching-topics",
+    "title": "Apply as an Instructor",
+    "section": "Teaching Topics",
+    "text": "Teaching Topics\nWe’re seeking instructors for:\n\nR Package Development\nTesting and Continuous Integration\nDocumentation Best Practices\nCode Review\nOpen Science Practices\nData Management\nReproducible Research"
+  },
+  {
+    "objectID": "quarto-apply-instructors.html#application-process",
+    "href": "quarto-apply-instructors.html#application-process",
+    "title": "Apply as an Instructor",
+    "section": "Application Process",
+    "text": "Application Process\n\nReview Teaching Requirements\n\nWorkshop formats and expectations\nTime commitments\nMaterial development guidelines\n\nPrepare Required Information\n\nTeaching experience\nTopic expertise\nSample teaching materials\nAvailability\n\nComplete Application Form\n\n\n\n\n&lt;label for=\"name\"&gt;Full Name *&lt;/label&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\"&gt;Email Address *&lt;/label&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"topics\"&gt;Preferred Teaching Topics *&lt;/label&gt;\n&lt;textarea id=\"topics\" name=\"topics\" rows=\"4\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"experience\"&gt;Teaching Experience *&lt;/label&gt;\n&lt;textarea id=\"experience\" name=\"experience\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"approach\"&gt;Teaching Approach and Philosophy *&lt;/label&gt;\n&lt;textarea id=\"approach\" name=\"approach\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"materials\"&gt;Link to Sample Teaching Materials&lt;/label&gt;\n&lt;input type=\"url\" id=\"materials\" name=\"materials\"&gt;\n\n\n&lt;label for=\"cv\"&gt;Upload CV/Resume (PDF) *&lt;/label&gt;\n&lt;input type=\"file\" id=\"cv\" name=\"cv\" accept=\".pdf\" required&gt;\n\n\nSubmit Application"
+  },
+  {
+    "objectID": "quarto-apply-instructors.html#selection-process",
+    "href": "quarto-apply-instructors.html#selection-process",
+    "title": "Apply as an Instructor",
+    "section": "Selection Process",
+    "text": "Selection Process\n\nApplication Review\nTeaching Sample Review\nMock Teaching Session\nFinal Selection and Onboarding"
+  },
+  {
+    "objectID": "quarto-apply-instructors.html#questions",
+    "href": "quarto-apply-instructors.html#questions",
+    "title": "Apply as an Instructor",
+    "section": "Questions?",
+    "text": "Questions?\nFor questions about teaching or the application process:\n\nReview our FAQ section\nContact the training coordinator at [email]"
+  },
+  {
+    "objectID": "quarto-apply-mentors.html",
+    "href": "quarto-apply-mentors.html",
+    "title": "Apply as a Mentor",
+    "section": "",
+    "text": "Mentor Recruitment Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nMentorship begins: [Date]"
+  },
+  {
+    "objectID": "quarto-apply-mentors.html#mentor-application",
+    "href": "quarto-apply-mentors.html#mentor-application",
+    "title": "Apply as a Mentor",
+    "section": "",
+    "text": "Mentor Recruitment Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nMentorship begins: [Date]"
+  },
+  {
+    "objectID": "quarto-apply-mentors.html#mentor-requirements",
+    "href": "quarto-apply-mentors.html#mentor-requirements",
+    "title": "Apply as a Mentor",
+    "section": "Mentor Requirements",
+    "text": "Mentor Requirements\nEssential qualifications:\n\nSignificant experience in R package development\nActive participation in the R/open source community\nExperience in code review and technical documentation\nTime availability of 2-3 hours per week for 6 months"
+  },
+  {
+    "objectID": "quarto-apply-mentors.html#mentor-responsibilities",
+    "href": "quarto-apply-mentors.html#mentor-responsibilities",
+    "title": "Apply as a Mentor",
+    "section": "Mentor Responsibilities",
+    "text": "Mentor Responsibilities\nAs a mentor, you will:\n\nGuide 1-2 Champions through their project development\nProvide regular code review and feedback\nAttend monthly mentor coordination meetings\nSupport Champions in community engagement\nReview technical documentation"
+  },
+  {
+    "objectID": "quarto-apply-mentors.html#application-process",
+    "href": "quarto-apply-mentors.html#application-process",
+    "title": "Apply as a Mentor",
+    "section": "Application Process",
+    "text": "Application Process\n\nReview Mentor Guidelines\n\nProgram structure and timeline\nMentorship expectations\nTime commitments\n\nPrepare Required Information\n\nProfessional background\nOpen source contributions\nMentoring experience\nAreas of expertise\n\nComplete Application Form\n\n\n\n\n&lt;label for=\"name\"&gt;Full Name *&lt;/label&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\"&gt;Email Address *&lt;/label&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"github\"&gt;GitHub Username *&lt;/label&gt;\n&lt;input type=\"text\" id=\"github\" name=\"github\" required&gt;\n\n\n&lt;label for=\"expertise\"&gt;Areas of Expertise *&lt;/label&gt;\n&lt;textarea id=\"expertise\" name=\"expertise\" rows=\"4\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"mentoring\"&gt;Previous Mentoring Experience&lt;/label&gt;\n&lt;textarea id=\"mentoring\" name=\"mentoring\" rows=\"4\"&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"motivation\"&gt;Why do you want to be a mentor? *&lt;/label&gt;\n&lt;textarea id=\"motivation\" name=\"motivation\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"cv\"&gt;Upload CV/Resume (PDF) *&lt;/label&gt;\n&lt;input type=\"file\" id=\"cv\" name=\"cv\" accept=\".pdf\" required&gt;\n\n\nSubmit Application"
+  },
+  {
+    "objectID": "quarto-apply-mentors.html#selection-process",
+    "href": "quarto-apply-mentors.html#selection-process",
+    "title": "Apply as a Mentor",
+    "section": "Selection Process",
+    "text": "Selection Process\n\nApplication Review\nExperience Verification\nInterview with Program Coordinators\nFinal Selection and Onboarding"
+  },
+  {
+    "objectID": "quarto-apply-mentors.html#questions",
+    "href": "quarto-apply-mentors.html#questions",
+    "title": "Apply as a Mentor",
+    "section": "Questions?",
+    "text": "Questions?\nFor questions about mentoring or the application process:\n\nReview our FAQ section\nContact the mentor coordinator at [email]"
+  },
+  {
+    "objectID": "quarto-apply-champions.html",
+    "href": "quarto-apply-champions.html",
+    "title": "Apply as a Champion",
+    "section": "",
+    "text": "Application Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nProgram start: [Date]"
+  },
+  {
+    "objectID": "quarto-apply-champions.html#champion-application",
+    "href": "quarto-apply-champions.html#champion-application",
+    "title": "Apply as a Champion",
+    "section": "",
+    "text": "Application Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nProgram start: [Date]"
+  },
+  {
+    "objectID": "quarto-apply-champions.html#requirements",
+    "href": "quarto-apply-champions.html#requirements",
+    "title": "Apply as a Champion",
+    "section": "Requirements",
+    "text": "Requirements\nBefore applying, please ensure you meet the following requirements:\n\nIntermediate R programming skills\nBasic understanding of version control (Git)\nInterest in open science and reproducible research\nCommitment to attend weekly sessions and complete assignments\nTime availability of 5-7 hours per week for 6 months"
+  },
+  {
+    "objectID": "quarto-apply-champions.html#what-were-looking-for",
+    "href": "quarto-apply-champions.html#what-were-looking-for",
+    "title": "Apply as a Champion",
+    "section": "What We’re Looking For",
+    "text": "What We’re Looking For\nIdeal candidates will demonstrate:\n\nMotivation to contribute to open source scientific software\nInterest in community engagement and peer learning\nCommitment to open science principles\nWillingness to learn and share knowledge"
+  },
+  {
+    "objectID": "quarto-apply-champions.html#application-process",
+    "href": "quarto-apply-champions.html#application-process",
+    "title": "Apply as a Champion",
+    "section": "Application Process",
+    "text": "Application Process\n\nReview Program Details\n\nRead through the program overview\nCheck the program timeline and commitments\nReview the FAQ section\n\nPrepare Required Information\n\nCurrent CV/Resume\nGitHub profile\nR programming experience description\nProject idea outline\n\nComplete Application Form\n\n\n\n\n&lt;label for=\"name\"&gt;Full Name *&lt;/label&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\"&gt;Email Address *&lt;/label&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"github\"&gt;GitHub Username *&lt;/label&gt;\n&lt;input type=\"text\" id=\"github\" name=\"github\" required&gt;\n\n\n&lt;label for=\"experience\"&gt;R Programming Experience *&lt;/label&gt;\n&lt;textarea id=\"experience\" name=\"experience\" rows=\"4\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"motivation\"&gt;Motivation Statement *&lt;/label&gt;\n&lt;textarea id=\"motivation\" name=\"motivation\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"project\"&gt;Project Idea Description *&lt;/label&gt;\n&lt;textarea id=\"project\" name=\"project\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"cv\"&gt;Upload CV/Resume (PDF) *&lt;/label&gt;\n&lt;input type=\"file\" id=\"cv\" name=\"cv\" accept=\".pdf\" required&gt;\n\n\nSubmit Application"
+  },
+  {
+    "objectID": "quarto-apply-champions.html#selection-process",
+    "href": "quarto-apply-champions.html#selection-process",
+    "title": "Apply as a Champion",
+    "section": "Selection Process",
+    "text": "Selection Process\n\nApplication Review (2-3 weeks)\nInitial Screening\nShort Interview with Program Team\nFinal Selection"
+  },
+  {
+    "objectID": "quarto-apply-champions.html#questions",
+    "href": "quarto-apply-champions.html#questions",
+    "title": "Apply as a Champion",
+    "section": "Questions?",
+    "text": "Questions?\nIf you have any questions about the application process, please:\n\nCheck our FAQ section\nContact us at [program email]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Visión general del Programa",
+    "section": "",
+    "text": "If there are people that use and teach R, there are several initiatives working on “making” R multilingual:\n\nMultilingual books and websites: https://ropensci.org/multilingual-publishing/\nMultilingual help: https://ropensci.org/blog/2024/07/09/multilingual-documentation-wg/\nMultilingual error messages: https://developer.r-project.org/TranslationTeams.html\nMultilingual functions and packages: https://ropensci.org/events/r-en-rosario-champions/"
+  },
+  {
+    "objectID": "program/training.html",
+    "href": "program/training.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "program/projects.html",
+    "href": "program/projects.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "program/outreach.html",
+    "href": "program/outreach.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "program/completion.html",
+    "href": "program/completion.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "resources/training.html",
+    "href": "resources/training.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "resources/agenda.html",
+    "href": "resources/agenda.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "resources/faq.html",
+    "href": "resources/faq.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "champions/index.html",
+    "href": "champions/index.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "mentors/index.html",
+    "href": "mentors/index.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "mentors/apply.html",
+    "href": "mentors/apply.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Join the Program",
+      "About"
+    ]
+  },
+  {
+    "objectID": "champions/apply.html",
+    "href": "champions/apply.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Join the Program",
+      "About"
+    ]
+  }
+]

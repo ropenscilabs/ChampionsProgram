@@ -1,0 +1,101 @@
+---
+title: "Apply as a Champion"
+---
+
+## Champion Application
+
+::: {.callout-important}
+## Application Timeline
+- Applications open: [Date]
+- Application deadline: [Date]
+- Program start: [Date]
+:::
+
+## Requirements
+
+Before applying, please ensure you meet the following requirements:
+
+- Intermediate R programming skills
+- Basic understanding of version control (Git)
+- Interest in open science and reproducible research
+- Commitment to attend weekly sessions and complete assignments
+- Time availability of 5-7 hours per week for 6 months
+
+## What We're Looking For
+
+Ideal candidates will demonstrate:
+
+- Motivation to contribute to open source scientific software
+- Interest in community engagement and peer learning
+- Commitment to open science principles
+- Willingness to learn and share knowledge
+
+## Application Process
+
+1. **Review Program Details**
+   - Read through the program overview
+   - Check the program timeline and commitments
+   - Review the FAQ section
+
+2. **Prepare Required Information**
+   - Current CV/Resume
+   - GitHub profile
+   - R programming experience description
+   - Project idea outline
+
+3. **Complete Application Form**
+
+::: {.application-form}
+<form action="https://formspree.io/f/your-form-id" method="POST">
+  <div class="form-group">
+    <label for="name">Full Name *</label>
+    <input type="text" id="name" name="name" required>
+  </div>
+
+  <div class="form-group">
+    <label for="email">Email Address *</label>
+    <input type="email" id="email" name="email" required>
+  </div>
+
+  <div class="form-group">
+    <label for="github">GitHub Username *</label>
+    <input type="text" id="github" name="github" required>
+  </div>
+
+  <div class="form-group">
+    <label for="experience">R Programming Experience *</label>
+    <textarea id="experience" name="experience" rows="4" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="motivation">Motivation Statement *</label>
+    <textarea id="motivation" name="motivation" rows="6" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="project">Project Idea Description *</label>
+    <textarea id="project" name="project" rows="6" required></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="cv">Upload CV/Resume (PDF) *</label>
+    <input type="file" id="cv" name="cv" accept=".pdf" required>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit Application</button>
+</form>
+:::
+
+## Selection Process
+
+1. Application Review (2-3 weeks)
+2. Initial Screening
+3. Short Interview with Program Team
+4. Final Selection
+
+## Questions?
+
+If you have any questions about the application process, please:
+
+1. Check our [FAQ section](../resources/faq.qmd)
+2. Contact us at [program email]
