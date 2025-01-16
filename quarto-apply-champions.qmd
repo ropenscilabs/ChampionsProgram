@@ -1,5 +1,5 @@
 ---
-title: "Apply as a Champion"
+title: "Aplica para ser Campeon/a"
 ---
 
 ## Champion Application
@@ -45,46 +45,7 @@ Ideal candidates will demonstrate:
 
 3. **Complete Application Form**
 
-::: {.application-form}
-<form action="https://formspree.io/f/your-form-id" method="POST">
-  <div class="form-group">
-    <label for="name">Full Name *</label>
-    <input type="text" id="name" name="name" required>
-  </div>
 
-  <div class="form-group">
-    <label for="email">Email Address *</label>
-    <input type="email" id="email" name="email" required>
-  </div>
-
-  <div class="form-group">
-    <label for="github">GitHub Username *</label>
-    <input type="text" id="github" name="github" required>
-  </div>
-
-  <div class="form-group">
-    <label for="experience">R Programming Experience *</label>
-    <textarea id="experience" name="experience" rows="4" required></textarea>
-  </div>
-
-  <div class="form-group">
-    <label for="motivation">Motivation Statement *</label>
-    <textarea id="motivation" name="motivation" rows="6" required></textarea>
-  </div>
-
-  <div class="form-group">
-    <label for="project">Project Idea Description *</label>
-    <textarea id="project" name="project" rows="6" required></textarea>
-  </div>
-
-  <div class="form-group">
-    <label for="cv">Upload CV/Resume (PDF) *</label>
-    <input type="file" id="cv" name="cv" accept=".pdf" required>
-  </div>
-
-  <button type="submit" class="btn btn-primary">Submit Application</button>
-</form>
-:::
 
 ## Selection Process
 

@@ -107,49 +107,49 @@
   {
     "objectID": "quarto-apply-champions.html",
     "href": "quarto-apply-champions.html",
-    "title": "Apply as a Champion",
+    "title": "Aplica para ser Campeon/a",
     "section": "",
     "text": "Application Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nProgram start: [Date]"
   },
   {
     "objectID": "quarto-apply-champions.html#champion-application",
     "href": "quarto-apply-champions.html#champion-application",
-    "title": "Apply as a Champion",
+    "title": "Aplica para ser Campeon/a",
     "section": "",
     "text": "Application Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nProgram start: [Date]"
   },
   {
     "objectID": "quarto-apply-champions.html#requirements",
     "href": "quarto-apply-champions.html#requirements",
-    "title": "Apply as a Champion",
+    "title": "Aplica para ser Campeon/a",
     "section": "Requirements",
     "text": "Requirements\nBefore applying, please ensure you meet the following requirements:\n\nIntermediate R programming skills\nBasic understanding of version control (Git)\nInterest in open science and reproducible research\nCommitment to attend weekly sessions and complete assignments\nTime availability of 5-7 hours per week for 6 months"
   },
   {
     "objectID": "quarto-apply-champions.html#what-were-looking-for",
     "href": "quarto-apply-champions.html#what-were-looking-for",
-    "title": "Apply as a Champion",
+    "title": "Aplica para ser Campeon/a",
     "section": "What We’re Looking For",
     "text": "What We’re Looking For\nIdeal candidates will demonstrate:\n\nMotivation to contribute to open source scientific software\nInterest in community engagement and peer learning\nCommitment to open science principles\nWillingness to learn and share knowledge"
   },
   {
     "objectID": "quarto-apply-champions.html#application-process",
     "href": "quarto-apply-champions.html#application-process",
-    "title": "Apply as a Champion",
+    "title": "Aplica para ser Campeon/a",
     "section": "Application Process",
-    "text": "Application Process\n\nReview Program Details\n\nRead through the program overview\nCheck the program timeline and commitments\nReview the FAQ section\n\nPrepare Required Information\n\nCurrent CV/Resume\nGitHub profile\nR programming experience description\nProject idea outline\n\nComplete Application Form\n\n\n\n\n&lt;label for=\"name\"&gt;Full Name *&lt;/label&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\"&gt;Email Address *&lt;/label&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"github\"&gt;GitHub Username *&lt;/label&gt;\n&lt;input type=\"text\" id=\"github\" name=\"github\" required&gt;\n\n\n&lt;label for=\"experience\"&gt;R Programming Experience *&lt;/label&gt;\n&lt;textarea id=\"experience\" name=\"experience\" rows=\"4\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"motivation\"&gt;Motivation Statement *&lt;/label&gt;\n&lt;textarea id=\"motivation\" name=\"motivation\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"project\"&gt;Project Idea Description *&lt;/label&gt;\n&lt;textarea id=\"project\" name=\"project\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"cv\"&gt;Upload CV/Resume (PDF) *&lt;/label&gt;\n&lt;input type=\"file\" id=\"cv\" name=\"cv\" accept=\".pdf\" required&gt;\n\n\nSubmit Application"
+    "text": "Application Process\n\nReview Program Details\n\nRead through the program overview\nCheck the program timeline and commitments\nReview the FAQ section\n\nPrepare Required Information\n\nCurrent CV/Resume\nGitHub profile\nR programming experience description\nProject idea outline\n\nComplete Application Form"
   },
   {
     "objectID": "quarto-apply-champions.html#selection-process",
     "href": "quarto-apply-champions.html#selection-process",
-    "title": "Apply as a Champion",
+    "title": "Aplica para ser Campeon/a",
     "section": "Selection Process",
     "text": "Selection Process\n\nApplication Review (2-3 weeks)\nInitial Screening\nShort Interview with Program Team\nFinal Selection"
   },
   {
     "objectID": "quarto-apply-champions.html#questions",
     "href": "quarto-apply-champions.html#questions",
-    "title": "Apply as a Champion",
+    "title": "Aplica para ser Campeon/a",
     "section": "Questions?",
     "text": "Questions?\nIf you have any questions about the application process, please:\n\nCheck our FAQ section\nContact us at [program email]"
   },

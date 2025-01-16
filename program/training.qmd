@@ -9,4 +9,12 @@ Se compone de tres ejes de contenido:
 * Revision por pares de software de investigacion
 * Gestion de comunidades
 
+Cada eje de contenido tiene varios talleres de entre una y dos hora de duracion 
+que se dictan semanalmente. 
+
+## Desarrollo de software de investigacion
+
+Tiene como objetivo introducir a los participantes en las buenas practicas de desarrollo de software de investigacion.
+
+* [Taller 1: ]()
 
