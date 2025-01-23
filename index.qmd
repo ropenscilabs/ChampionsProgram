@@ -1,13 +1,29 @@
 ---
-title: "Visión general del Programa"
+title: Te damos la bienvenida al Programa de Campeon(a|e)s de rOpenSci
 ---
+
+::: {.hero-banner}
+
+::: {.content-block}
+
+::: {.hero-text}
+
 
 Nuestro programa de Campeon(a|e)s fue lanzado en 2022. 
 
-Está diseñado para ayudar a personas de grupos subrepresentados a participar en la ciencia abierta, 
+Está diseñado para ayudar a personas de grupos con bja representación a participar en la ciencia abierta, 
 la ingeniería de software de investigación y la comunidad de programación R. 
 A lo largo de 12 meses, las personas participantes reciben formación, 
 tutoría individual y participan en diversas actividades de construcción de comunidad. 
+
+::: {.hero-buttons}
+[Aplicar como Campeon/a](/docs/get-started/index.qmd){.btn .btn-primary role="button"}
+[Aplicar como Mentor/a](/docs/guide/){.btn .btn-primary role="button"}
+::: 
+:::
+
+:::
+:::
 
 Tambien deben desarrollar un proyecto como la creación de nuevos paquetes R 
 o la participación en el proceso de revisión por pares de rOpenSci que les enseña las mejores prácticas para desarrollar y compartir software de investigación y les invita a formar parte de una comunidad internacional.

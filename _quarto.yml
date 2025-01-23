@@ -4,35 +4,36 @@ project:
   output-dir: docs
 
 website:
-  title: "Programa de Campeon(a|e)s de rOpenSci"
+  title: "rOpenSci"
   navbar:
     background: primary
     search: true
     left:
       - text: "Inicio"
         file: index.qmd
-      - text: "Vision general"
-        menu:
-          - text: "Entrenamiento"
-            file: program/training.qmd
-          - text: "Proyectos"
-            file: program/projects.qmd
-          - text: "Divulgacion"
-            file: program/outreach.qmd
-          - text: "Finalización del programa"
-            file: program/completion.qmd
+      # - text: ""
+        # menu:
+        #   - text: "Entrenamiento"
+        #     file: program/training.qmd
+        #   - text: "Proyectos"
+        #     file: program/projects.qmd
+        #   - text: "Divulgacion"
+        #     file: program/outreach.qmd
+        #   - text: "Finalización del programa"
+        #     file: program/completion.qmd
       - text: "Campeon(a|e)s"
-        menu:
-          - text: "Resumen"
-            file: champions/index.qmd
-          - text: "Aplicar"
-            file: champions/apply.qmd
+        file: champions/index.qmd
+        # menu:
+        #   - text: "Resumen"
+        #     file: champions/index.qmd
+        #   - text: "Aplicar"
+        #     file: champions/apply.qmd
       - text: "Mentor(a|e)s"
-        menu:
-          - text: "Resumen"
-            file: mentors/index.qmd
-          - text: "Aplicar"
-            file: mentors/apply.qmd
+        file: mentors/index.qmd
+        # menu:
+        #   - text: "Resumen"
+        #   - text: "Aplicar"
+        #     file: mentors/apply.qmd
       # - text: "For Instructors"
       #   menu:
       #     - text: "Overview"
@@ -40,29 +41,30 @@ website:
       #     - text: "Apply as Instructor"
       #       file: instructors/apply.qmd
       - text: "Recursos"
-        menu:
-          - text: "Materiales de capacitacion"
-            file: resources/training.qmd
-          - text: "Agenda"
-            file: resources/agenda.qmd
-          - text: "FAQ"
-            file: resources/faq.qmd
+        file: resources/resources.qmd
+        # menu:
+        #   - text: "Materiales de capacitacion"
+        #     file: resources/training.qmd
+        #   - text: "Agenda"
+        #     file: resources/agenda.qmd
+        #   - text: "FAQ"
+        #     file: resources/faq.qmd
 
   sidebar:
-    - title: "Applications"
+    - title: "Aplicar"
       contents:
-        - section: "Join the Program"
+        - section: "Se parte del programa"
           contents:
             - champions/apply.qmd
             - mentors/apply.qmd
             - instructors/apply.qmd
-    - title: "Program Overview"
+    - title: "El Programa"
       contents:
         - program/training.qmd
         - program/projects.qmd
         - program/outreach.qmd
         - program/completion.qmd
-    - title: "Resources"
+    - title: "Recursos"
       contents:
         - resources/training.qmd
         - resources/agenda.qmd
@@ -70,8 +72,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+#    theme: cosmo
+    css: ropensci.css
     toc: true
 
 
