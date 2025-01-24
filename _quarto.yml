@@ -11,68 +11,37 @@ website:
     left:
       - text: "Inicio"
         file: index.qmd
-      # - text: ""
-        # menu:
-        #   - text: "Entrenamiento"
-        #     file: program/training.qmd
-        #   - text: "Proyectos"
-        #     file: program/projects.qmd
-        #   - text: "Divulgacion"
-        #     file: program/outreach.qmd
-        #   - text: "Finalización del programa"
-        #     file: program/completion.qmd
       - text: "Campeon(a|e)s"
         file: champions/index.qmd
-        # menu:
-        #   - text: "Resumen"
-        #     file: champions/index.qmd
-        #   - text: "Aplicar"
-        #     file: champions/apply.qmd
       - text: "Mentor(a|e)s"
         file: mentors/index.qmd
-        # menu:
-        #   - text: "Resumen"
-        #   - text: "Aplicar"
-        #     file: mentors/apply.qmd
-      # - text: "For Instructors"
-      #   menu:
-      #     - text: "Overview"
-      #       file: instructors/index.qmd
-      #     - text: "Apply as Instructor"
-      #       file: instructors/apply.qmd
       - text: "Recursos"
         file: resources/resources.qmd
-        # menu:
-        #   - text: "Materiales de capacitacion"
-        #     file: resources/training.qmd
-        #   - text: "Agenda"
-        #     file: resources/agenda.qmd
-        #   - text: "FAQ"
-        #     file: resources/faq.qmd
 
-  sidebar:
-    - title: "Aplicar"
-      contents:
-        - section: "Se parte del programa"
-          contents:
-            - champions/apply.qmd
-            - mentors/apply.qmd
-    - title: "El Programa"
-      contents:
-        - program/training.qmd
-        - program/projects.qmd
-        - program/outreach.qmd
-        - program/completion.qmd
-    - title: "Recursos"
-      contents:
-        - resources/training.qmd
-        - resources/agenda.qmd
-        - resources/faq.qmd
+  # sidebar:
+  #   - title: "Aplicar"
+  #     contents:
+  #       - section: "Se parte del programa"
+  #         contents:
+  #           - champions/apply.qmd
+  #           - mentors/apply.qmd
+  #   - title: "El Programa"
+  #     contents:
+  #       - program/training.qmd
+  #       - program/projects.qmd
+  #       - program/outreach.qmd
+  #       - program/completion.qmd
+  #   - title: "Recursos"
+  #     contents:
+  #       - resources/training.qmd
+  #       - resources/agenda.qmd
+  #       - resources/faq.qmd
 
 format:
   html:
-    css: css/ropensci.css
-    toc: true
+#    css: css/ropensci.css
+    css: css/extra.scss
+    toc: false
 
 
 

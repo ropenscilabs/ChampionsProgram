@@ -1,51 +1,46 @@
----
-title: ""
----
 
-::: {.hero}
-
-::: {.container}
-
-::: {.hero-body}
-
-::: {.hero-title}
-
-# Te damos la bienvenida al Programa de Campeon(a|e)s de rOpenSci
-
+::: {.hero-title style="color: #4177ca"}
+# Te damos la bienvenida al Programa de Campeon(a\|e)s de rOpenSci
 :::
 
-Nuestro programa de Campeon(a|e)s busca **identificar**, **reconocer** y **premiar** a las personas **líderes** en una comunidad relacionada con la ciencia abierta, 
-la ingeniería de software de investigación y 
-la comunidad de programación R. 
 
-A lo largo de 12 meses, las personas participantes reciben formación, 
-tutoría individual, un estipendio anual y participan en diversas 
-actividades de construcción y fortalecimiento de comunidades. 
+::: {.subtitle style="color: gray-dark"}
+Nuestro programa busca **identificar**, **reconocer** y **premiar** a las personas **líderes** en una comunidad relacionada con la ciencia abierta, la ingeniería de software de investigación y la comunidad de programación R.
 
-::: {.hero-buttons}
-
-[Aplicar como Campeon/a](/champions/apply.qmd){.btn .btn-primary role="button"}
-[Aplicar como Mentor/a](/mentors/apply.qmd){.btn .btn-primary role="button"}
-
+Durante 2025 y 2026 el programa realizará dos cohortes centradas en América Latina y en español.
 :::
 
+### ¡Ya está abierto el llamado para la cohorte 2025! 
+
+::: hero-buttons
+[Aplicar como Campeon/a](/champions/apply.qmd){.btn .btn-primary role="button"} [Aplicar como Mentor/a](/mentors/apply.qmd){.btn .btn-primary role="button"}
 :::
-::: 
-::: 
 
 
-Tambien deben desarrollar un proyecto como la creación de nuevos paquetes R 
-o la participación en el proceso de revisión por pares de rOpenSci que les enseña las mejores prácticas para desarrollar y compartir software de investigación y les invita a formar parte de una comunidad internacional.
+::: {.content-block}
+::: {.features}
 
-Al final del programa, los participantes pueden elegir cómo quieren retribuir 
-a sus propias comunidades e instituciones, ya sea a través de la divulgación, 
-la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigacion.
+::: {.feature}
+### Proyectos
+Tambien deben desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci que les enseña las mejores prácticas para desarrollar y compartir software de investigación y les invita a formar parte de una comunidad internacional.
 
-Cuando terminan, están plenamente integrados en la comunidad de rOpenSci, 
-que les proporciona apoyo continuo y oportunidades de crecimiento.
+::: {.learn-more}
+[Learn more »](/docs/computations/python.qmd)
+:::
+:::
+:::
+:::
 
-Durante los proximos dos años, el programa tendra cohortes centradas en América Latina y
-que se realizaran completamente en español.
+A lo largo de 12 meses, quienes participan reciben formación, tutoría individual para el desarrollo de un proyecto de software libre, un estipendio anual y participan en diversas actividades de construcción y fortalecimiento de comunidades.
 
-El foco de estas cohortes será fomentar el software de investigación sostenible como pilar 
-de la Ciencia Abierta en América Latina mediante el desarrollo de capacidades y comunidad.
+
+
+Al final del programa, los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la divulgación, la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigacion.
+
+Cuando terminan, están plenamente integrados en la comunidad de rOpenSci, que les proporciona apoyo continuo y oportunidades de crecimiento.
+
+Durante los proximos dos años, el programa tendra cohortes centradas en América Latina y que se realizaran completamente en español.
+
+El foco de estas cohortes será fomentar el software de investigación sostenible como pilar de la Ciencia Abierta en América Latina mediante el desarrollo de capacidades y comunidad.
+
+:::

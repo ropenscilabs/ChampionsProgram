@@ -158,7 +158,7 @@
     "href": "index.html",
     "title": "Te damos la bienvenida al Programa de Campeon(a|e)s de rOpenSci",
     "section": "",
-    "text": "Te damos la bienvenida al Programa de Campeon(a|e)s de rOpenSci\n\nNuestro programa de Campeon(a|e)s está diseñado para ayudar a personas de grupos con bja representación a participar en la ciencia abierta, la ingeniería de software de investigación y la comunidad de programación R.\nA lo largo de 12 meses, las personas participantes reciben formación, tutoría individual y participan en diversas actividades de construcción de comunidad.\n\nAplicar como Campeon/a Aplicar como Mentor/a\n\n\n\n\nTambien deben desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci que les enseña las mejores prácticas para desarrollar y compartir software de investigación y les invita a formar parte de una comunidad internacional.\nAl final del programa, los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la divulgación, la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigacion.\nCuando terminan, están plenamente integrados en la comunidad de rOpenSci, que les proporciona apoyo continuo y oportunidades de crecimiento.\nDurante los proximos dos años, el programa tendra cohortes centradas en América Latina y que se realizaran completamente en español.\nEl foco de estas cohortes será fomentar el software de investigación sostenible como pilar de la Ciencia Abierta en América Latina mediante el desarrollo de capacidades y comunidad."
+    "text": "Te damos la bienvenida al Programa de Campeon(a|e)s de rOpenSci\n\n\nNuestro programa busca identificar, reconocer y premiar a las personas líderes en una comunidad relacionada con la ciencia abierta, la ingeniería de software de investigación y la comunidad de programación R.\nDurante 2025 y 2026 el programa realizará dos cohortes centradas en América Latina y en español.\n\n\n¡Ya está abierto el llamado para la cohorte 2025!\n\nAplicar como Campeon/a Aplicar como Mentor/a\n\n\n\n\n\nProyectos\nTambien deben desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci que les enseña las mejores prácticas para desarrollar y compartir software de investigación y les invita a formar parte de una comunidad internacional.\n\nLearn more »\n\n\n\n\nA lo largo de 12 meses, quienes participan reciben formación, tutoría individual para el desarrollo de un proyecto de software libre, un estipendio anual y participan en diversas actividades de construcción y fortalecimiento de comunidades.\nAl final del programa, los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la divulgación, la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigacion.\nCuando terminan, están plenamente integrados en la comunidad de rOpenSci, que les proporciona apoyo continuo y oportunidades de crecimiento.\nDurante los proximos dos años, el programa tendra cohortes centradas en América Latina y que se realizaran completamente en español.\nEl foco de estas cohortes será fomentar el software de investigación sostenible como pilar de la Ciencia Abierta en América Latina mediante el desarrollo de capacidades y comunidad.\n:::"
   },
   {
     "objectID": "program/training.html",
@@ -260,11 +260,7 @@
     "href": "champions/apply.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "Se parte del programa",
-      "About"
-    ]
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "champions/champions_template.html",
@@ -590,5 +586,12 @@
     "title": "Programa de Campeon(a|e)s de rOpenSci",
     "section": "Motivación",
     "text": "Motivación\n\n¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? Por favor, responde en un máximo de 200 palabras.\n¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? Por favor, responde en un máximo de 200 palabras.\n¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? Por favor, explícalo en un máximo de 400 palabras.\nPor favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. Por favor, responde en un máximo de 200 palabras."
+  },
+  {
+    "objectID": "index.html#durante-2025-y-2026-el-programa-realizará-dos-cohortes-en-américa-latina-y-en-español.",
+    "href": "index.html#durante-2025-y-2026-el-programa-realizará-dos-cohortes-en-américa-latina-y-en-español.",
+    "title": "Te damos la bienvenida al Programa de Campeon(a|e)s de rOpenSci",
+    "section": "",
+    "text": "Aplicar como Campeon/a Aplicar como Mentor/a"
   }
 ]
