@@ -186,12 +186,36 @@ main h1 img {
   max-width: 120px;
 }
 
+/*Hero*/
+
+.hero {
+  position: relative;
+  background-color: rgb(240,245,249);
+  display: flex;
+  justify-content: center;
+}
+
+.hero-title h3 {
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+
+.hero-text {
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+
+/* Content blocks*/
+
 .content-block {
   padding-top: 20px;
   padding-bottom: 10px;
   margin-left: 30px;
   margin-right: 30px;
 }
+
+
+/*Cards for features of the program*/
 
 .features {
   padding-bottom: 2em;

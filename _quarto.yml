@@ -17,6 +17,8 @@ website:
         file: mentors/index.qmd
       - text: "Recursos"
         file: resources/resources.qmd
+      - text: "FAQs"
+        file: resources/faq.qmd
 
   # sidebar:
   #   - title: "Aplicar"

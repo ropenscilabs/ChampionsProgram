@@ -1,21 +1,27 @@
 
+::: {.hero}
+::: {.content-block}
+
 ::: {.hero-title style="color: #4177ca"}
-# Te damos la bienvenida al Programa de Campeon(a\|e)s de rOpenSci
+# Programa de Campeon(a|e)s de rOpenSci
 :::
 
-
-::: {.subtitle style="color: gray-dark"}
-Nuestro programa busca **identificar**, **reconocer** y **premiar** a las personas **líderes** en una comunidad relacionada con la ciencia abierta, la ingeniería de software de investigación y la comunidad de programación R.
-
-Durante 2025 y 2026 el programa realizará dos cohortes centradas en América Latina y en español.
+::: {..hero-title}
+### Forma parte del programa y súmate a una comunidad global de personas que usan y desarrollan software cientifico y abierto  
 :::
 
-### ¡Ya está abierto el llamado para la cohorte 2025! 
+::: {.hero-text}
+Nuestro programa busca **identificar**, **reconocer** y **premiar** a las personas **líderes** en una comunidad de ciencia abierta, ingeniería de software de investigación y la comunidad de programación R.
+
+Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de expertos y o, interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en su lugar en el mundo. 
+
 
 ::: hero-buttons
 [Aplicar como Campeon/a](/champions/apply.qmd){.btn .btn-primary role="button"} [Aplicar como Mentor/a](/mentors/apply.qmd){.btn .btn-primary role="button"}
 :::
-
+:::
+:::
+:::
 
 ::: {.content-block}
 ::: {.features}
