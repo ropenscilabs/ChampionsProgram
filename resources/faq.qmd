@@ -2,7 +2,7 @@
 title: "Preguntas frecuentes"
 ---
 
-## Aplicar para campeon/a
+## Si quiero ser campeón-a
 
 #### No tengo mi propio paquete en el que trabajar, ¿puedo presentarme con el paquete de otra persona?
 
@@ -50,3 +50,25 @@ El programa está diseñado para personas que ya tienen experiencia en R. Espera
 #### Tengo un paquete que está en revisión en CRAN, ¿qué opción debo elegir?
 
 Si quiere trabajar en ese paquete durante el programa, la opción que debe elegir es «Someter su paquete al proceso de revisión por pares». Sin embargo, generalmente aconsejamos a la gente que pase primero por nuestra revisión y *luego* envíe el paquete a CRAN.
+
+
+## Si quierso ser mentor-a
+
+#### ¿Se paga a los mentores? 
+
+Si, los mentores reciben un pequeño estipendio por su participación en el programa.
+
+#### ¿De cuántas personas seré tutor-a? 
+
+Solo una. Las mentorias son individuales. 
+
+#### ¿Se forma a los mentores?
+
+Sí, ofrecemos formación a las personas que serán mentores sobre cómo realizar esta tarea y sobre la logística del programa. También ofrecemos una guía y recursos para la tarea de mentoría.
+
+#### ¿Voy a poder dar mi opinión sobre los proyectos de los campenes-as?
+
+Sí, esperamos que hagas la revision y seleccion final del listado de campeones y campenas que participaran en el programa.  Tambien podras seleccionar hasta tres proyectos que te gustaria apoyar en el programa.
+Intentaremos que puedas trabajar con uno de esos proyectos que seleccionaste.
+
+
