@@ -62,6 +62,40 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 :::
 :::
 
+::: {.content-block }
+::: {.features .grey-border}
+
+::: {.feature-two}
+### El programa de un vistazo
+
+- **Duración**: 12 meses
+- **Fechas**: Junio 2025 a Junio 2026
+- **Estipendio**: $500 USD
+- **Idioma**: Español
+- **Cohortes**: una por año 
+- **Formato entrenamiento**: online
+- **Nivel entrenamiento**: básico a intermedio.
+- **Mentoria**: individual
+- **Proyectos**: desarrollo de un paquete, revisión de un paquete.
+:::
+
+::: {.feature-two}
+### Quienes pueden aplicar
+
+- **Perfil**: investigadores, desarrolladores, estudiantes en carreras STEAM.
+- **Región**: tienen que ser o trabajar en América Latina.
+- **Requisitos**: 
+  - conocimientos básicos de GitHub e intermedios de R.
+  - disponer de 16 horas mensuales para dedicar al programa.
+  - tener una idea solida de proyecto de software libre.
+
+:::
+:::
+:::
+
+::: {.content-block }
+
+
 A lo largo de 12 meses, quienes participan reciben formación, tutoría individual para el desarrollo de un proyecto de software libre, un estipendio anual y participan en diversas actividades de construcción y fortalecimiento de comunidades.
 
 Tambien deben desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci que les enseña las mejores prácticas para desarrollar y compartir software de investigación y les invita a formar parte de una comunidad internacional
@@ -73,6 +107,8 @@ Cuando terminan, están plenamente integrados en la comunidad de rOpenSci, que l
 Durante los proximos dos años, el programa tendra cohortes centradas en América Latina y que se realizaran completamente en español.
 
 El foco de estas cohortes será fomentar el software de investigación sostenible como pilar de la Ciencia Abierta en América Latina mediante el desarrollo de capacidades y comunidad.
+
+:::
 
 ::: {.footer}
 ::: 

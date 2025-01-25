@@ -219,6 +219,11 @@ main h1 img {
   border-bottom: 1px solid #dee2e6;
 }
 
+.feature-two {
+  width: calc(50% - 30px);
+  margin: 20px 0 0 30px;
+}
+
 /*Cards for features of the program*/
 
 .features {
