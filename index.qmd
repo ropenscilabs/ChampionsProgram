@@ -4,111 +4,102 @@ section-divs: false
 editor: source
 ---
 
-::: {.hero .grey-border}
-::: {.content-block}
-
+:::::::: {.hero .grey-border}
+::::::: content-block
 ::: {.hero-title style="color: #4177ca"}
-# Programa de Campeon(a|e)s de rOpenSci
+# Programa de Campeon(a\|e)s de rOpenSci
 :::
 
 ::: {..hero-title}
-### Forma parte del programa y súmate a una comunidad global de personas que usan y desarrollan software cientifico y abierto  
+### Forma parte del programa y súmate a una comunidad global de personas que usan y desarrollan software cientifico y abierto
 :::
 
-::: {.hero-text}
+:::: hero-text
 Nuestro programa busca **identificar**, **reconocer** y **premiar** a las personas **líderes** en una comunidad de ciencia abierta, ingeniería de software de investigación y la comunidad de programación R.
 
-Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de expertos, interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo. 
-
+Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de expertos, interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo.
 
 ::: hero-buttons
 [Aplicar como Campeon/a](/champions/apply.qmd){.btn .btn-primary role="button"} [Aplicar como Mentor/a](/mentors/apply.qmd){.btn .btn-primary role="button"}
 :::
-:::
-:::
-:::
+::::
+:::::::
+::::::::
 
-
-::: {.content-block }
-::: {.features}
-
-::: {.feature}
+:::::::::: content-block
+::::::::: features
+:::: feature
 ### Formación
+
 Los participantes reciben capacitacion en la práctica de la ciencia abierta, la ingeniería de software de investigación, la programación en R y la creación y gestión de comunidades.
 
-::: {.learn-more}
+::: learn-more
 [Leer más »](.qmd)
 :::
-:::
+::::
 
-::: {.feature}
+:::: feature
 ### Proyectos
+
 Los participantes desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci, ya sea para revisar o para que su paquete sea revisado.
 
-::: {.learn-more}
+::: learn-more
 [Leer más »](.qmd)
 :::
-:::
+::::
 
-::: {.feature}
+:::: feature
 ### Divulgación
+
 Los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigacion.
 
-::: {.learn-more}
+::: learn-more
 [Leer más »](.qmd)
 :::
-:::
+::::
+:::::::::
+::::::::::
 
-:::
-:::
-
-::: {.content-block }
-::: {.features .grey-border}
-
-::: {.feature-two}
+:::::: content-block
+::::: {.features style="border-top: 1px solid #dee2e6"}
+::: feature-two
 ### El programa de un vistazo
 
-- **Duración**: 12 meses
-- **Fechas**: Junio 2025 a Junio 2026
-- **Estipendio**: $500 USD
-- **Idioma**: Español
-- **Cohortes**: una por año 
-- **Formato entrenamiento**: online
-- **Nivel entrenamiento**: básico a intermedio.
-- **Mentoria**: individual
-- **Proyectos**: desarrollo de un paquete, revisión de un paquete.
+-   **Duración**: 12 meses
+-   **Etapas**: entrenamiento, mentoria y desarrollo del proyecto, divulgación.
+-   **Fechas**: La cohorte tres inicia en Junio 2025 y termina en Junio 2026
+-   **Estipendio**: \$500 USD
+-   **Idioma**: Español
+-   **Cohortes**: entre seis a diez participantes.
+-   **Formato del entrenamiento**: online
+-   **Mentoria**: individual
+-   **Proyectos**: desarrollo de un paquete, revisión de un paquete.
 :::
 
-::: {.feature-two}
+::: feature-two
 ### Quienes pueden aplicar
 
-- **Perfil**: investigadores, desarrolladores, estudiantes en carreras STEAM.
-- **Región**: tienen que ser o trabajar en América Latina.
-- **Requisitos**: 
-  - conocimientos básicos de GitHub e intermedios de R.
-  - disponer de 16 horas mensuales para dedicar al programa.
-  - tener una idea solida de proyecto de software libre.
-
+-   **Perfil**: personas que desarrollan software libre utilizando el lenguaje de programacion R y son latinoamericanos o trabajan en America Latina.
+-   **Región**: tienen que ser de o trabajar en América Latina.
+-   **Requisitos**:
+    -   Ya tienen conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete que les gustaría desarrollar, o
+    -   Ya ha desarrollado un paquete que está dentro del [alcance de rOpenSci](https://devguide.ropensci.org/es/softwarereview_policies.es.html#aims-and-scope), y quiere que sea [revisado por pares](/es/software-review/) a través de rOpenSci, o
+    -   Quiere [revisar paquetes para rOpenSci](https://devguide.ropensci.org/es/softwarereview_reviewer.es.html) y
+    -   Tienen conocimientos básicos de comunicación en español (escrita y verbal).
 :::
-:::
-:::
+:::::
+::::::
 
-::: {.content-block }
-
-
-A lo largo de 12 meses, quienes participan reciben formación, tutoría individual para el desarrollo de un proyecto de software libre, un estipendio anual y participan en diversas actividades de construcción y fortalecimiento de comunidades.
-
-Tambien deben desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci que les enseña las mejores prácticas para desarrollar y compartir software de investigación y les invita a formar parte de una comunidad internacional
-
-Al final del programa, los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la divulgación, la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigacion.
-
-Cuando terminan, están plenamente integrados en la comunidad de rOpenSci, que les proporciona apoyo continuo y oportunidades de crecimiento.
-
-Durante los proximos dos años, el programa tendra cohortes centradas en América Latina y que se realizaran completamente en español.
-
-El foco de estas cohortes será fomentar el software de investigación sostenible como pilar de la Ciencia Abierta en América Latina mediante el desarrollo de capacidades y comunidad.
-
+::: content-block
 :::
 
-::: {.footer}
-::: 
+::: {.footer style="background: url(https://ropensci.org/images/svg/footer-cube.svg) bottom/contain no-repeat,linear-gradient(94.45deg,#427fd4 1.55%,#64a4ef 98.46%)"}
+
+::: {.img style="margin-left: 30px"}
+![](https://ropensci.org/img/icon_short_white.svg)
+:::
+
+
+rOpenSci is a fiscally sponsored project of [NumFOCUS](http://numfocus.org)
+
+:::
