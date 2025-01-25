@@ -1,5 +1,10 @@
+---
+page-layout: custom
+section-divs: false
+editor: source
+---
 
-::: {.hero}
+::: {.hero .grey-border}
 ::: {.content-block}
 
 ::: {.hero-title style="color: #4177ca"}
@@ -13,7 +18,7 @@
 ::: {.hero-text}
 Nuestro programa busca **identificar**, **reconocer** y **premiar** a las personas **líderes** en una comunidad de ciencia abierta, ingeniería de software de investigación y la comunidad de programación R.
 
-Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de expertos, interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en su lugar en el mundo. 
+Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de expertos, interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo. 
 
 
 ::: hero-buttons
@@ -23,23 +28,43 @@ Es una plataforma increíble para desarrollar tu proyecto de software libre con 
 :::
 :::
 
-::: {.content-block}
+
+::: {.content-block }
 ::: {.features}
 
 ::: {.feature}
-### Proyectos
-Tambien deben desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci que les enseña las mejores prácticas para desarrollar y compartir software de investigación y les invita a formar parte de una comunidad internacional.
+### Formación
+Los participantes reciben capacitacion en la práctica de la ciencia abierta, la ingeniería de software de investigación, la programación en R y la creación y gestión de comunidades.
 
 ::: {.learn-more}
-[Learn more »](/docs/computations/python.qmd)
+[Leer más »](.qmd)
 :::
 :::
+
+::: {.feature}
+### Proyectos
+Los participantes desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci, ya sea para revisar o para que su paquete sea revisado.
+
+::: {.learn-more}
+[Leer más »](.qmd)
+:::
+:::
+
+::: {.feature}
+### Divulgación
+Los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigacion.
+
+::: {.learn-more}
+[Leer más »](.qmd)
+:::
+:::
+
 :::
 :::
 
 A lo largo de 12 meses, quienes participan reciben formación, tutoría individual para el desarrollo de un proyecto de software libre, un estipendio anual y participan en diversas actividades de construcción y fortalecimiento de comunidades.
 
-
+Tambien deben desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci que les enseña las mejores prácticas para desarrollar y compartir software de investigación y les invita a formar parte de una comunidad internacional
 
 Al final del programa, los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la divulgación, la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigacion.
 
@@ -49,3 +74,5 @@ Durante los proximos dos años, el programa tendra cohortes centradas en Améric
 
 El foco de estas cohortes será fomentar el software de investigación sostenible como pilar de la Ciencia Abierta en América Latina mediante el desarrollo de capacidades y comunidad.
 
+::: {.footer}
+::: 

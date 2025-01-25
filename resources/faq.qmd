@@ -1,10 +1,23 @@
 ---
 title: "Preguntas frecuentes"
+toc: true
+toc-location: right
 ---
 
-## Si quiero ser campeón-a
+## Generales
 
-#### No tengo mi propio paquete en el que trabajar, ¿puedo presentarme con el paquete de otra persona?
+### ¿El programa tiene algún coste para los participantes?
+
+No tiene costo en esta convocatoria. 
+Los campeones, mentores e instructores recibirán un estipendio por formar parte del programa una vez que hayan finalizado con sus tareas en el programa.
+
+### ¿Cual es el idioma oficial del programa?
+
+Las dos primeras cohortes fueron en Inglés, pero en esta tercera convocatoria el programa será en Español. Esperamos seguir teniendo cohortes tanto en Inglés como en Español en el futuro.
+
+## Información para Campeon(e|a)s
+
+### No tengo mi propio paquete en el que trabajar, ¿puedo presentarme con el paquete de otra persona?
 
 Si el paquete ya existe, es posible participar enviando el paquete para la [revision por pares](). En este caso, los requisitos serían:
 
@@ -12,63 +25,59 @@ Si el paquete ya existe, es posible participar enviando el paquete para la [revi
 
 2) Compromiso de mantener el paquete durante al menos dos años.
 
-#### ¿El programa tiene algún coste para los participantes?
 
-No tiene costo en esta convocatoria. 
-Los campeones recibirán un pequeño estipendio por formar parte del programa una vez que hayan finalizado con las diferentes fases del proyecto.
-
-#### ¿Podemos presentarnos como equipo?
+### ¿Podemos presentarnos como equipo?
 
 No en esta convocatoria.  Pueden elegir a una persona del equipo que presente su candidatura con el proyecto. 
 
 Tengan en cuenta que si la persona no ha contribuido al paquete anteriormente, 
 tendrá que presentar una nota que indique que forma parte del equipo del paquete y que tiene permiso de las personas que lo mantienen para trabajar en el paquete.
 
-#### ¿Qué significa pertenecer a un grupo histórica y sistemáticamente excluido?
+### ¿Qué significa pertenecer a un grupo histórica y sistemáticamente excluido?
 
 Pertenecer a un grupo histórica y sistemáticamente excluido significa formar parte de una comunidad o identidad que se ha enfrentado durante mucho tiempo a pautas de marginación, discriminación y desventaja. Abarca grupos que han sido históricamente oprimidos, discriminados o a los que se ha negado la igualdad de oportunidades por diversos factores como la raza, la etnia, el género, la orientación sexual, la religión, la discapacidad, el estatus socioeconómico, la ubicación geográfica o cualquier combinación de los mismos.
 
-#### ¿Puedo proponer más de un paquete?
+### ¿Puedo proponer más de un paquete?
 
 El tiempo que requiere el programa sólo te permite trabajar en un paquete. Para ayudarte a decidir cuál proponer en la solicitud, compruebe que el paquete está dentro del [rOpenSci Peer-review scope](https://devguide.ropensci.org/policies.html?q=scope#aims-and-scope) o del [rOpenSci Stats Peer-review scope](https://ropensci.org/software-review/).
 
-#### ¿Puedo cambiar el tipo de proyecto que quiero hacer?
+### ¿Puedo cambiar el tipo de proyecto que quiero hacer?
 
 No lo recomendamos. Buscamos tener un equilibrio en el número de cada tipo de proyecto y asignamos mentores también según el tipo de proyecto. Si por diferentes circunstancias ajenas al participante
 el proyecto no puede realizarse podremos considerar un cambio, pero no es lo habitual.
 
-#### ¿Qué significa una idea sólida para un paquete? ¿Cuál es el alcance adecuado? 
+### ¿Qué significa una idea sólida para un paquete? ¿Cuál es el alcance adecuado? 
 
 Una idea sólida se refiere a un concepto bien concebido para el paquete en el que se puede empezar a trabajar inmediatamente. Una vez iniciado el programa no habrá tiempo suficiente para explorar diferentes ideas para paquetes y no proporcionamos ideas para nuevos paquetes. 
 
 Estos son los alcances de los paquetes [de rOpenSci que van a revisión por pares](https://devguide.ropensci.org/policies.html?q=scope#aims-and-scope) y [estos son los alcances de los paquetes de revision por pares estadísticos](https://ropensci.org/software-review/). Esperamos proyectos relacionados con estos alcances, software de investigación y en esta convocatoria priorizaremos las tematicas relacionadas con la **biomedicina**. 
 
-#### No tengo mucha experiencia programando en R, ¿puedo aplicar al programa?
+### No tengo mucha experiencia programando en R, ¿puedo aplicar al programa?
 
 El programa está diseñado para personas que ya tienen experiencia en R. Esperamos que sepa cómo trabajar con proyectos, estructuras de control y cómo escribir funciones. No es necesario** que tenga experiencia en la escritura de paquetes (propios o ajenos), pero si la tiene, ¡mejor que mejor! Sin embargo, esperamos que tengas conocimientos básicos de git y GitHub. 
 
-#### Tengo un paquete que está en revisión en CRAN, ¿qué opción debo elegir?
+### Tengo un paquete que está en revisión en CRAN, ¿qué opción debo elegir?
 
 Si quiere trabajar en ese paquete durante el programa, la opción que debe elegir es «Someter su paquete al proceso de revisión por pares». Sin embargo, generalmente aconsejamos a la gente que pase primero por nuestra revisión y *luego* envíe el paquete a CRAN.
 
 
-## Si quierso ser mentor-a
+## Información para Mentor(e|a)s
 
-#### ¿Se paga a los mentores? 
+### ¿Se paga a los mentores? 
 
-Si, los mentores reciben un pequeño estipendio por su participación en el programa.
+Si, los mentores reciben un estipendio por su participación en el programa.
 
-#### ¿De cuántas personas seré tutor-a? 
+### ¿De cuántas personas seré tutor-a? 
 
 Solo una. Las mentorias son individuales. 
 
-#### ¿Se forma a los mentores?
+### ¿Se forma a los mentores?
 
 Sí, ofrecemos formación a las personas que serán mentores sobre cómo realizar esta tarea y sobre la logística del programa. También ofrecemos una guía y recursos para la tarea de mentoría.
 
-#### ¿Voy a poder dar mi opinión sobre los proyectos de los campenes-as?
+### ¿Voy a poder dar mi opinión sobre los proyectos que voy a mentorear?
 
-Sí, esperamos que hagas la revision y seleccion final del listado de campeones y campenas que participaran en el programa.  Tambien podras seleccionar hasta tres proyectos que te gustaria apoyar en el programa.
+Sí, esperamos que hagas la revisión y selección final del listado de campeones y campenas que participaran en el programa.  Tambien podras seleccionar hasta tres proyectos que te gustaria dar tutorias.
 Intentaremos que puedas trabajar con uno de esos proyectos que seleccionaste.
 
 
