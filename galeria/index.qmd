@@ -12,6 +12,7 @@ listing:
     contents: gallery.yml
 description: |
   Una galeria con ejemplos de proyectos y actividades de divulgación.
+# Idea tomada de la galeria del sitio web de Quarto. 
 #aliases:
 #  - /docs/dashboards/examples/index.html
 #  - /docs/dashboards/examples/
