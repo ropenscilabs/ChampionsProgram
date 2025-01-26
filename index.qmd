@@ -61,7 +61,7 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 ::::::::::
 
 :::::: content-block
-::::: {.features style="border-top: 1px solid #dee2e6"}
+::::: {.features .grey-border}
 ::: feature-two
 ### El programa de un vistazo
 
@@ -91,15 +91,31 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 ::::::
 
 ::: content-block
+### Cronograma de Postulaciones
+
+|Fecha|Evento|
+|----|-----|
+|Marzo 10, 2025|Se abre el llamado a postulaciones  🎉|
+|Marzo xx, 2025|[Opcional] [Charlas de la comunidad](/commcalls/july2023-championprogram/) - Aprende de otros campeones y mentoras. Recibe consejos para que escribas y envies tu postulación al programa|
+|Abril xx, 2025|[Opcional] Clinica de aplicacion al programa de campeones ([Abril xx](/events/coworking-2023-08-17/)): recibe ayuda con tu aplicación para el Programa |
+|Abril 30, 2025|Se cierra el llamado a postulaciones|
+
 :::
 
 ::: {.footer style="background: url(https://ropensci.org/images/svg/footer-cube.svg) bottom/contain no-repeat,linear-gradient(94.45deg,#427fd4 1.55%,#64a4ef 98.46%)"}
 
+::: features
+::: feature
 ::: {.img style="margin-left: 30px"}
 ![](https://ropensci.org/img/icon_short_white.svg)
 :::
+:::
 
+::: {.feature style="color: #fff"}
+:::
 
-rOpenSci is a fiscally sponsored project of [NumFOCUS](http://numfocus.org)
-
+::: {.feature style="color: #fff"}
+##### rOpenSci is a fiscally sponsored project of [NumFOCUS](http://numfocus.org)
+:::
+:::
 :::
