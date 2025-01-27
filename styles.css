@@ -1,0 +1,63 @@
+/* styles.css */
+.hero-banner {
+  padding: 2em;
+  background-color: #2780e3;
+  color: white;
+  margin-bottom: 2em;
+}
+
+.hero-banner h1 {
+  margin-bottom: 0.5em;
+}
+
+.grid {
+  margin: 1em 0;
+}
+
+.btn-primary {
+  margin: 1em 0;
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+}
+
+section {
+  margin: 2em 0;
+}
+
+/* Application Form Styles */
+.application-form {
+  max-width: 800px;
+  margin: 2em 0;
+}
+
+.form-group {
+  margin-bottom: 1.5em;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="url"],
+.form-group textarea {
+  width: 100%;
+  padding: 0.5em;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.form-group textarea {
+  min-height: 100px;
+}
+
+.callout-important {
+  margin: 2em 0;
+  padding: 1em;
+  border-left: 4px solid #dc3545;
+  background-color: #fff5f5;
+}
