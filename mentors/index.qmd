@@ -1,9 +1,4 @@
 ---
-title: "About"
+title: "Mentor(a|e)s"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
