@@ -4,65 +4,77 @@
     Proyectos realizados por las cohortes previas.
   tiles:
     - title: Paquete revisado
-      subtitle: agroclimatico
+      subtitle: agroclimatico - Paola Corrales
       href: https://docs.ropensci.org/agroclimatico
       code: https://github.com/ropensci/agroclimatico/
       thumbnail: projects/agroclimatico_logo.png
     - title: Paquete revisado
-      subtitle: naijR
+      subtitle: naijR - Victor Ordu
       href: https://docs.ropensci.org/naijR/
       code: https://github.com/ropensci/naijr/
       thumbnail: projects/naijR_logo.png
     - title: Paquete nuevo
-      subtitle: bbsTaiwan
+      subtitle: bbsTaiwan - Sunny Tseng
       href: https://sunnytseng.github.io/bbsTaiwan/
       code: https://github.com/sunnytseng/bbstaiwan/issues
       thumbnail: projects/bbsTaiwan_logo.png
     - title: Paquete nuevo
-      subtitle: pcir
+      subtitle: pcir -Francesca Palmeira
       href: https://fblpalmeira.github.io/pcir/
       code: https://github.com/fblpalmeira/pcir/
       thumbnail: projects/pcir_logo.png
     - title: Paquete revisado
-      subtitle: eph
+      subtitle: eph - Carolina Pradier
       href: https://docs.ropensci.org/eph
       code:  https://github.com/ropensci/eph/issues
       thumbnail: projects/eph_logo.png
     - title: Paquete nuevo
-      subtitle: bulkreadr
+      subtitle: bulkreadr - Ezekiel Adebayo Ogundepo
       href: https://gbganalyst.github.io/bulkreadr/
       code: https://github.com/gbganalyst/bulkreadr/
       thumbnail: projects/bulkreadr_logo.png
     - title: Paquete nuevo
-      subtitle: odbr
+      subtitle: odbr - Haydee Svab
       href: https://hsvab.github.io/odbr/
       code: https://github.com/hsvab/odbr/issues
       thumbnail: projects/odbr_logo.png
     - title: Paquete revisado
-      subtitle: karel
+      subtitle: karel - Marcos Prunello
       href: https://ropensci.github.io/karel/
       code: https://github.com/ropensci/karel/issues
       thumbnail: projects/karel_logo.png
     - title: Paquete nuevo
-      subtitle: chartkickR
+      subtitle: chartkickR - Bilikitso Wunmi Wolatunji
       href: https://docs.ropensci.org/ropensci/
       code: https://github.com/bwolatunji/chartkickr/
       thumbnail: projects/chartkickR_logo.png
     - title: Paquete actualizado y bajo revisión
-      subtitle: rgeeExtra
+      subtitle: rgeeExtra - Cesar Aybar
       href: https://github.com/r-earthengine/rgeeExtra/blob/master/README.md
       code: https://github.com/r-earthengine/rgeeextra/
       thumbnail: projects/rgeeExtra_logo.png
     - title: Paquete nuevo
-      subtitle: ARCenso
+      subtitle: ARCenso - Andrea Gómez Vargas
       href: https://soyandrea.github.io/arcenso/
       code: https://github.com/SoyAndrea/arcenso/
       thumbnail: projects/arcenso_logo.png
     - title: Paquete nuevo
-      subtitle: RNAsum
+      subtitle: RNAsum - Sehrish Kanwal
       href: https://github.com/umccr/RNAsum
       code: https://umccr.github.io/RNAsum/
       thumbnail: projects/RNAsum_logo.png
+    - title: Paquete nuevo
+      subtitle: rplaywright - Erika Siregar
+      href: https://erikaris.github.io/rplaywright/
+      code: https://github.com/erikaris/rplaywright
+      thumbnail: projects/rplaywright_logo.png
+    - title: Revisión de paquete
+      subtitle: naijR - Alican Cagri Gokcek
+      href: https://github.com/ropensci/software-review/issues/600
+      thumbnail: projects/revision_paquete.png
+    - title: Revisión de paquete
+      subtitle: emodnet.wfs - Liz Hare
+      href: https://github.com/ropensci/software-review/issues/653
 
 
 - category: Actividades de Divulgación
@@ -78,12 +90,47 @@
       subtitle: Mentoring & training program for Scientific Open Source Champions
       href: https://ropensci.org/commcalls/july2023-championprogram/
       thumbnail: outreach/comm-call-bea-caro-victor.jpg
+    - title: Taller
+      subtitle:
+      href: https://ropensci.org/commcalls/first-time-contributor/
+      thumbnail: outreach/comm_call_sunny.png
+    - title: Blog post
+      subtitle:
+      href: https://ropensci.org/commcalls/first-time-contributor/
+      thumbnail: outreach/comm_call_sunny.png
+    - title: Charla en conferencia
+      subtitle:
+      href: https://ropensci.org/commcalls/first-time-contributor/
+      thumbnail: outreach/comm_call_sunny.png
+    - title: Meetup
+      subtitle:
+      href: https://ropensci.org/commcalls/first-time-contributor/
+      thumbnail: outreach/comm_call_sunny.png
+    - title: Charla en conferencia
+      subtitle:
+      href: https://ropensci.org/commcalls/first-time-contributor/
+      thumbnail: outreach/comm_call_sunny.png
 
 - category: Participación despues de finalizado el programa
   description: |
     Actividades y tareas en que las personas participantes del programa siguieron comprometidas una vez terminado el periodo del programa.
   tiles:
-    - title: Webinario
+    - title: Charlas con la comunidad.
+      subtitle: First time contributor
+      href: https://ropensci.org/commcalls/first-time-contributor/
+      thumbnail: activities/comm_call_sunny.png
+  tiles:
+    - title: Revision de paquete
+      subtitle:
+      href: https://ropensci.org/commcalls/first-time-contributor/
+      thumbnail: activities/comm_call_sunny.png
+  tiles:
+    - title: Blog post
+      subtitle:
+      href: https://ropensci.org/commcalls/first-time-contributor/
+      thumbnail: activities/comm_call_sunny.png
+  tiles:
+    - title: Capacitación
       subtitle:
       href: https://ropensci.org/commcalls/first-time-contributor/
       thumbnail: activities/comm_call_sunny.png
