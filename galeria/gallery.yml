@@ -58,7 +58,11 @@
       href: https://soyandrea.github.io/arcenso/
       code: https://github.com/SoyAndrea/arcenso/
       thumbnail: projects/arcenso_logo.png
-
+    - title: Paquete nuevo
+      subtitle: RNAsum
+      href: https://github.com/umccr/RNAsum
+      code: https://umccr.github.io/RNAsum/
+      thumbnail: projects/RNAsum_logo.png
 
 
 - category: Actividades de Divulgación
@@ -66,7 +70,20 @@
     Charlas, talleres, eventos, blogs post, grupos de usuarios y otros ejemplos de divulgación de las cohortes anteriores.
   tiles:
     - title: Webinario
-      subtitle: xx
-      href: https://
-      code: https://
-      thumbnail: events/events.png
+      subtitle: Paquete eph. Novedades e ideas para su uso.
+      href: https://caropradier.github.io/slides_eph_ropensci/#1
+      code: https://github.com/ropensci/eph/issues
+      thumbnail: outreach/webinario_caro.png
+    - title: Charlas con la comunidad
+      subtitle: Mentoring & training program for Scientific Open Source Champions
+      href: https://ropensci.org/commcalls/july2023-championprogram/
+      thumbnail: outreach/comm-call-bea-caro-victor.jpg
+
+- category: Participación despues de finalizado el programa
+  description: |
+    Actividades y tareas en que las personas participantes del programa siguieron comprometidas una vez terminado el periodo del programa.
+  tiles:
+    - title: Webinario
+      subtitle:
+      href: https://ropensci.org/commcalls/first-time-contributor/
+      thumbnail: activities/comm_call_sunny.png
