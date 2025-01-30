@@ -24,7 +24,7 @@ website:
 
 format:
   html:
-    css: css/extra.scss
+    theme: [css/extra.scss]
     toc: false
 
 
