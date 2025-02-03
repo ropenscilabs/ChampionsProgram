@@ -106,7 +106,7 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 
 ### Preguntas Frecuentes
 
-Chequea nuestra [sección de preguntas frecuentes](resources/faq.qmd) para más información sobre el programa ya sea que quieres ser campeon/a o mentor/a.
+Chequea nuestra [sección de preguntas frecuentes](resources/faq.qmd) para más información sobre el programa ya sea que quieres ser campeon/a o mentor/a. Si aún tenes dudas, escribinos a info@ropensci.org
 
 :::
 
