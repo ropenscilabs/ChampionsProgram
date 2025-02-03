@@ -11,7 +11,7 @@ editor: source
 :::
 
 ::: {..hero-title}
-### Forma parte del programa y súmate a una comunidad global de personas que usan y desarrollan software cientifico y abierto
+### Forma parte del programa y sumate a una comunidad global de personas que usan y desarrollan software científico y abierto
 :::
 
 :::: hero-text
