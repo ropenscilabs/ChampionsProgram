@@ -2,3 +2,4 @@
 title: "Recursos"
 ---
 
+Esta es la pagina de los recursos.
