@@ -2,3 +2,33 @@
 title: "Mentor(a|e)s"
 ---
 
+## ¿Qué se espera de una Mentora o un Mentor?
+
+Mentores y mentoras desempeñarán un papel fundamental en el programa de rOpenSci, ayudando a seleccionar a los campeones y campeonas y también asesorando e inspirando a quienes mentoreen. Los mentores y mentoras pondrán en contacto a sus campeones/as con personas, programas y organizaciones; recomendarán recursos, lecturas, formación y experiencias; y proporcionarán comentarios sobre el proyecto de su campeón o campeona.
+
+Buscamos personas de la comunidad rOpenSci que:
+
+  * Hayan demostrado comprensión y capacidad para trabajar de forma abierta y colaborativa;
+
+  * Tengan la voluntad de guiar y enseñar a otros;
+
+  * Cuenten con experiencia previa en cualquiera de los siguientes campos
+
+      * Desarrollar, mantener o contribuir a cualquier paquete rOpenSci o paquete que haya pasado por la revisión de rOpenSci, o
+
+      * Participación en el proceso de revisión de rOpenSci, o
+
+      * Desarrollo de paquetes y/o revisión de código entre pares.
+
+Los mentores y mentoras adquirirán experiencia y habilidades para realizar su tarea, serán reconocidos en el sitio web de rOpenSci y en los canales de las redes sociales, y harán nuevas conexiones a través de las redes de los Campeones. Al tutelar a nuestros campeones y campeonas seleccionados y ayudar a dar forma a este programa, los tutores y tutoras también estarán retribuyendo a la comunidad rOpenSci de una forma estupenda y significativa. Al finalizar el programa, los mentores recibiran un estipendio de $500 USD.
+
+## ¿Cómo aplicar?
+
+Se debe completar el formulario de aplicación antes del _xx de xx de xx_. Los formularios deben completarse en _castellano_.
+
+
+* [**Formulario para aplicar como mentor/a**](). 
+
+[Esta plantilla presenta la información requerida en el formulario en español](mentors_champions_template_es).
+
+Si tienes mas preguntas chequea nuestras preguntas frecuentes o contactanos enviando un mail a info@ropensci.org.

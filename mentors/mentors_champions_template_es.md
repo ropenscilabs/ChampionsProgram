@@ -1,6 +1,4 @@
 
-_The form template is also available in [English](/champions/files/mentors_champions_template)._
-
 ## Información general
 
 * Nombre completo: _nombre(s) y apellido(s)_
