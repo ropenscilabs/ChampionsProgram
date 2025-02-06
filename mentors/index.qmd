@@ -40,6 +40,19 @@ Se espera que el compromiso total de tiempo sea de aproximadamente 3 a 4 horas a
 |Octubre 2025 | Reflexiones sobre el programa. Se invitará a los mentores a compartir sus experiencias con la cohorte.|.|1,5h|
 |Noviembre de 2025|Fin del trimestre|Cierre de la cohorte y definición de las nuevas funciones de los campeones y los mentores.|1 h|
 
+## Beneficios de ser mentor/a
+
+Al convertirte en parte del equipo de mentores de rOpenSci podrás:
+
+* Empoderar a otras personas de america latina compartiendo tu experiencia; 
+* Conectar con otras personas del equipo de mentores y con la comunidad de los participantes, ampliando tu red profesional;
+* Ganar experiencia y habilidades para realizar mentorias;
+* Ganar exposición, reconocimiento y agradecimiento por tu trabajo en el programa en los espacios de rOpenSci (página web, redes sociales, eventos)
+* Ayudar a rOpenSci y a la comunidad R en general a crecer;
+* Recibir un stipendio por tu participación en el programa.
+
+Los mentores y mentoras seleccionados participarán en una formación sobre mentoría y logística del programa como parte de su proceso de inicio y contarán con el apoyo de la _Community Manager_ durante todo el programa.
+
 ## ¿Cómo aplicar?
 
 Se debe completar el formulario de aplicación antes del _xx de xx de xx_. Los formularios deben completarse en _castellano_.
