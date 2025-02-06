@@ -1,5 +1,7 @@
 ---
 title: "Mentor(a|e)s"
+toc: true
+toc-location: right
 ---
 
 ## ¿Qué se espera de una Mentora o un Mentor?
@@ -58,7 +60,7 @@ Los mentores y mentoras seleccionados participarán en una formación sobre ment
 Se debe completar el formulario de aplicación antes del _xx de xx de xx_. El formulario debe completarse en _castellano_.
 
 
-* [**Formulario para aplicar como mentor/a**](). 
+* [**Formulario para aplicar**](). 
 
 ## Información requerida en el formulario
 
