@@ -29,16 +29,16 @@ Se espera que el compromiso total de tiempo sea de aproximadamente 3 a 4 horas a
 
 |Fecha|Evento|Detalle|Duración|
 |----|-----|------|--------| 
-|xx, 2025|Seleccionar participantes |Revisar, clasificar y seleccionar 1-2 proyectos revisados para mentorizar.|2 h|
-|Noviembre 2025|Evento de lanzamiento|Conocer el programa, revisar las expectativas del programa y responder preguntas. Conocer a los mentores.|1.5 h|
-|Enero - Abril 2025|Formación|Cómo ser mentor y logística del programa.|2 h|
-|Marzo - Julio 2025|Reunirse con los mentores|Proporcionar feedback y orientación sobre el proyecto de los mentores.  Ponerle en contacto con otros expertos, mentores o miembros de la comunidad. Recomendar formación y recursos para el proyecto del alumno. 1 reunión al mes.| 0,5 h|
-|Mayo de 2025| Los campeones presentarán su proyecto y recibirán comentarios. |1,5 horas|
+|xx de 2025|Seleccionar participantes |Revisar, clasificar y seleccionar 1-2 proyectos revisados para mentorizar.|2 h|
+|xx de 2025|Evento de lanzamiento|Conocer el programa, revisar las expectativas del programa y responder preguntas. Conocer a los mentores.|1.5 h|
+|xx de 2025|Formación|Cómo ser mentor y logística del programa.|2 h|
+|xx de 2025|Reunirse con los mentores|Proporcionar feedback y orientación sobre el proyecto de los mentores.  Ponerle en contacto con otros expertos, mentores o miembros de la comunidad. Recomendar formación y recursos para el proyecto del alumno. 1 reunión al mes.| 0,5 h|
+|xx de 2025| Los campeones presentarán su proyecto y recibirán comentarios. |1,5 horas|
 |De agosto a noviembre de 2025.|  Conectar con otros expertos, mentores o miembros de la comunidad. Recomendar formación y recursos para el proyecto del alumno. |
-|Julio de 2025 Reunión de cohorte [opcional]| Reflexiones sobre los proyectos. Se invitará a los promotores a compartir con la cohorte las conclusiones de sus proyectos. |  1,5 h|
-|Septiembre de 2025|Reunión de la cohorte [opcional]. Reflexiones sobre los eventos. Se invitará a los campeones a compartir con la cohorte los resultados de sus eventos. | 1.5 h|
-|Octubre 2025 | Reflexiones sobre el programa. Se invitará a los mentores a compartir sus experiencias con la cohorte.|.|1,5h|
-|Noviembre de 2025|Fin del trimestre|Cierre de la cohorte y definición de las nuevas funciones de los campeones y los mentores.|1 h|
+|xx de 2025 Reunión de cohorte [opcional]| Reflexiones sobre los proyectos. Se invitará a los promotores a compartir con la cohorte las conclusiones de sus proyectos. |  1,5 h|
+|xx de 2025|Reunión de la cohorte [opcional]. Reflexiones sobre los eventos. Se invitará a los campeones a compartir con la cohorte los resultados de sus eventos. | 1.5 h|
+|xx de 2025 | Reflexiones sobre el programa. Se invitará a los mentores a compartir sus experiencias con la cohorte.|.|1,5h|
+|xx de 2025|Fin del trimestre|Cierre de la cohorte y definición de las nuevas funciones de los campeones y los mentores.|1 h|
 
 ## Beneficios de ser mentor/a
 
@@ -55,12 +55,14 @@ Los mentores y mentoras seleccionados participarán en una formación sobre ment
 
 ## ¿Cómo aplicar?
 
-Se debe completar el formulario de aplicación antes del _xx de xx de xx_. Los formularios deben completarse en _castellano_.
+Se debe completar el formulario de aplicación antes del _xx de xx de xx_. El formulario debe completarse en _castellano_.
 
 
 * [**Formulario para aplicar como mentor/a**](). 
 
 ## Información requerida en el formulario
+
+A continuacion detallamos toda la información que solicitamos en el formulario para que puedas prepararte antes de rellenarlo.
 
 ### Información general
 
@@ -69,13 +71,11 @@ Se debe completar el formulario de aplicación antes del _xx de xx de xx_. Los f
 * País: _país de residencia_.
 * Zona horaria: _zona horaria de tu ciudad de residencia expresada en UTC_.
 * Pronombres: _por favor, comparte los pronombres que quieres que usemos para referirnos a tí (opcional)_
-* Idioma: _qué idioma(s) prefieres para comunicarte durante las capacitaciones y las tutorías?_
 * GitHub o GitLab: _por favor, facilita el enlace a tu perfil_
-* Redes sociales: _por favor, facilita el enlace a tu perfil de LinkedIn/mastodos, etc. (opcional)_
+* Redes sociales: _por favor, facilita el enlace a tu perfil de LinkedIn/mastodon/BlueSky, etc. (opcional)_
 * Sitio Web: _por favor, facilita el enlace a tu sitio web  (optional)_
 * Afiliación: _por favor, indica tu afiliación a una universidad/institución/organización u otro empleador_
-* Comunidad: _por favor, indica tu participación en comunidades (como R-Ladies, MiR, Grupos RSE, LatinR, ReproHack, etc. o indica NA)_
-* [] Si te identificas como miembro de un grupo sistemáticamente excluido de la comunidad del software de código abierto, por favor, tilda esta casilla.
+* Comunidad: _por favor, indica tu participación en comunidades (como R-Ladies, Grupos de Usuarios de R, RSE, LatinR, ReproHack, etc. o indica NA)_
 
 * ¿Cómo participa en la comunidad rOpenSci? Por favor, responda en un máximo de 200 palabras.
 
@@ -117,7 +117,6 @@ Se debe completar el formulario de aplicación antes del _xx de xx de xx_. Los f
 * ¿Por qué le gustaría ser mentor/a del programa de campeones de rOpenSci? _Por favor, responda en un máximo de 200 palabras._
 
 * Por favor, comparta un ejemplo de cuando ayudó con éxito a otra persona. _Por favor, no mencione el nombre de la(s) persona(s), sólo nos interesa saber cómo le ayudó y cuál fue el resultado._  
-
 
 
 ## Tengo mas preguntas
