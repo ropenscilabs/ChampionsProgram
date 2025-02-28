@@ -1,5 +1,18 @@
 ---
 title: "Campeon(e|a)s"
+toc: true
+toc-location: right
 ---
 
+## Objetivos del Programa
 
+En esta tercera cohorte el programa de campeones busca ayudar a personas de *América Latina* que desarrollan software abierto en R con foco en la ciencia y la apertura de datos y que también hablan español.
+
+A través de este programa, las personas que participen podrán:
+
+* Adquirir las habilidades para desarrollar su propio paquete R o;
+* Adquirir confianza para enviar un paquete R a nuestra revisión por pares o convertirse en parte de nuestro equipo revisor.
+* Aprender a dirigir un taller, evento u otra actividad de rOpenSci sobre el tema de desarrollo de paquetes, del paquete que desarrollaron o sobre revisión de software por pares en su comunidad local o institución.
+* Conectarse con una red de pares y mentor(a|e)s dentro del ecosistema R.
+* Proporcionar retroalimentación para ayudar a rOpenSci a continuar organizando actividades relevantes y amigables para las personas que desarrollan con R.
+* Adquirir habilidades valiosas y transferibles y experiencias relevantes para carreras en el software de código abierto.
