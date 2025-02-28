@@ -16,3 +16,23 @@ A través de este programa, las personas que participen podrán:
 * Conectarse con una red de pares y mentor(a|e)s dentro del ecosistema R.
 * Proporcionar retroalimentación para ayudar a rOpenSci a continuar organizando actividades relevantes y amigables para las personas que desarrollan con R.
 * Adquirir habilidades valiosas y transferibles y experiencias relevantes para carreras en el software de código abierto.
+
+Buscamos entre seis y diez personas para este tercer grupo. Esperamos co-crear esta iteración del Programa con las personas seleccionadas y perfeccionar futuras ediciones con su experiencia y comentarios.
+
+Como en ediciones anteriores esperamos recibir muchas solicitudes y nos comprometemos a orientar a quienes no seleccionemos hacia otras formas en las que puedan contribuir a rOpenSci.
+
+## Elegibilidad
+
+Buscamos personas que trabajen en campos STEAM, de América Latina que:
+
+* Ya tengan conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete R que les gustaría desarrollar, o;
+
+* Ya han desarrollado un paquete R que está dentro del [alcance temático de rOpenSci](https://devguide.ropensci.org/es/softwarereview_policies.es.html), y quieren tenerlo [revisado por pares](/es/software-review/) a través de rOpenSci, o;
+
+* Desea aprender a [revisar](https://devguide.ropensci.org/es/softwarereview_reviewer.es.html) para rOpenSci, y;
+
+* Tienen conocimientos básicos de comunicación en español (escrita y verbal).
+
+
+
+* Los paquetes que se enmarquen en las tematicas de bioinformatica y salud tendran puntos extras en la propuesta. 
