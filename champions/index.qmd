@@ -34,5 +34,27 @@ Buscamos personas que trabajen en campos STEAM, de América Latina que:
 * Tienen conocimientos básicos de comunicación en español (escrita y verbal).
 
 
+## Acerca del programa
+
+Este es un programa de 12 meses de duración que incluye formación basada en cohortes, desarrollo de proyectos y tutoría personal.
+
+Las personas participarán en:
+
+* Una formación basada en cohortes sobre:
+
+  - Conocimientos técnicos sobre desarrollo de software de codigo abierto en R (funciones, paquetes, testing),
+  - Conocimientos tecnicos sobre herramientas para desarrollo de software colaborativo (git, GitHub)
+  - Conocimientos tecnicos sobre revisión de software por pares,
+  - Cómo planificar y facilitar talleres atractivos e inclusivos para apoyar el éxito de los participantes,
+  - Como gestionar una comunidad de usuarios y colaboradores de un paquete R,
+  - Conocimiento de los diversos canales a través de los cuales pueden participar y contribuir a los proyectos de rOpenSci y R
+
+
+* Tutoría personal y de grupo:
+
+    - Una serie de reuniones con su mentor/a;
+    - Llamadas trimestrales de la cohorte;
+    - Horas de oficina mensuales con la cohorte;
+
 
 * Los paquetes que se enmarquen en las tematicas de bioinformatica y salud tendran puntos extras en la propuesta. 
