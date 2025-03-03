@@ -593,5 +593,33 @@
     "title": "Mentor(a|e)s",
     "section": "Beneficios de ser mentor/a",
     "text": "Beneficios de ser mentor/a\nAl convertirte en parte del equipo de mentores de rOpenSci podrás:\n\nEmpoderar a otras personas de america latina compartiendo tu experiencia;\nConectar con otras personas del equipo de mentores y con la comunidad de los participantes, ampliando tu red profesional;\nGanar experiencia y habilidades para realizar mentorias;\nGanar exposición, reconocimiento y agradecimiento por tu trabajo en el programa en los espacios de rOpenSci (página web, redes sociales, eventos)\nAyudar a rOpenSci y a la comunidad R en general a crecer;\nRecibir un stipendio por tu participación en el programa.\n\nLos mentores y mentoras seleccionados participarán en una formación sobre mentoría y logística del programa como parte de su proceso de inicio y contarán con el apoyo de la Community Manager durante todo el programa."
+  },
+  {
+    "objectID": "champions/index.html",
+    "href": "champions/index.html",
+    "title": "Campeon(e|a)s",
+    "section": "",
+    "text": "En esta tercera cohorte el programa de campeones busca ayudar a personas de América Latina que desarrollan software abierto en R con foco en la ciencia y la apertura de datos y que también hablan español.\nA través de este programa, las personas que participen podrán:\n\nAdquirir las habilidades para desarrollar su propio paquete R o;\nAdquirir confianza para enviar un paquete R a nuestra revisión por pares o convertirse en parte de nuestro equipo revisor.\nAprender a dirigir un taller, evento u otra actividad de rOpenSci sobre el tema de desarrollo de paquetes, del paquete que desarrollaron o sobre revisión de software por pares en su comunidad local o institución.\nConectarse con una red de pares y mentor(a|e)s dentro del ecosistema R.\nProporcionar retroalimentación para ayudar a rOpenSci a continuar organizando actividades relevantes y amigables para las personas que desarrollan con R.\nAdquirir habilidades valiosas y transferibles y experiencias relevantes para carreras en el software de código abierto.\n\nBuscamos entre seis y diez personas para este tercer grupo. Esperamos co-crear esta iteración del Programa con las personas seleccionadas y perfeccionar futuras ediciones con su experiencia y comentarios.\nComo en ediciones anteriores esperamos recibir muchas solicitudes y nos comprometemos a orientar a quienes no seleccionemos hacia otras formas en las que puedan contribuir a rOpenSci."
+  },
+  {
+    "objectID": "champions/index.html#objetivos-del-programa",
+    "href": "champions/index.html#objetivos-del-programa",
+    "title": "Campeon(e|a)s",
+    "section": "",
+    "text": "En esta tercera cohorte el programa de campeones busca ayudar a personas de América Latina que desarrollan software abierto en R con foco en la ciencia y la apertura de datos y que también hablan español.\nA través de este programa, las personas que participen podrán:\n\nAdquirir las habilidades para desarrollar su propio paquete R o;\nAdquirir confianza para enviar un paquete R a nuestra revisión por pares o convertirse en parte de nuestro equipo revisor.\nAprender a dirigir un taller, evento u otra actividad de rOpenSci sobre el tema de desarrollo de paquetes, del paquete que desarrollaron o sobre revisión de software por pares en su comunidad local o institución.\nConectarse con una red de pares y mentor(a|e)s dentro del ecosistema R.\nProporcionar retroalimentación para ayudar a rOpenSci a continuar organizando actividades relevantes y amigables para las personas que desarrollan con R.\nAdquirir habilidades valiosas y transferibles y experiencias relevantes para carreras en el software de código abierto.\n\nBuscamos entre seis y diez personas para este tercer grupo. Esperamos co-crear esta iteración del Programa con las personas seleccionadas y perfeccionar futuras ediciones con su experiencia y comentarios.\nComo en ediciones anteriores esperamos recibir muchas solicitudes y nos comprometemos a orientar a quienes no seleccionemos hacia otras formas en las que puedan contribuir a rOpenSci."
+  },
+  {
+    "objectID": "champions/index.html#elegibilidad",
+    "href": "champions/index.html#elegibilidad",
+    "title": "Campeon(e|a)s",
+    "section": "Elegibilidad",
+    "text": "Elegibilidad\nBuscamos personas que trabajen en campos STEAM, de América Latina que:\n\nYa tengan conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete R que les gustaría desarrollar, o;\nYa han desarrollado un paquete R que está dentro del alcance temático de rOpenSci, y quieren tenerlo revisado por pares a través de rOpenSci, o;\nDesea aprender a revisar para rOpenSci, y;\nTienen conocimientos básicos de comunicación en español (escrita y verbal)."
+  },
+  {
+    "objectID": "champions/index.html#acerca-del-programa",
+    "href": "champions/index.html#acerca-del-programa",
+    "title": "Campeon(e|a)s",
+    "section": "Acerca del programa",
+    "text": "Acerca del programa\nEste es un programa de 12 meses de duración que incluye formación basada en cohortes, desarrollo de proyectos y tutoría personal.\nLas personas participarán en:\n\nUna formación basada en cohortes sobre:\n\nConocimientos técnicos sobre desarrollo de software de codigo abierto en R (funciones, paquetes, testing),\nConocimientos tecnicos sobre herramientas para desarrollo de software colaborativo (git, GitHub)\nConocimientos tecnicos sobre revisión de software por pares,\nCómo planificar y facilitar talleres atractivos e inclusivos para apoyar el éxito de los participantes,\nComo gestionar una comunidad de usuarios y colaboradores de un paquete R,\nConocimiento de los diversos canales a través de los cuales pueden participar y contribuir a los proyectos de rOpenSci y R\n\nTutoría personal y de grupo:\n\nUna serie de reuniones con su mentor/a;\nLlamadas trimestrales de la cohorte;\nHoras de oficina mensuales con la cohorte;\n\nLos paquetes que se enmarquen en las tematicas de bioinformatica y salud tendran puntos extras en la propuesta."
   }
 ]
