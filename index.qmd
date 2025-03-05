@@ -17,7 +17,7 @@ editor: source
 :::: hero-text
 Nuestro programa busca **identificar**, **reconocer** y **premiar** a las personas **líderes** en una comunidad de ciencia abierta, ingeniería de software de investigación y la comunidad de programación R.
 
-Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de personas expertas. Ademas podrás interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo.
+Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de personas expertas. Además, podrás interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo.
 
 ::: hero-buttons
 [Aplicar como Campeon/a](/champions/apply.qmd){.btn .btn-primary role="button"} [Aplicar como Mentor/a](/mentors/apply.qmd){.btn .btn-primary role="button"}
@@ -31,7 +31,7 @@ Es una plataforma increíble para desarrollar tu proyecto de software libre con 
 :::: feature
 ### Formación
 
-Los participantes reciben capacitacion en la práctica de la ciencia abierta, la ingeniería de software de investigación, la programación en R y la creación y gestión de comunidades.
+Los participantes reciben capacitación en la práctica de la ciencia abierta, la ingeniería de software de investigación, la programación en R y la creación y gestión de comunidades.
 
 ::: learn-more
 [Leer más »](.qmd)
@@ -51,7 +51,7 @@ Los participantes desarrollarán un proyecto como la creación de nuevos paquete
 :::: feature
 ### Divulgación
 
-Los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigacion.
+Los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigación.
 
 ::: learn-more
 [Leer más »](.qmd)
@@ -66,25 +66,25 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 ### El programa de un vistazo
 
 -   **Duración**: 12 meses
--   **Etapas**: entrenamiento, mentoría y desarrollo del proyecto, divulgación.
+-   **Etapas**: entrenamiento, mentoría y desarrollo del proyecto, divulgación
 -   **Fechas**: La cohorte tres inicia en Junio 2025 y termina en Junio 2026
 -   **Estipendio**: \$500 USD
 -   **Idioma**: Español
--   **Cohortes**: entre seis a diez participantes.
+-   **Cohortes**: entre seis a diez participantes
 -   **Formato del entrenamiento**: online
 -   **Mentoria**: individual
--   **Proyectos**: desarrollo de un paquete, revisión de un paquete.
+-   **Proyectos**: desarrollo de un paquete, revisión de un paquete
 :::
 
 ::: feature-two
 ### Quienes pueden aplicar
 
--   **Perfil**: personas que desarrollan software libre utilizando el lenguaje de programación R y sean latinoamericanos o trabajan en America Latina.
--   **Región**: tienen que ser de o trabajar en América Latina.
+-   **Perfil**: personas que desarrollan software libre utilizando el lenguaje de programación R y sean latinoamericanos o trabajan en América Latina
+-   **Región**: tienen que ser de o trabajar en América Latina
 -   **Requisitos**:
     -   Ya tienen conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete que les gustaría desarrollar, o
-    -   Ya ha desarrollado un paquete que está dentro del [alcance de rOpenSci](https://devguide.ropensci.org/es/softwarereview_policies.es.html#aims-and-scope), y quiere que sea [revisado por pares](/es/software-review/) a través de rOpenSci, o
-    -   Quiere [revisar paquetes para rOpenSci](https://devguide.ropensci.org/es/softwarereview_reviewer.es.html) y
+    -   Ya han desarrollado un paquete que está dentro del [alcance de rOpenSci](https://devguide.ropensci.org/es/softwarereview_policies.es.html#aims-and-scope), y quieren que sea [revisado por pares](/es/software-review/) a través de rOpenSci, o
+    -   Quieren [revisar paquetes para rOpenSci](https://devguide.ropensci.org/es/softwarereview_reviewer.es.html) y
     -   Tienen conocimientos básicos de comunicación en español (escrita y verbal).
 :::
 :::::
@@ -97,7 +97,7 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 |----|-----|
 |Marzo 10, 2025|Se abre el llamado a postulaciones  🎉|
 |Marzo 12, 2025|[Opcional] [Conversaciones con la comunidad](/commcalls/es/march2024-championprogram/) - Aprende de otras personas que participaron del programa. Recibe consejos para que escribas y envies tu postulación al programa|
-|Abril 15, 2025|[Opcional] Clinica de aplicacion al programa de campeones ([Martes 15 de Abril](/events/coworking-2025-04-15/)): recibe ayuda con tu aplicación para el Programa |
+|Abril 15, 2025|[Opcional] Clínica de aplicación al programa ([Martes 15 de Abril](/events/coworking-2025-04-15/)): recibe ayuda con tu aplicación para el programa |
 |Abril 30, 2025|Se cierra el llamado a postulaciones|
 
 :::
@@ -106,7 +106,7 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 
 ### Preguntas Frecuentes
 
-Chequea nuestra [sección de preguntas frecuentes](resources/faq.qmd) para más información sobre el programa ya sea que quieres ser campeon/a o mentor/a. Si aún tenes dudas, escribinos a info@ropensci.org
+Chequea nuestra [sección de preguntas frecuentes](resources/faq.qmd) para más información sobre el programa ya sea que quieres ser campeón/a o mentor/a. Si aún tenes dudas, escribinos a info@ropensci.org
 
 :::
 
