@@ -121,6 +121,6 @@ A continuación detallamos toda la información que solicitamos en el formulario
 * Por favor, comparta un ejemplo de cuando ayudó con éxito a otra persona. _Por favor, no mencione el nombre de la(s) persona(s), sólo nos interesa saber cómo le ayudó y cuál fue el resultado_  
 
 
-## Tengo mas preguntas
+## Tengo más preguntas
 
-Si tienes mas preguntas chequea nuestras preguntas frecuentes o contactanos enviando un mail a info@ropensci.org.
+Si tienes más preguntas chequea nuestras preguntas frecuentes o contactanos enviando un mail a info@ropensci.org.
