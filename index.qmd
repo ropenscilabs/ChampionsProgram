@@ -7,7 +7,7 @@ editor: source
 :::::::: {.hero .grey-border}
 ::::::: content-block
 ::: {.hero-title style="color: #4177ca"}
-# Programa de Campeon(a\|e)s de rOpenSci
+# Programa de Campeon(a|e)s de rOpenSci
 :::
 
 ::: {..hero-title}
@@ -17,7 +17,7 @@ editor: source
 :::: hero-text
 Nuestro programa busca **identificar**, **reconocer** y **premiar** a las personas **líderes** en una comunidad de ciencia abierta, ingeniería de software de investigación y la comunidad de programación R.
 
-Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de expertos, interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo.
+Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de personas expertas. Ademas podrás interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo.
 
 ::: hero-buttons
 [Aplicar como Campeon/a](/champions/apply.qmd){.btn .btn-primary role="button"} [Aplicar como Mentor/a](/mentors/apply.qmd){.btn .btn-primary role="button"}
@@ -41,7 +41,7 @@ Los participantes reciben capacitacion en la práctica de la ciencia abierta, la
 :::: feature
 ### Proyectos
 
-Los participantes desarrollar un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci, ya sea para revisar o para que su paquete sea revisado.
+Los participantes desarrollarán un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci, ya sea para revisar o para que su paquete sea revisado.
 
 ::: learn-more
 [Leer más »](.qmd)
@@ -66,7 +66,7 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 ### El programa de un vistazo
 
 -   **Duración**: 12 meses
--   **Etapas**: entrenamiento, mentoria y desarrollo del proyecto, divulgación.
+-   **Etapas**: entrenamiento, mentoría y desarrollo del proyecto, divulgación.
 -   **Fechas**: La cohorte tres inicia en Junio 2025 y termina en Junio 2026
 -   **Estipendio**: \$500 USD
 -   **Idioma**: Español
@@ -79,7 +79,7 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 ::: feature-two
 ### Quienes pueden aplicar
 
--   **Perfil**: personas que desarrollan software libre utilizando el lenguaje de programacion R y son latinoamericanos o trabajan en America Latina.
+-   **Perfil**: personas que desarrollan software libre utilizando el lenguaje de programación R y sean latinoamericanos o trabajan en America Latina.
 -   **Región**: tienen que ser de o trabajar en América Latina.
 -   **Requisitos**:
     -   Ya tienen conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete que les gustaría desarrollar, o
