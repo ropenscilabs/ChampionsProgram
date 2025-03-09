@@ -93,44 +93,35 @@
     - title: Taller
       subtitle:
       href: https://ropensci.org/commcalls/first-time-contributor/
-      thumbnail: outreach/comm_call_sunny.png
+      thumbnail: outreach/bilikisu-blog.png
     - title: Blog post
-      subtitle:
-      href: https://ropensci.org/commcalls/first-time-contributor/
-      thumbnail: outreach/comm_call_sunny.png
+      subtitle: "2023 rOpensci Champions Program: My Experience by Bilikisu Wunmi Olatunji"
+      href: https://ropensci.org/blog/2023/12/19/champions-program-2023-experience/
+      thumbnail: outreach/bilikisu-blog.png
     - title: Charla en conferencia
       subtitle:
       href: https://ropensci.org/commcalls/first-time-contributor/
-      thumbnail: outreach/comm_call_sunny.png
+      thumbnail: outreach/bilikisu-blog.png
     - title: Meetup
       subtitle:
       href: https://ropensci.org/commcalls/first-time-contributor/
-      thumbnail: outreach/comm_call_sunny.png
+      thumbnail: outreach/bilikisu-blog.png
     - title: Charla en conferencia
       subtitle:
       href: https://ropensci.org/commcalls/first-time-contributor/
-      thumbnail: outreach/comm_call_sunny.png
+      thumbnail: outreach/bilikisu-blog.png
 
 - category: Participación despues de finalizado el programa
   description: |
     Actividades y tareas en que las personas participantes del programa siguieron comprometidas una vez terminado el periodo del programa.
   tiles:
-    - title: Charlas con la comunidad.
+    - title: Charlas con la comunidad
       subtitle: First time contributor
       href: https://ropensci.org/commcalls/first-time-contributor/
       thumbnail: activities/comm_call_sunny.png
-  tiles:
-    - title: Revision de paquete
-      subtitle:
-      href: https://ropensci.org/commcalls/first-time-contributor/
-      thumbnail: activities/comm_call_sunny.png
-  tiles:
-    - title: Blog post
-      subtitle:
-      href: https://ropensci.org/commcalls/first-time-contributor/
-      thumbnail: activities/comm_call_sunny.png
-  tiles:
     - title: Capacitación
       subtitle:
       href: https://ropensci.org/commcalls/first-time-contributor/
-      thumbnail: activities/comm_call_sunny.png
+    - title: Revision de paquete
+      subtitle:
+      href: https://ropensci.org/commcalls/first-time-contributor/

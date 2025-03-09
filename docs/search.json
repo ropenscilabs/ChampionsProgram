@@ -1041,5 +1041,19 @@
     "title": "rOpenSci",
     "section": "Do you have any questions?",
     "text": "Do you have any questions?\nPlease, contact our Community Manager by email or book a 15 minutes meeting with her."
+  },
+  {
+    "objectID": "resources/resources.html",
+    "href": "resources/resources.html",
+    "title": "Recursos",
+    "section": "",
+    "text": "La primera fase del programa se compone de cursos de capacitacion semanales de dos horas de duración sobre los cuatro temas de formación: programación, revisión de software, gestión de comunidades y mentoría.\nEste año agregamos una serie de talleres sobre git y GitHub avanzado y sobre comunicación, aprendizaje y enseñanza.\nLos siguientes materiales corresponden a las cohortes anteriores y se encuentran en Inglés. Agregaremos las versiones en español a medida que se vayan traduciendo y desarrollando.\n\n\n\nFormación y orientación para tutores por Yanina Bellini Saibene.\n\n\n\n\n\nDesarrollando Software en Comunidad, por Paola Corrales y Yanina Bellini Saibene\nDesarrollo de paquetes: la mecánica, por Maëlle Salmon\nEl desarrollo de paquetes no es ciencia de cohetes, por Maëlle Salmon\nCódigo bonito, ¡porque lo valemos!, por Maëlle Salmon\nComo contribuir a R base, por Heather Turner\n\n\n\n\n\nCómo rOpenSci realiza la revisión por pares, por Mauro Lepore y Noam Ross\n\n\n\n\n\nCómo contribuir a proyectos y comunidades abiertas, por Yanina Bellini Saibene\nHaciendo un PACTO para reuniones y eventos virtuales activos por CSCCE"
+  },
+  {
+    "objectID": "resources/resources.html#capacitación",
+    "href": "resources/resources.html#capacitación",
+    "title": "Recursos",
+    "section": "",
+    "text": "La primera fase del programa se compone de cursos de capacitacion semanales de dos horas de duración sobre los cuatro temas de formación: programación, revisión de software, gestión de comunidades y mentoría.\nEste año agregamos una serie de talleres sobre git y GitHub avanzado y sobre comunicación, aprendizaje y enseñanza.\nLos siguientes materiales corresponden a las cohortes anteriores y se encuentran en Inglés. Agregaremos las versiones en español a medida que se vayan traduciendo y desarrollando.\n\n\n\nFormación y orientación para tutores por Yanina Bellini Saibene.\n\n\n\n\n\nDesarrollando Software en Comunidad, por Paola Corrales y Yanina Bellini Saibene\nDesarrollo de paquetes: la mecánica, por Maëlle Salmon\nEl desarrollo de paquetes no es ciencia de cohetes, por Maëlle Salmon\nCódigo bonito, ¡porque lo valemos!, por Maëlle Salmon\nComo contribuir a R base, por Heather Turner\n\n\n\n\n\nCómo rOpenSci realiza la revisión por pares, por Mauro Lepore y Noam Ross\n\n\n\n\n\nCómo contribuir a proyectos y comunidades abiertas, por Yanina Bellini Saibene\nHaciendo un PACTO para reuniones y eventos virtuales activos por CSCCE"
   }
 ]

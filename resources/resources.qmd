@@ -1,4 +1,33 @@
 ---
 title: "Recursos"
+toc: true
 ---
 
+## Capacitación
+
+La primera fase del programa se compone de cursos de capacitacion semanales de dos horas de duración sobre los cuatro temas de formación: programación, revisión de software, gestión de comunidades y mentoría.  
+
+Este año agregamos una serie de talleres sobre git y GitHub avanzado y sobre comunicación, aprendizaje y enseñanza.
+
+Los siguientes materiales corresponden a las cohortes anteriores y se encuentran en Inglés. Agregaremos las versiones en español a medida que se vayan traduciendo y desarrollando.
+
+### Mentoria
+
+* [Formación y orientación para tutores](https://ropensci-training.github.io/ropensci-mentors/) por Yanina Bellini Saibene.
+
+### Programación
+
+* [Desarrollando Software en Comunidad](https://paocorrales.github.io/git-developing-software-together/), por Paola Corrales y Yanina Bellini Saibene
+* [Desarrollo de paquetes: la mecánica](https://rpkgdev-mechanics-2024.netlify.app/), por Maëlle Salmon
+* [El desarrollo de paquetes no es ciencia de cohetes](https://rpkgdev-rocket-2024.netlify.app/), por Maëlle Salmon 
+* [Código bonito, ¡porque lo valemos!](https://stylish-code.netlify.app/#/), por Maëlle Salmon
+* [Como contribuir a R base](https://hturner.github.io/rOpenSci_champions/), por Heather Turner
+
+### Revisión de Software
+
+* [Cómo rOpenSci realiza la revisión por pares](https://github.com/maurolepore/ropensci-review), por Mauro Lepore y Noam Ross
+
+### Gestion de comunidades
+
+* [Cómo contribuir a proyectos y comunidades abiertas](https://osschampionsprogram.netlify.app/), por Yanina Bellini Saibene
+* [Haciendo un PACTO para reuniones y eventos virtuales activos](https://zenodo.org/record/4987666#.Y-1Y4nbMK5c) por CSCCE
