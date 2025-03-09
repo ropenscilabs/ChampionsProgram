@@ -39,22 +39,23 @@ Si has desarrollado un paquete antes, por favor, comparte el link al repositorio
 _Selecciona una opción_
 
 [] Quiero desarrollar un nuevo paquete. 
-_Describe tu proyecto en un máximo de 200 palabras._
+_Describe tu proyecto en un máximo de 400 palabras._
 
 [] Quiero enviar un paquete al proceso de revisión. 
-_Describe tu proyecto en un máximo de 200 palabras. Incluye el enlace al repositorio de github/gitlab del paquete._
+_Describe tu proyecto en un máximo de 400 palabras. Incluye el enlace al repositorio de github/gitlab del paquete._
 
   *    Subir documento de acuerdo. _Si quieres trabajar en un paquete, pero no eres la persona que lo creó o lo mantiene, por favor añade un documento (un email impreso como PDF) del/la autor(a)/mantenedor(a) donde exprese(n) su acuerdo con tu proyecto._ 
 
 [] Quiero participar en el proceso de revisión como revisor/a. 
-_Describe los temas sobre los que puedes revisar en un máximo de 200 palabras_
+_Describe los temas sobre los que puedes revisar en un máximo de 400 palabras_
 
 ## Motivación
 
 * ¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? _Por favor, responde en un máximo de 200 palabras._
 
-* ¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? _Por favor, responde en un máximo de 200 palabras._
+* ¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? _Por favor, responde en un máximo de 400 palabras._
 
 * ¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? _Por favor, explícalo en un máximo de 400 palabras._
 
-* Por favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. _Por favor, responde en un máximo de 200 palabras._ 
+* Por favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. 
+_El compromiso de tiempo estimado para cada Campeón-a es, en promedio, de 16 horas por mes (incluye capacitaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquete o proceso de revisión, y preparación y organización de eventos). El compromiso de tiempo total para cada pariticipante variará en función de la trayectoria y las actividades que elijan realizar durante el programa.Por favor, responde en un máximo de 200 palabras. _ 

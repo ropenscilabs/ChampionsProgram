@@ -60,14 +60,14 @@
     "href": "champions/champions_template_es.html#información-del-proyecto",
     "title": "rOpenSci",
     "section": "Información del proyecto",
-    "text": "Información del proyecto\nSelecciona una opción\n[] Quiero desarrollar un nuevo paquete. Describe tu proyecto en un máximo de 200 palabras.\n[] Quiero enviar un paquete al proceso de revisión. Describe tu proyecto en un máximo de 200 palabras. Incluye el enlace al repositorio de github/gitlab del paquete.\n\nSubir documento de acuerdo. Si quieres trabajar en un paquete, pero no eres la persona que lo creó o lo mantiene, por favor añade un documento (un email impreso como PDF) del/la autor(a)/mantenedor(a) donde exprese(n) su acuerdo con tu proyecto.\n\n[] Quiero participar en el proceso de revisión como revisor/a. Describe los temas sobre los que puedes revisar en un máximo de 200 palabras"
+    "text": "Información del proyecto\nSelecciona una opción\n[] Quiero desarrollar un nuevo paquete. Describe tu proyecto en un máximo de 400 palabras.\n[] Quiero enviar un paquete al proceso de revisión. Describe tu proyecto en un máximo de 400 palabras. Incluye el enlace al repositorio de github/gitlab del paquete.\n\nSubir documento de acuerdo. Si quieres trabajar en un paquete, pero no eres la persona que lo creó o lo mantiene, por favor añade un documento (un email impreso como PDF) del/la autor(a)/mantenedor(a) donde exprese(n) su acuerdo con tu proyecto.\n\n[] Quiero participar en el proceso de revisión como revisor/a. Describe los temas sobre los que puedes revisar en un máximo de 400 palabras"
   },
   {
     "objectID": "champions/champions_template_es.html#motivación",
     "href": "champions/champions_template_es.html#motivación",
     "title": "rOpenSci",
     "section": "Motivación",
-    "text": "Motivación\n\n¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? Por favor, responde en un máximo de 200 palabras.\n¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? Por favor, responde en un máximo de 200 palabras.\n¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? Por favor, explícalo en un máximo de 400 palabras.\nPor favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. Por favor, responde en un máximo de 200 palabras."
+    "text": "Motivación\n\n¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? Por favor, responde en un máximo de 200 palabras.\n¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? Por favor, responde en un máximo de 400 palabras.\n¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? Por favor, explícalo en un máximo de 400 palabras.\nPor favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. El compromiso de tiempo estimado para cada Campeón-a es, en promedio, de 16 horas por mes (incluye capacitaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquete o proceso de revisión, y preparación y organización de eventos). El compromiso de tiempo total para cada pariticipante variará en función de la trayectoria y las actividades que elijan realizar durante el programa.Por favor, responde en un máximo de 200 palabras."
   },
   {
     "objectID": "champions/author_email_template.html",
@@ -81,7 +81,7 @@
     "href": "champions/author_email_template_es.html",
     "title": "rOpenSci",
     "section": "",
-    "text": "The template for this text is also available in English.\nAsunto: Apoyo para la participación de nombre de la persona solicitante en el Programa de Campeones/as de rOpenSci\nTexto:\nComité de Selección del Programa rOpenSci Champions\nEscribo para expresar mi apoyo a la intención de nombre de la persona solicitante de participar en el programa de campeones y campeonas de rOpenSci y contribuir a nuestro paquete de R como su proyecto.\nSoy el/la autor(a)/mantenedor(a) del paquete nombre del paquete y este correo electrónico es un reconocimiento formal de la intención de nombre de la persona solicitante de contribuir y confirma el apoyo del autor(es) y/o co-mantenedor(es) del paquete a su trabajo si es seleccionado como campeón(a).\nSi tiene alguna pregunta, no dude en ponerse en contacto con nosotros.\nUn cordial saludo,"
+    "text": "Asunto: Apoyo para la participación de nombre de la persona solicitante en el Programa de Campeones/as de rOpenSci\nTexto:\nComité de Selección del Programa rOpenSci Champions\nEscribo para expresar mi apoyo a la intención de nombre de la persona solicitante de participar en el programa de campeones y campeonas de rOpenSci y contribuir a nuestro paquete de R como su proyecto.\nSoy el/la autor(a)/mantenedor(a) del paquete nombre del paquete, alojado en link con url completa al repositorio publico del paquete y este correo electrónico es un reconocimiento formal de la intención de nombre de la persona solicitante de contribuir y confirma el apoyo del autor(es) y/o co-mantenedor(es) del paquete a su trabajo si es seleccionado como campeón(a).\nSi tiene alguna pregunta, no dude en ponerse en contacto con nosotros.\nUn cordial saludo,\nNombre y cargo de la persona que envia el mail"
   },
   {
     "objectID": "quarto-apply-champions.html",
@@ -613,14 +613,14 @@
     "href": "champions/index.html#elegibilidad",
     "title": "Campeon(e|a)s",
     "section": "Elegibilidad",
-    "text": "Elegibilidad\nBuscamos personas que trabajen en campos STEAM, de América Latina que:\n\nYa tengan conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete R que les gustaría desarrollar, o;\nYa han desarrollado un paquete R que está dentro del alcance temático de rOpenSci, y quieren tenerlo revisado por pares a través de rOpenSci, o;\nDesea aprender a revisar para rOpenSci, y;\nTienen conocimientos básicos de comunicación en español (escrita y verbal)."
+    "text": "Elegibilidad\nBuscamos personas que trabajen en campos STEAM, de América Latina que:\n\nYa tengan conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete R que les gustaría desarrollar, o;\nYa han desarrollado un paquete R que está dentro del alcance temático de rOpenSci, y quieren tenerlo revisado por pares a través de rOpenSci, o;\nDesea aprender a revisar para rOpenSci, y;\nTienen conocimientos básicos de comunicación en español (escrita y oral)."
   },
   {
     "objectID": "champions/index.html#acerca-del-programa",
     "href": "champions/index.html#acerca-del-programa",
     "title": "Campeon(e|a)s",
     "section": "Acerca del programa",
-    "text": "Acerca del programa\nEste es un programa de 12 meses de duración que incluye formación basada en cohortes, desarrollo de proyectos y tutoría personal.\nLas personas participarán en:\n\nUna formación basada en cohortes sobre:\n\nConocimientos técnicos sobre desarrollo de software de codigo abierto en R (funciones, paquetes, testing),\nConocimientos tecnicos sobre herramientas para desarrollo de software colaborativo (git, GitHub)\nConocimientos tecnicos sobre revisión de software por pares,\nCómo planificar y facilitar talleres atractivos e inclusivos para apoyar el éxito de los participantes,\nComo gestionar una comunidad de usuarios y colaboradores de un paquete R,\nConocimiento de los diversos canales a través de los cuales pueden participar y contribuir a los proyectos de rOpenSci y R\n\nTutoría personal y de grupo:\n\nUna serie de reuniones con su mentor/a;\nLlamadas trimestrales de la cohorte;\nHoras de oficina mensuales con la cohorte;\n\nLos paquetes que se enmarquen en las tematicas de bioinformatica y salud tendran puntos extras en la propuesta."
+    "text": "Acerca del programa\nEste es un programa de 12 meses de duración que incluye formación basada en cohortes, desarrollo de proyectos y tutoría personal.\nLas personas participarán en:\n\nUna formación basada en cohortes sobre:\n\nConocimientos técnicos sobre desarrollo de software de codigo abierto en R (funciones, paquetes, testing),\nConocimientos tecnicos sobre herramientas para desarrollo de software colaborativo (git, GitHub)\nConocimientos tecnicos sobre revisión de software por pares,\nCómo planificar y facilitar talleres atractivos e inclusivos para apoyar el éxito de los participantes,\nConocimientos basicos de enseñanza y aprendizaje para aplicarlo en contenido y talleres técnicos,\nComo gestionar una comunidad de personas usuarias y colaboradoras de un paquete R,\nConocimiento de los diversos canales a través de los cuales pueden participar y contribuir a los proyectos de rOpenSci y R\n\nTutoría personal y de grupo:\n\nUna serie de reuniones con tu mentor/a;\nReuniones trimestrales de la cohorte;\nHoras de oficina periódicas (semanales, mensuales) con la cohorte;\n\nDesarrollo de proyectos y actividades con la comunidad:\n\nDesde el inicio del programa podran trabajar en su proyecto, el entrenamiento les brindara herramientas para poder avanzar en el desarrollo de su paquete R, preparar su paquete para la revisión por pares o realizar revisión de software por pares.\nLa segunda mitad del programa se enfocará en la finalizacion del proyecto y la organización de un taller, evento u otra actividad de la comunidad en su región o institución.\n\nLos paquetes que se enmarquen en las tematicas de bioinformatica y salud tendran prioridad en la selección de los proyectos."
   },
   {
     "objectID": "mentors/index.html#tengo-más-preguntas",
@@ -628,5 +628,180 @@
     "title": "Mentor(a|e)s",
     "section": "Tengo más preguntas",
     "text": "Tengo más preguntas\nSi tienes más preguntas chequea nuestras preguntas frecuentes o contactanos enviando un mail a info@ropensci.org."
+  },
+  {
+    "objectID": "champions/index.html#cuáles-son-las-ventajas-de-participar",
+    "href": "champions/index.html#cuáles-son-las-ventajas-de-participar",
+    "title": "Campeon(e|a)s",
+    "section": "¿Cuáles son las ventajas de participar?",
+    "text": "¿Cuáles son las ventajas de participar?\nAdemás de la formación, la tutoría personal y la posibilidad de desarrollar un proyecto de tu elección, algunos otros beneficios que recibirás son:\n\nAprender y practicar como organizar y enseñar talleres;\nAprender y practicar habilidades para revisar software y desarrollar paquetes R;\nObtener información de personas expertas y ampliar tu red profesional;\nGanar visibilidad a través de la capacitación, la tutoría y la creación de contenidos;\nObtener reconocimiento internacional por tu trabajo;\nCo-desarrollar este programa y otros proyectos de rOpenSci compartiendo tu feedback e ideas;\nConvertirte en parte activa de la comunidad rOpenSci;\nCree software, contenidos y eventos en el idioma de tu comunidad;\nCapacitar y compartir con las personas de tu comunidad lo que aprendas y desarroles en el programa;\nConvertirte en mentor de otras personas.\n\nProporcionaremos un estipendio de $500 (USD) a las personas seleccionadas como Campeones-as que completen el programa."
+  },
+  {
+    "objectID": "champions/index.html#expectativas-del-programa",
+    "href": "champions/index.html#expectativas-del-programa",
+    "title": "Campeon(e|a)s",
+    "section": "Expectativas del programa",
+    "text": "Expectativas del programa\nSe espera que los Campeon(e|a)s completen la formación y asistan a las reuniones con sus mentores/as y cohortes. Tras la formación, los Campeon(e|a)s desarrollarán su propio proyecto. Los proyectos pueden implicar la creación de un nuevo paquete o pasar por el proceso de revisión por pares como autor(e|a)s o revisor(e|a)s. El proyecto debe estar terminado o en un estado avanzado al final del programa.\nLos Campeon(e|a)s también elegirán y llevarán a cabo varias actividades, como dirigir actividades de capacitación, hacer presentaciones, escribir articulos en blogs y organizar grupos en sus comunidades.\nSe espera que los Campeon(e|a)s promuevan la participación en la revisión de software por pares y la contribución al software de código abierto, la infraestructura y la documentación de rOpenSci. También recopilarán información sobre cómo mejorar la programación actual de rOpenSci para satisfacer las necesidades de todas las personas que deseen participar.\nEl compromiso de tiempo estimado para cada Campeón es, en promedio, de 16 horas al mes (incluyendo formaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquetes o proceso de revisión, y preparación y organización de eventos). El compromiso total de tiempo de cada persona variará en función de la trayectoria y las actividades que elija realizar durante el programa."
+  },
+  {
+    "objectID": "champions/index.html#cómo-aplicar",
+    "href": "champions/index.html#cómo-aplicar",
+    "title": "Campeon(e|a)s",
+    "section": "¿Cómo aplicar?",
+    "text": "¿Cómo aplicar?\nSe debe completar el formulario de aplicación antes del 30 de Abril de 2025. El formulario debe completarse en castellano.\n\nFormulario para aplicar.\n\nSi quieres trabajar en un paquete del que no eres autor/a o la persona que lo mantiene, necesitas el respaldo de los desarrolladores a cargo. Aquí tienes un ejemplo del texto que debe contener el correo electrónico,\n\nInformación requerida en el formulario\nA continuación detallamos toda la información que solicitamos en el formulario para que puedas prepararte antes de completarlo.\n\nInformación General\n\nNombre completo: nombre(s) y apellido(s)\nEmail: correo electrónico que quieres que usemos para comunicarnos contigo.\nPaís: país de residencia.\nZona horaria: Indica tu zona horaria en UTC (por ejemplo, Santa Rosa, Argentina es UTC -3)..\nPronombres: por favor, comparte los pronombres que quieres que usemos para referirnos a tí (por ejemplo, el pronombre de Yanina es “ella”)\nGitHub o GitLab: Por favor, proporciona el enlace a tu perfil. Comparte la url completa, por ejemplo, https://github.com/ropensci. Recomendamos que tu perfil sea informativo: completa la información de tu perfil de GitHub (y mantenla actualizada); Anota tus repositorios más importantes. Pueden ser repositorios a los que hayas contribuido; Publica las afiliaciones a organizaciones que quieras mostrar; Añade un README del perfil.\nRedes sociales: por favor, facilita el enlace a tu perfil de LinkedIn/Mastodon, etc. (opcional)\nSitio Web: por favor, facilita el enlace a tu sitio web (optional)\nAfiliación: por favor, indica tu afiliación a una universidad/institución/organización u otro empleador\nComunidad: por favor, indica tu participación en comunidades (como R-Ladies, Grupos RSE, LatinR, ReproHack, etc. o indica NA)\n\n\n\nExperiencia\n\n¿Tienes experiencia desarrollando o contribuyendo significativamente a paquetes de R? Selecciona una opción\n\nNo, nunca desarrollé o contribuí a un paquete de R.\nNo he desarrollado ningún paquete R, pero contribuyo a uno o más.\nSí, he desarrollado un paquete R, pero nunca lo he enviado a CRAN.\nSí, he desarrollado un paquete R, y está publicado en CRAN.\nSí, he desarrollado un paquete R, y pasó por el proceso de revisión de rOpenSci.\n\n\nSi has desarrollado un paquete de R, por favor, comparte el link al repositorio de github/gitlab:\n\n\nInformación del proyecto\nSelecciona una opción\n[] Quiero desarrollar un nuevo paquete. Describe tu proyecto en un máximo de 400 palabras.\n[] Quiero enviar un paquete al proceso de revisión. Describe tu proyecto en un máximo de 400 palabras. Incluye el enlace al repositorio de github/gitlab del paquete.\n\nSubir documento de acuerdo. Si quieres trabajar en un paquete, pero no eres la persona que lo creó o lo mantiene, por favor añade un documento (un email impreso como PDF) del/la autor(a)/mantenedor(a) donde exprese(n) su acuerdo con tu proyecto.\n\n[] Quiero participar en el proceso de revisión como revisor/a. Describe los temas sobre los que puedes revisar en un máximo de 400 palabras\n\n\nMotivación\n\n¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? Por favor, responde en un máximo de 400 palabras.\n¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? Por favor, responde en un máximo de 400 palabras.\n¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? Por favor, explícalo en un máximo de 400 palabras.\nPor favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. El compromiso de tiempo estimado para cada Campeón-a es, en promedio, de 16 horas por mes (incluye capacitaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquete o proceso de revisión, y preparación y organización de eventos). El compromiso de tiempo total para cada pariticipante variará en función de la trayectoria y las actividades que elijan realizar durante el programa.Por favor, responde en un máximo de 200 palabras."
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-champions.html",
+    "href": "draft-applications-intructions/quarto-apply-champions.html",
+    "title": "Aplica para ser Campeon/a",
+    "section": "",
+    "text": "Application Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nProgram start: [Date]"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-champions.html#champion-application",
+    "href": "draft-applications-intructions/quarto-apply-champions.html#champion-application",
+    "title": "Aplica para ser Campeon/a",
+    "section": "",
+    "text": "Application Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nProgram start: [Date]"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-champions.html#requirements",
+    "href": "draft-applications-intructions/quarto-apply-champions.html#requirements",
+    "title": "Aplica para ser Campeon/a",
+    "section": "Requirements",
+    "text": "Requirements\nBefore applying, please ensure you meet the following requirements:\n\nIntermediate R programming skills\nBasic understanding of version control (Git)\nInterest in open science and reproducible research\nCommitment to attend weekly sessions and complete assignments\nTime availability of 5-7 hours per week for 6 months"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-champions.html#what-were-looking-for",
+    "href": "draft-applications-intructions/quarto-apply-champions.html#what-were-looking-for",
+    "title": "Aplica para ser Campeon/a",
+    "section": "What We’re Looking For",
+    "text": "What We’re Looking For\nIdeal candidates will demonstrate:\n\nMotivation to contribute to open source scientific software\nInterest in community engagement and peer learning\nCommitment to open science principles\nWillingness to learn and share knowledge"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-champions.html#application-process",
+    "href": "draft-applications-intructions/quarto-apply-champions.html#application-process",
+    "title": "Aplica para ser Campeon/a",
+    "section": "Application Process",
+    "text": "Application Process\n\nReview Program Details\n\nRead through the program overview\nCheck the program timeline and commitments\nReview the FAQ section\n\nPrepare Required Information\n\nCurrent CV/Resume\nGitHub profile\nR programming experience description\nProject idea outline\n\nComplete Application Form"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-champions.html#selection-process",
+    "href": "draft-applications-intructions/quarto-apply-champions.html#selection-process",
+    "title": "Aplica para ser Campeon/a",
+    "section": "Selection Process",
+    "text": "Selection Process\n\nApplication Review (2-3 weeks)\nInitial Screening\nShort Interview with Program Team\nFinal Selection"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-champions.html#questions",
+    "href": "draft-applications-intructions/quarto-apply-champions.html#questions",
+    "title": "Aplica para ser Campeon/a",
+    "section": "Questions?",
+    "text": "Questions?\nIf you have any questions about the application process, please:\n\nCheck our FAQ section\nContact us at [program email]"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-mentors.html",
+    "href": "draft-applications-intructions/quarto-apply-mentors.html",
+    "title": "Apply as a Mentor",
+    "section": "",
+    "text": "Mentor Recruitment Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nMentorship begins: [Date]"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-mentors.html#mentor-application",
+    "href": "draft-applications-intructions/quarto-apply-mentors.html#mentor-application",
+    "title": "Apply as a Mentor",
+    "section": "",
+    "text": "Mentor Recruitment Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nMentorship begins: [Date]"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-mentors.html#mentor-requirements",
+    "href": "draft-applications-intructions/quarto-apply-mentors.html#mentor-requirements",
+    "title": "Apply as a Mentor",
+    "section": "Mentor Requirements",
+    "text": "Mentor Requirements\nEssential qualifications:\n\nSignificant experience in R package development\nActive participation in the R/open source community\nExperience in code review and technical documentation\nTime availability of 2-3 hours per week for 6 months"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-mentors.html#mentor-responsibilities",
+    "href": "draft-applications-intructions/quarto-apply-mentors.html#mentor-responsibilities",
+    "title": "Apply as a Mentor",
+    "section": "Mentor Responsibilities",
+    "text": "Mentor Responsibilities\nAs a mentor, you will:\n\nGuide 1-2 Champions through their project development\nProvide regular code review and feedback\nAttend monthly mentor coordination meetings\nSupport Champions in community engagement\nReview technical documentation"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-mentors.html#application-process",
+    "href": "draft-applications-intructions/quarto-apply-mentors.html#application-process",
+    "title": "Apply as a Mentor",
+    "section": "Application Process",
+    "text": "Application Process\n\nReview Mentor Guidelines\n\nProgram structure and timeline\nMentorship expectations\nTime commitments\n\nPrepare Required Information\n\nProfessional background\nOpen source contributions\nMentoring experience\nAreas of expertise\n\nComplete Application Form\n\n\n\n\n&lt;label for=\"name\"&gt;Full Name *&lt;/label&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\"&gt;Email Address *&lt;/label&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"github\"&gt;GitHub Username *&lt;/label&gt;\n&lt;input type=\"text\" id=\"github\" name=\"github\" required&gt;\n\n\n&lt;label for=\"expertise\"&gt;Areas of Expertise *&lt;/label&gt;\n&lt;textarea id=\"expertise\" name=\"expertise\" rows=\"4\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"mentoring\"&gt;Previous Mentoring Experience&lt;/label&gt;\n&lt;textarea id=\"mentoring\" name=\"mentoring\" rows=\"4\"&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"motivation\"&gt;Why do you want to be a mentor? *&lt;/label&gt;\n&lt;textarea id=\"motivation\" name=\"motivation\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"cv\"&gt;Upload CV/Resume (PDF) *&lt;/label&gt;\n&lt;input type=\"file\" id=\"cv\" name=\"cv\" accept=\".pdf\" required&gt;\n\n\nSubmit Application"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-mentors.html#selection-process",
+    "href": "draft-applications-intructions/quarto-apply-mentors.html#selection-process",
+    "title": "Apply as a Mentor",
+    "section": "Selection Process",
+    "text": "Selection Process\n\nApplication Review\nExperience Verification\nInterview with Program Coordinators\nFinal Selection and Onboarding"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-mentors.html#questions",
+    "href": "draft-applications-intructions/quarto-apply-mentors.html#questions",
+    "title": "Apply as a Mentor",
+    "section": "Questions?",
+    "text": "Questions?\nFor questions about mentoring or the application process:\n\nReview our FAQ section\nContact the mentor coordinator at [email]"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-instructors.html",
+    "href": "draft-applications-intructions/quarto-apply-instructors.html",
+    "title": "Apply as an Instructor",
+    "section": "",
+    "text": "Instructor Recruitment Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nTraining begins: [Date]"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-instructors.html#instructor-application",
+    "href": "draft-applications-intructions/quarto-apply-instructors.html#instructor-application",
+    "title": "Apply as an Instructor",
+    "section": "",
+    "text": "Instructor Recruitment Timeline\n\n\n\n\nApplications open: [Date]\nApplication deadline: [Date]\nTraining begins: [Date]"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-instructors.html#instructor-requirements",
+    "href": "draft-applications-intructions/quarto-apply-instructors.html#instructor-requirements",
+    "title": "Apply as an Instructor",
+    "section": "Instructor Requirements",
+    "text": "Instructor Requirements\nEssential qualifications:\n\nExpert-level knowledge in specific R/open science topics\nTeaching or training experience\nStrong communication skills\nAvailability for workshop preparation and delivery"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-instructors.html#teaching-topics",
+    "href": "draft-applications-intructions/quarto-apply-instructors.html#teaching-topics",
+    "title": "Apply as an Instructor",
+    "section": "Teaching Topics",
+    "text": "Teaching Topics\nWe’re seeking instructors for:\n\nR Package Development\nTesting and Continuous Integration\nDocumentation Best Practices\nCode Review\nOpen Science Practices\nData Management\nReproducible Research"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-instructors.html#application-process",
+    "href": "draft-applications-intructions/quarto-apply-instructors.html#application-process",
+    "title": "Apply as an Instructor",
+    "section": "Application Process",
+    "text": "Application Process\n\nReview Teaching Requirements\n\nWorkshop formats and expectations\nTime commitments\nMaterial development guidelines\n\nPrepare Required Information\n\nTeaching experience\nTopic expertise\nSample teaching materials\nAvailability\n\nComplete Application Form\n\n\n\n\n&lt;label for=\"name\"&gt;Full Name *&lt;/label&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" required&gt;\n\n\n&lt;label for=\"email\"&gt;Email Address *&lt;/label&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" required&gt;\n\n\n&lt;label for=\"topics\"&gt;Preferred Teaching Topics *&lt;/label&gt;\n&lt;textarea id=\"topics\" name=\"topics\" rows=\"4\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"experience\"&gt;Teaching Experience *&lt;/label&gt;\n&lt;textarea id=\"experience\" name=\"experience\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"approach\"&gt;Teaching Approach and Philosophy *&lt;/label&gt;\n&lt;textarea id=\"approach\" name=\"approach\" rows=\"6\" required&gt;&lt;/textarea&gt;\n\n\n&lt;label for=\"materials\"&gt;Link to Sample Teaching Materials&lt;/label&gt;\n&lt;input type=\"url\" id=\"materials\" name=\"materials\"&gt;\n\n\n&lt;label for=\"cv\"&gt;Upload CV/Resume (PDF) *&lt;/label&gt;\n&lt;input type=\"file\" id=\"cv\" name=\"cv\" accept=\".pdf\" required&gt;\n\n\nSubmit Application"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-instructors.html#selection-process",
+    "href": "draft-applications-intructions/quarto-apply-instructors.html#selection-process",
+    "title": "Apply as an Instructor",
+    "section": "Selection Process",
+    "text": "Selection Process\n\nApplication Review\nTeaching Sample Review\nMock Teaching Session\nFinal Selection and Onboarding"
+  },
+  {
+    "objectID": "draft-applications-intructions/quarto-apply-instructors.html#questions",
+    "href": "draft-applications-intructions/quarto-apply-instructors.html#questions",
+    "title": "Apply as an Instructor",
+    "section": "Questions?",
+    "text": "Questions?\nFor questions about teaching or the application process:\n\nReview our FAQ section\nContact the training coordinator at [email]"
+  },
+  {
+    "objectID": "champions/index.html#motivación",
+    "href": "champions/index.html#motivación",
+    "title": "Campeon(e|a)s",
+    "section": "Motivación",
+    "text": "Motivación\n\n¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? Por favor, responde en un máximo de 400 palabras.\n¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? Por favor, responde en un máximo de 400 palabras.\n¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? Por favor, explícalo en un máximo de 400 palabras.\nPor favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. El compromiso de tiempo estimado para cada Campeón-a es, en promedio, de 16 horas por mes (incluye capacitaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquete o proceso de revisión, y preparación y organización de eventos). El compromiso de tiempo total para cada pariticipante variará en función de la trayectoria y las actividades que elijan realizar durante el programa.Por favor, responde en un máximo de 200 palabras."
   }
 ]
