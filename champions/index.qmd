@@ -106,7 +106,7 @@ Se debe completar el formulario de aplicación antes del **30 de Abril de 2025**
 
 * [Formulario para aplicar](https://airtable.com/appF6OXmxkk8VmR8a/shrlvgcNz1R4CoaQN).
 
-Si quieres trabajar en un paquete del que no eres autor/a o la persona que lo mantiene, necesitas el respaldo de los desarrolladores a cargo.  [Aquí tienes un ejemplo del texto que debe contener el correo electrónico](/champions/files/author_email_template_es.html),
+Si quieres trabajar en un paquete del que no eres autor/a o la persona que lo mantiene, necesitas el respaldo de los desarrolladores a cargo.  [Aquí tienes un ejemplo del texto que debe contener el correo electrónico](/champions/author_email_template_es.qmd),
 
 ### Información requerida en el formulario
 

@@ -79,7 +79,7 @@
   {
     "objectID": "champions/author_email_template_es.html",
     "href": "champions/author_email_template_es.html",
-    "title": "rOpenSci",
+    "title": "Plantilla para email de apoyo al proyecto",
     "section": "",
     "text": "Asunto: Apoyo para la participación de nombre de la persona solicitante en el Programa de Campeones/as de rOpenSci\nTexto:\nComité de Selección del Programa rOpenSci Champions\nEscribo para expresar mi apoyo a la intención de nombre de la persona solicitante de participar en el programa de campeones y campeonas de rOpenSci y contribuir a nuestro paquete de R como su proyecto.\nSoy el/la autor(a)/mantenedor(a) del paquete nombre del paquete, alojado en link con url completa al repositorio publico del paquete y este correo electrónico es un reconocimiento formal de la intención de nombre de la persona solicitante de contribuir y confirma el apoyo del autor(es) y/o co-mantenedor(es) del paquete a su trabajo si es seleccionado como campeón(a).\nSi tiene alguna pregunta, no dude en ponerse en contacto con nosotros.\nUn cordial saludo,\nNombre y cargo de la persona que envia el mail"
   },
@@ -803,5 +803,243 @@
     "title": "Campeon(e|a)s",
     "section": "Motivación",
     "text": "Motivación\n\n¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? Por favor, responde en un máximo de 400 palabras.\n¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? Por favor, responde en un máximo de 400 palabras.\n¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? Por favor, explícalo en un máximo de 400 palabras.\nPor favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. El compromiso de tiempo estimado para cada Campeón-a es, en promedio, de 16 horas por mes (incluye capacitaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquete o proceso de revisión, y preparación y organización de eventos). El compromiso de tiempo total para cada pariticipante variará en función de la trayectoria y las actividades que elijan realizar durante el programa.Por favor, responde en un máximo de 200 palabras."
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template.html",
+    "href": "draft-applications-intructions/champions_template.html",
+    "title": "rOpenSci",
+    "section": "",
+    "text": "La plantilla del formulario también está disponible en español."
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template.html#general-information",
+    "href": "draft-applications-intructions/champions_template.html#general-information",
+    "title": "rOpenSci",
+    "section": "General information",
+    "text": "General information\n\nFull Name: Your given and family names\nEmail: The email address we should use to contact you\nCountry: country of residence.\nTimezone: your residency city timezone expressed in UTC\nPronouns: Please share the pronouns you would like us to use when referring to you (optional)\nLanguage: what language(s) do you prefer for your communication during the training and mentoring calls?\nGitHub or GitLab: please, provide link to your profile. Share the full url, for example, https://github.com/ropensci We recommend that you make your profile informative: Fill your GitHub profile information (and to keep it up-to-date); Pin your most important repositories. They can be repositories you contributed to; Publicize the organization memberships you want to show; Add a profile README.\nSocial network: please, provide link to your Masotodon/LinkedIn, etc., profile (optional)\nWebsite: please, provide link to your website (optional)\nAffiliation: please provide your affiliations to university/institution/organization or other employer\nCommunity: please provide affiliations to communities (like R-Ladies, MiR, RSE Groups, LatinR, ReproHack, etc. or indicate NA)\n[] Please, check if you self-identify as a member of a systematically excluded group from the open source software community."
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template.html#expertise",
+    "href": "draft-applications-intructions/champions_template.html#expertise",
+    "title": "rOpenSci",
+    "section": "Expertise",
+    "text": "Expertise\n\nDo you have experience developing or significantly contributing to R packages? Choose one option\n\nNo, I have never developed an R package\nNo, I have not developed an R package, but I contribute to one or more.\nYes, I have developed an R package, but did not submit it to CRAN.\nYes, I have developed an R package, and it is published in CRAN.\nYes, I have developed an R package before, and it went through rOpenSci’s peer review.\n\n\nIf you developed a package before please, link the github/gitlab repo:"
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template.html#project-information",
+    "href": "draft-applications-intructions/champions_template.html#project-information",
+    "title": "rOpenSci",
+    "section": "Project information",
+    "text": "Project information\nChoose one option\n[] I want to develop a new package. Describe your project in a maximum of 200 words.\n[] I want to submit a package to rOpenSci’s peer review process. Describe your project in a maximum of 200 words. Provide a link to github or gitlab repository for the package\n\nUpload agreement document. If you want to work on a package, but you are not the author or co-maintainer, please add a document (an email printed as PDF) from the author/maintainer where they express their agreement with your project.\n\n[] I want to be part of the review process as a reviewer. Describe the topics you can review in a maximun of 200 words"
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template.html#motivation",
+    "href": "draft-applications-intructions/champions_template.html#motivation",
+    "title": "rOpenSci",
+    "section": "Motivation",
+    "text": "Motivation\n\nWhy would you like to be part of the rOpenSci champions program? Please respond in a maximum of 200 words.\nHow do you expect your role as a rOpenSci Champion will inform or support your local community? Please respond in a maximum of 200 words.\nWhat are three things that you consider to be most important to do or keep in mind when participating in a community of practice like rOpenSci? Please, explain in a maximum of 400 words.\nPlease indicate how your current employment status gives you the flexibility to dedicate time to fulfilling the responsibilities of the rOpenSci Champion Program. The estimated time commitment for each Champion is, on average, 16 hours per month (includes trainings, cohort events, mentoring meetings, package development or review process, and preparing for and hosting events). The total time commitment for each Champion will vary based on the path and activities they choose to do during the program. Please respond in a maximum of 200 words."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetailsmentors_2023.html",
+    "href": "draft-applications-intructions/programdetailsmentors_2023.html",
+    "title": "rOpenSci",
+    "section": "",
+    "text": "+++ title = “Program Details - Mentors” description = “Mentors support our cohort of rOpenSci Champions. Could you offer insight and advice to our selected Champions? Learn the details and express your interest!” tags = [“champions”] +++\nThe rOpenSci Champions Program is for people from historically and systematically excluded groups who are interested in contributing to rOpenSci and the broader ecosystem of open source and open science communities. After receiving training, mentors will work with Champions to develop their project, which can be one of the following options:\nMentors may also support Champions with delivering other activities like: giving a talk, writing blog posts, and teaching other community members."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetailsmentors_2023.html#templates",
+    "href": "draft-applications-intructions/programdetailsmentors_2023.html#templates",
+    "title": "rOpenSci",
+    "section": "Templates",
+    "text": "Templates\nWe create a template with the information we request in the form so that you can prepare before to fill out (there is a spanish version of this template)."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetailsmentors_2023.html#do-you-have-any-questions",
+    "href": "draft-applications-intructions/programdetailsmentors_2023.html#do-you-have-any-questions",
+    "title": "rOpenSci",
+    "section": "Do you have any questions?",
+    "text": "Do you have any questions?\nPlease, contact our Community Manager by email or book a 15 minutes meeting with her."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetailsmentors_2023.html#frequently-asked-questions",
+    "href": "draft-applications-intructions/programdetailsmentors_2023.html#frequently-asked-questions",
+    "title": "rOpenSci",
+    "section": "Frequently Asked Questions",
+    "text": "Frequently Asked Questions\n\nAre mentors paid?\nMentor are not paid.\n\n\nHow many mentees will I have?\nYou will mentor one Champion.\n\n\nAre the mentors trained?\nYes, we offer a training for mentors on how to be a mentor and the program logistic. We also offer a guide and resources for the mentoring task."
+  },
+  {
+    "objectID": "draft-applications-intructions/howtoapply.html",
+    "href": "draft-applications-intructions/howtoapply.html",
+    "title": "rOpenSci",
+    "section": "",
+    "text": "+++ title = “How to Apply” description = “” tags = [“champions”] +++"
+  },
+  {
+    "objectID": "draft-applications-intructions/howtoapply.html#champions",
+    "href": "draft-applications-intructions/howtoapply.html#champions",
+    "title": "rOpenSci",
+    "section": "Champions",
+    "text": "Champions\nYou need to fill out an application form. This template shows the information we will require. The application forms have to be completed in English.\nEsta es una versión en español de la plantilla del formulario de aplicación. Por favor, recuerda que el formulario debe ser completado en Inglés."
+  },
+  {
+    "objectID": "draft-applications-intructions/howtoapply.html#mentors",
+    "href": "draft-applications-intructions/howtoapply.html#mentors",
+    "title": "rOpenSci",
+    "section": "Mentors",
+    "text": "Mentors\nYou need to fill out an application form. This template shows the information we will require). The application forms have to be completed in English."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails.html",
+    "href": "draft-applications-intructions/programdetails.html",
+    "title": "rOpenSci",
+    "section": "",
+    "text": "+++ title = “Program Details - Champions” description = “If you want to be one of our champions here you can find goals, elegibility, benefits, and expectations for our program” tags = [“champions”] +++"
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails.html#program-goals",
+    "href": "draft-applications-intructions/programdetails.html#program-goals",
+    "title": "rOpenSci",
+    "section": "Program goals",
+    "text": "Program goals\nIn its inaugural year, the rOpenSci Champions Program aims to support R developers, from around the world, and who identify themselves as members of a group that is systematically excluded from the open software community to:\n\nGain the skills to develop their own R package or;\nGain confidence in submitting an R package for peer review or become a reviewer.\nLearn how to lead a workshop or other event about package development or software peer review - or another rOpenSci activity - in their local community.\nConnect with a supportive network of peers and mentors within the R ecosystem.\nProvide feedback to help rOpenSci to continue to host relevant, welcoming activities for R developers.\nGain transferable skills and experiences that are sought after for careers in open source software.\n\nWe are looking six to nine Champions for this first pilot. We expect to co-create the rOpenSci Champion program with the selected applicants and influence future editions with their experience and feedback.\nWe look forward to receiving many applications and are committed to directing non-selected applicants towards other ways in which they can contribute to rOpenSci."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails.html#eligibility",
+    "href": "draft-applications-intructions/programdetails.html#eligibility",
+    "title": "rOpenSci",
+    "section": "Eligibility",
+    "text": "Eligibility\n{{&lt; figure src = \"/images/volunteer/peep3.png\" width = \"300\" alt = \"Person holding a butterfly nest.\" class = \"pull-right\" &gt;}}\nWe are looking for people that work on STEAM fields, from anywhere in the world, who identify with the above and who:\n\nAlready have development knowledge with the R language and a solid idea for an R package they’d like to develop, or;\nHave already developed an R package, and want to have it peer reviewed through rOpenSci.\nWant to become a reviewer for rOpenSci.\nHave basic English communication skills (written and verbal)."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails.html#about-the-program",
+    "href": "draft-applications-intructions/programdetails.html#about-the-program",
+    "title": "rOpenSci",
+    "section": "About the program",
+    "text": "About the program\nThe rOpenSci Champions Program is a 12-month-long program including cohort-based training, project development, and personal mentorship.\nChampions will participate in:\n\nA 6-week long cohort-based training on:\n\nhow to plan and facilitate engaging and inclusive workshops to support participants’ success,\nknowledge of various channels through which new members can engage in and contribute to rOpenSci and R projects, and\ntechnical skills in software development and review.\n\nPersonal and group mentorship:\n\nA series of meetings with mentors;\nQuarterly cohort calls."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails.html#what-are-the-benefits-of-taking-part",
+    "href": "draft-applications-intructions/programdetails.html#what-are-the-benefits-of-taking-part",
+    "title": "rOpenSci",
+    "section": "What are the benefits of taking part?",
+    "text": "What are the benefits of taking part?\n{{&lt; figure src = \"/images/volunteer/peep5.png\" width = \"300\" alt = \"Person holding a butterfly nest.\" class = \"pull-left\" &gt;}}\nBy participating in this program, you can help rOpenSci and your community grow. In addition to training and personal mentoring, some other benefits you will receive are:\n\nLearn and practice organizing and teaching workshops;\nLearn and practice reviewer, and developer skills;\nGain insights from other experts and expand your professional network;\nGain visibility through training, mentorship, and content creation;\nGet recognition and acknowledgment for your work;\nCo-develop this program and other rOpenSci projects by sharing feedback;\nBecome an active contributing member of the rOpenSci community;\nCreate content in the language of your community;\nEmpower members of your community by sharing what you learn;\nBecome a mentor to other members of your community.\n\nWe will provide a $1000 (USD) stipend to the selected community Champions."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails.html#program-expectations",
+    "href": "draft-applications-intructions/programdetails.html#program-expectations",
+    "title": "rOpenSci",
+    "section": "Program expectations",
+    "text": "Program expectations\n{{&lt; figure src = \"/images/volunteer/peep6.png\" width = \"300\" alt = \"A person with his dog working on a notebook.\" class = \"pull-left\" &gt;}}\nChampions are expected to complete training and attend meetings with their mentors and cohorts. After training, Champions will develop their own project. Projects may involve building a new package or going through the peer review process as an author or a reviewer.\nChampions will also choose and perform several activities, such as running recruitment activities, giving presentations, writing blog posts, and organizing peer groups in their communities.\nIt is expected that Champions will promote participation in peer review and contribution to rOpenSci open source software, infrastructure, and documentation. They will also gather feedback on where rOpenSci’s current programming might be improved to meet the needs of all who wish to participate.\nThe estimated time commitment for each Champion is, on average, 10 hours per month (including trainings, cohort events, mentoring meetings, package development or review process, and preparing for and hosting events). The total time commitment for each Champion will vary based on the path and activities they choose to do during the program."
+  },
+  {
+    "objectID": "draft-applications-intructions/author_email_template.html",
+    "href": "draft-applications-intructions/author_email_template.html",
+    "title": "rOpenSci",
+    "section": "",
+    "text": "La plantilla de este texto también está disponible en español.\nSubject: Support to applicant name Participation in the rOpenSci Champions Program\nText:\nrOpenSci Champions Program Selection Committee\nI am writing to express my support for applicant’s name intention to participate in the rOpenSci Champions program and contribute to our R package as their project.\nI’m the author/maintainer of the package name of package and this email acts as a formal acknowledgement of applicant’s name intention to contribute and confirms the package’s author(s) or co-maintainer(s) supports for they work if selected as champion.\nPlease feel free to reach out if you have any questions.\nKind regards,"
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails_2023.html",
+    "href": "draft-applications-intructions/programdetails_2023.html",
+    "title": "rOpenSci",
+    "section": "",
+    "text": "+++ title = “Program Details - Champions” description = “If you want to be one of our champions here you can find goals, elegibility, benefits, and expectations for our program” tags = [“champions”] +++"
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails_2023.html#program-goals",
+    "href": "draft-applications-intructions/programdetails_2023.html#program-goals",
+    "title": "rOpenSci",
+    "section": "Program goals",
+    "text": "Program goals\nWe’re excited to open our second call for the rOpenSci Champions Program!\nThe program aims to support R developers from around the world who identify themselves as members of groups which are systematically excluded from the open software community.\nThrough this program, Champions will:\n\nGain the skills to develop their own R package or;\nGain confidence in submitting an R package for peer review or become a reviewer.\nLearn how to lead a workshop, event, or other rOpenSci activity on the topic of package development or software peer review in their local community.\nConnect with a supportive network of peers and mentors within the R ecosystem.\nProvide feedback to help rOpenSci to continue to host relevant, welcoming activities for R developers.\nGain valuable and transferable skills and experiences relevant to careers in open source software.\n\nWe are looking six to nine Champions for this second group. We expect to co-create this iteration of the rOpenSci Champions Program with the selected applicants and refine future editions with their experience and feedback.\nWe look forward to receiving many applications and are committed to directing non-selected applicants towards other ways in which they can contribute to rOpenSci."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails_2023.html#eligibility",
+    "href": "draft-applications-intructions/programdetails_2023.html#eligibility",
+    "title": "rOpenSci",
+    "section": "Eligibility",
+    "text": "Eligibility\n{{&lt; figure src = \"/images/volunteer/peep3.png\" width = \"300\" alt = \"Person holding a butterfly nest.\" class = \"pull-right\" &gt;}}\nWe are looking for people who work in STEAM fields, from anywhere in the world, who identify with the above and who:\n\nAlready have development knowledge with the R language and a solid idea for an R package they’d like to develop, or;\nHave already developed an R package that is within rOpenSci scope, and want to have it peer reviewed through rOpenSci, or;\nWant to become a reviewer for rOpenSci, and;\nHave basic English communication skills (written and verbal)."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails_2023.html#about-the-program",
+    "href": "draft-applications-intructions/programdetails_2023.html#about-the-program",
+    "title": "rOpenSci",
+    "section": "About the program",
+    "text": "About the program\nThe rOpenSci Champions Program is a 12-month-long program including cohort-based training, project development, and personal mentorship.\nChampions will participate in:\n\nA cohort-based training on:\n\nhow to plan and facilitate engaging and inclusive workshops to support participants’ success,\nknowledge of various channels through which new members can engage in and contribute to rOpenSci and R projects, and\ntechnical skills in software development and review.\n\nPersonal and group mentorship:\n\nA series of meetings with mentors;\nQuarterly cohort calls."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails_2023.html#what-are-the-benefits-of-taking-part",
+    "href": "draft-applications-intructions/programdetails_2023.html#what-are-the-benefits-of-taking-part",
+    "title": "rOpenSci",
+    "section": "What are the benefits of taking part?",
+    "text": "What are the benefits of taking part?\n{{&lt; figure src = \"/images/volunteer/peep5.png\" width = \"300\" alt = \"Person holding a butterfly nest.\" class = \"pull-left\" &gt;}}\nBy participating in this program, you can help rOpenSci and your community grow. In addition to training and personal mentoring, some other benefits you will receive are:\n\nLearn and practice organizing and teaching workshops;\nLearn and practice reviewer and developer skills;\nGain insights from other experts and expand your professional network;\nGain visibility through training, mentorship, and content creation;\nGet recognition and acknowledgment for your work;\nCo-develop this program and other rOpenSci projects by sharing feedback;\nBecome an active contributing member of the rOpenSci community;\nCreate content in the language of your community;\nEmpower members of your community by sharing what you learn;\nBecome a mentor to other members of your community.\n\nWe will provide a $1000 (USD) stipend to the selected community Champions that complete the program."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails_2023.html#program-expectations",
+    "href": "draft-applications-intructions/programdetails_2023.html#program-expectations",
+    "title": "rOpenSci",
+    "section": "Program expectations",
+    "text": "Program expectations\n{{&lt; figure src = \"/images/volunteer/peep6.png\" width = \"300\" alt = \"A person with his dog working on a notebook.\" class = \"pull-left\" &gt;}}\nChampions are expected to complete training and attend meetings with their mentors and cohorts. After training, Champions will develop their own project. Projects may involve building a new package or going through the peer review process as an author or a reviewer.\nChampions will also choose and perform several activities, such as running recruitment activities, giving presentations, writing blog posts, and organizing peer groups in their communities.\nIt is expected that Champions will promote participation in peer review and contribution to rOpenSci open source software, infrastructure, and documentation. They will also gather feedback on where rOpenSci’s current programming might be improved to meet the needs of all who wish to participate.\nThe estimated time commitment for each Champion is, on average, 16 hours per month (including trainings, cohort events, mentoring meetings, package development or review process, and preparing for and hosting events). The total time commitment for each Champion will vary based on the path and activities they choose to do during the program."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails_2023.html#templates",
+    "href": "draft-applications-intructions/programdetails_2023.html#templates",
+    "title": "rOpenSci",
+    "section": "Templates",
+    "text": "Templates\nWe create a template with the information we request in the form so that you can prepare before to fill out (there is a spanish version of this template).\nIf you want to work on a package that you are not the author or maintainer of, you need to have the endorsement of the developers. Here is a sample of the text that the email should contain, and here is the spanish version."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetails_2023.html#frequently-asked-questions",
+    "href": "draft-applications-intructions/programdetails_2023.html#frequently-asked-questions",
+    "title": "rOpenSci",
+    "section": "Frequently Asked Questions",
+    "text": "Frequently Asked Questions\n\nI don’t have my own package to work on, can I apply with another’s package?\nIf the package already exists, it is possible to participate by sending the package in for Peer-Review. In this case the requirements would be: 1) Written permission (can be an email) from the authors or maintainers of the package for you to take over maintenance and submit the package for review. 2) A commitment from you to maintain the package for at least two years.\n\n\nDoes the program have a cost for participants?\nNo, the program it is free. The champions will get a small stipend for being part of the program after completion.\n\n\nCan we apply as a team?\nNot in this call. You can pick a team member and they can apply with the project. Please note that if the person has not contributed to the package previously, they will need to submit a note that they are part of the package team and have permission from the authors and maintainers to work on the package.\n\n\nWhat does it mean to belong to a historically and systematically excluded group?\nTo belong to a historically and systematically excluded group means being part of a community or identity that has faced long-standing patterns of marginalization, discrimination, and disadvantage. It encompasses groups that have been historically oppressed, discriminated against, or denied equal opportunities based on various factors such as race, ethnicity, gender, sexual orientation, religion, disability, socioeconomic status, geographic location, or any combination thereof.\n\n\nCan I propose more than one package?\nThe time involved in the program only allows you to work on one package. To help you decide which one to propose in the application, check that the package is within rOpenSci Peer-review scope or rOpenSci Stats Peer-review scope.\n\n\nCan I change the type of project I want to do?\nNo. We seek to have a balance in the number of each type of project and we assign mentors also according to the type of project.\n\n\nWhat does a solid idea mean for a package? What is the appropriate scope?\nA solid idea refers to a well-conceived concept for the package that you can start work on immediately. After the program starts there will not be enough time to explore different ideas for packages and we don’t provide ideas for new packages.\nThese are rOpenSci Peer-Review and Stats Peer-Review scopes for packages. We expect projects related with research software.\n\n\nI don’t have much experience programming in R, can I apply?\nThe program is designed for people who already have experience in R. We expect you to know how to work with projects, control structures and how to write functions. You do not have to have experience in writing packages (either your own or contributing to other people’s packages), but if you do all the better! However, we do expect you to have basic knowledge of git and GitHub.\n\n\nI have a package that is under review on CRAN, which option should I choose?\nIf you want to work on that package during the program then the option to choose would be “Submit your package to the Peer-Review process”. However, we generally advise people to go through our review first and then submit the package to CRAN."
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template_es.html",
+    "href": "draft-applications-intructions/champions_template_es.html",
+    "title": "rOpenSci",
+    "section": "",
+    "text": "The form template is also available in English."
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template_es.html#información-general",
+    "href": "draft-applications-intructions/champions_template_es.html#información-general",
+    "title": "rOpenSci",
+    "section": "Información General",
+    "text": "Información General\n\nNombre completo: nombre(s) y apellido(s)\nEmail: correo electrónico que quiere que usemos para comunicarnos contigo.\nPaís: país de residencia.\nZona horaria: zona horaria de tu ciudad de residencia expresada en UTC.\nPronombres: por favor, comparte los pronombres que quieres que usemos para referirnos a tí (opcional)\nIdioma: qué idioma(s) prefieres para comunicarte durante las capacitaciones y las tutorías?\nGitHub o GitLab: Por favor, proporciona el enlace a tu perfil. Comparte la url completa, por ejemplo, https://github.com/ropensci Recomendamos que tu perfil sea informativo: completa la información de tu perfil de GitHub (y mantenla actualizada); Anota tus repositorios más importantes. Pueden ser repositorios a los que hayas contribuido; Publica las afiliaciones a organizaciones que quieras mostrar; Añade un README del perfil.\nRedes sociales: por favor, facilita el enlace a tu perfil de LinkedIn/mastodos, etc. (opcional)\nSitio Web: por favor, facilita el enlace a tu sitio web (optional)\nAfiliación: por favor, indica tu afiliación a una universidad/institución/organización u otro empleador\nComunidad: por favor, indica tu participación en comunidades (como R-Ladies, MiR, Grupos RSE, LatinR, ReproHack, etc. o indica NA)\n[] Si te identificas como miembro de un grupo sistemáticamente excluido de la comunidad del software de código abierto, por favor, tilda esta casilla."
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template_es.html#experiencia",
+    "href": "draft-applications-intructions/champions_template_es.html#experiencia",
+    "title": "rOpenSci",
+    "section": "Experiencia",
+    "text": "Experiencia\n\n¿Tienes experiencia desarrollando o contribuyendo significativamente a paquetes de R? Selecciona una opción\n\nNo, nunca desarrollé o contribuí a un paquete de R.\nNo he desarrollado ningún paquete R, pero contribuyo a uno o más.\nYes, I have developed an R package, but I never sent to CRAN.\nSí, he desarrollado un paquete R, y está publicado en CRAN.\nSí, he desarrollado un paquete R antes, y pasó por el proceso de revisión de rOpenSci.\n\n\nSi has desarrollado un paquete antes, por favor, comparte el link al repositorio de github/gitlab:"
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template_es.html#información-del-proyecto",
+    "href": "draft-applications-intructions/champions_template_es.html#información-del-proyecto",
+    "title": "rOpenSci",
+    "section": "Información del proyecto",
+    "text": "Información del proyecto\nSelecciona una opción\n[] Quiero desarrollar un nuevo paquete. Describe tu proyecto en un máximo de 400 palabras.\n[] Quiero enviar un paquete al proceso de revisión. Describe tu proyecto en un máximo de 400 palabras. Incluye el enlace al repositorio de github/gitlab del paquete.\n\nSubir documento de acuerdo. Si quieres trabajar en un paquete, pero no eres la persona que lo creó o lo mantiene, por favor añade un documento (un email impreso como PDF) del/la autor(a)/mantenedor(a) donde exprese(n) su acuerdo con tu proyecto.\n\n[] Quiero participar en el proceso de revisión como revisor/a. Describe los temas sobre los que puedes revisar en un máximo de 400 palabras"
+  },
+  {
+    "objectID": "draft-applications-intructions/champions_template_es.html#motivación",
+    "href": "draft-applications-intructions/champions_template_es.html#motivación",
+    "title": "rOpenSci",
+    "section": "Motivación",
+    "text": "Motivación\n\n¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? Por favor, responde en un máximo de 200 palabras.\n¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? Por favor, responde en un máximo de 400 palabras.\n¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? Por favor, explícalo en un máximo de 400 palabras.\nPor favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. El compromiso de tiempo estimado para cada Campeón-a es, en promedio, de 16 horas por mes (incluye capacitaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquete o proceso de revisión, y preparación y organización de eventos). El compromiso de tiempo total para cada pariticipante variará en función de la trayectoria y las actividades que elijan realizar durante el programa.Por favor, responde en un máximo de 200 palabras."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetailsmentors.html",
+    "href": "draft-applications-intructions/programdetailsmentors.html",
+    "title": "rOpenSci",
+    "section": "",
+    "text": "+++ title = “Program Details - Mentors” description = “Mentors support our cohort of rOpenSci Champions. Could you offer insight and advice to our selected Champions? Learn the details and express your interest!” tags = [“champions”] +++\nThe rOpenSci Champions Program is for people from historically and systematically excluded groups who are interested in contributing to rOpenSci and the broader ecosystem of open source and open science communities. After receiving training, mentors will work with Champions to develop their project, which can be one of the following options:\nMentors may also support Champions with delivering other activities including: giving a talk, writing blog posts, and teaching other community members."
+  },
+  {
+    "objectID": "draft-applications-intructions/programdetailsmentors.html#do-you-have-any-questions",
+    "href": "draft-applications-intructions/programdetailsmentors.html#do-you-have-any-questions",
+    "title": "rOpenSci",
+    "section": "Do you have any questions?",
+    "text": "Do you have any questions?\nPlease, contact our Community Manager by email or book a 15 minutes meeting with her."
   }
 ]

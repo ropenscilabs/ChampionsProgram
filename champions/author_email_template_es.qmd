@@ -1,3 +1,6 @@
+---
+title: "Plantilla para email de apoyo al proyecto"
+---
 
 *Asunto*: Apoyo para la participación de _nombre de la persona solicitante_ en el Programa de Campeones/as de rOpenSci
 

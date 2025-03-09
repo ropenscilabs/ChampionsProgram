@@ -20,7 +20,7 @@ Nuestro programa busca **identificar**, **reconocer** y **premiar** a las person
 Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de personas expertas. Además, podrás interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo.
 
 ::: hero-buttons
-[Aplicar como Campeón/a](https://airtable.com/appF6OXmxkk8VmR8a/shrlvgcNz1R4CoaQN){.btn .btn-primary role="button"} [Aplicar como Mentor/a](/mentors/index.qmd){.btn .btn-primary role="button"}
+[Aplicar como Campeón/a](https://airtable.com/appF6OXmxkk8VmR8a/shrlvgcNz1R4CoaQN){.btn .btn-primary role="button"} [Aplicar como Mentor/a](https://airtable.com/appF6OXmxkk8VmR8a/shrZnWDRKxXUEmLRM){.btn .btn-primary role="button"}
 :::
 ::::
 :::::::
