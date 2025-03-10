@@ -43,11 +43,11 @@ Las personas participarán en:
 * Una formación basada en cohortes sobre:
 
   - Conocimientos técnicos sobre desarrollo de software de codigo abierto en R (funciones, paquetes, testing),
-  - Conocimientos tecnicos sobre herramientas para desarrollo de software colaborativo (git, GitHub)
-  - Conocimientos tecnicos sobre revisión de software por pares,
+  - Conocimientos técnicos sobre herramientas para desarrollo de software colaborativo (git, GitHub)
+  - Conocimientos técnicos sobre revisión de software por pares,
   - Cómo planificar y facilitar talleres atractivos e inclusivos para apoyar el éxito de los participantes,
   - Conocimientos basicos de enseñanza y aprendizaje para aplicarlo en contenido y talleres técnicos,
-  - Como gestionar una comunidad de personas usuarias y colaboradoras de un paquete R,
+  - Cómo gestionar una comunidad de personas usuarias y colaboradoras de un paquete R,
   - Conocimiento de los diversos canales a través de los cuales pueden participar y contribuir a los proyectos de rOpenSci y R
 
 * Tutoría personal y de grupo:
@@ -58,10 +58,10 @@ Las personas participarán en:
 
 * Desarrollo de proyectos y actividades con la comunidad:
 
-  - Desde el inicio del programa podran trabajar en su proyecto, el entrenamiento les brindara herramientas para poder avanzar en el desarrollo de su paquete R, preparar su paquete para la revisión por pares o realizar revisión de software por pares.
+  - Desde el inicio del programa podrán trabajar en su proyecto, el entrenamiento les brindara herramientas para poder avanzar en el desarrollo de su paquete R, preparar su paquete para la revisión por pares o realizar revisión de software por pares en el proceso de rOpenSci.
   - La segunda mitad del programa se enfocará en la finalizacion del proyecto y la organización de un taller, evento u otra actividad de la comunidad en su región o institución.
   
-* Los paquetes que se enmarquen en las tematicas de **bioinformatica y salud** tendran prioridad en la selección de los proyectos. 
+* Los paquetes que se enmarquen en las tematicas de **bioinformatica y salud** tendran prioridad en la selección. 
 
 ## ¿Cuáles son las ventajas de participar? 
 
@@ -85,7 +85,7 @@ Además de la formación, la tutoría personal y la posibilidad de desarrollar u
 
 * Capacitar y compartir con las personas de tu comunidad lo que aprendas y desarroles en el programa;
 
-* Convertirte en mentor de otras personas.
+* Convertirte en mentor-a de otras personas.
 
 Proporcionaremos un estipendio de _$500 (USD)_ a las personas seleccionadas como Campeones-as _que completen el programa_.
 
