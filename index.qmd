@@ -34,7 +34,7 @@ Es una plataforma increíble para desarrollar tu proyecto de software libre con 
 Los participantes reciben capacitación en la práctica de la ciencia abierta, la ingeniería de software de investigación, la programación en R y la creación y gestión de comunidades.
 
 ::: learn-more
-[Leer más »](.qmd)
+[Leer más »](resources/resources.qmd)
 :::
 ::::
 
@@ -44,7 +44,7 @@ Los participantes reciben capacitación en la práctica de la ciencia abierta, l
 Los participantes desarrollarán un proyecto como la creación de nuevos paquetes R o la participación en el proceso de revisión por pares de rOpenSci, ya sea para revisar o para que su paquete sea revisado.
 
 ::: learn-more
-[Leer más »](.qmd)
+[Leer más »](galeria/index.qmd)
 :::
 ::::
 
@@ -54,7 +54,7 @@ Los participantes desarrollarán un proyecto como la creación de nuevos paquete
 Los participantes pueden elegir cómo quieren retribuir a sus propias comunidades e instituciones, ya sea a través de la tutoría o la promoción de prácticas de ciencia abierta y software libre de investigación.
 
 ::: learn-more
-[Leer más »](.qmd)
+[Leer más »](galeria/index.qmd)
 :::
 ::::
 :::::::::
