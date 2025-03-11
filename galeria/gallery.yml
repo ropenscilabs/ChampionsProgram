@@ -107,9 +107,17 @@
       href: https://ropensci.org/events/rsr-learn-and-use/
       thumbnail: outreach/webinario_cagri_liz.png
     - title: Charla con la comunidad
-      subtitle: "A comunidade R fala português con Francesca Palmeira y Betriz Milz"
+      subtitle: "A comunidade R fala português con Francesca Palmeira y Beatriz Milz"
       href: https://ropensci.org/commcalls/translation-portuguese/
       thumbnail: outreach/comm-call-bea-fran.jpg
+    - title: Meetup Capítulo de R-Ladies Sao Paulo
+      subtitle: "Pacotes em R de Dados Brasileiros con Haydée Svab y Beatriz Milz"
+      href: https://rladies-sp.org/posts/2023-12-evento-pacotes/
+      thumbnail: outreach/r-ladies-sao-paulo.jpg
+    - title: Meetup Capítulo de R-Ladies Buenos Aires y RenBaires RUG
+      subtitle: "R en Red. Arcenso, Oportunidades y Comunidad con Andrea Gómez Vargas"
+      href: https://ropensci.org/events/arcenso-2024/
+      thumbnail: outreach/rladies-baires-renbaires.jpg
 
 - category: Participación despues de finalizado el programa
   description: |
