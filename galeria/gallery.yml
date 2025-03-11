@@ -87,19 +87,23 @@
       code: https://github.com/ropensci/eph/issues
       thumbnail: outreach/webinario_caro.png
     - title: Webinario
-      subtitle: "Traduzindo o guia Dev da rOpenSci para o Português con Haydée Svab y Betriz Milz"
+      subtitle: "Traduzindo o guia Dev da rOpenSci para o Português con Haydée Svab y Beatriz Milz. Organizado con Angola Open-Source Community"
       href: https://vimeo.com/899603912?share=copy
       thumbnail: outreach/webinario_bea_haydee.png
+    - title: RenRosario RUG Meetup
+      subtitle: "Como crear un paquete de R y que sea multilingue + que es rOpenSci y como ser parte por Marcos Prunello"
+      href: https://mpru.github.io/charla_renrosario_2023/
+      thumbnail: outreach/RenRosario-Meetup.jpg
     - title: Blog post
       subtitle: "2023 rOpensci Champions Program: My Experience by Bilikisu Wunmi Olatunji"
       href: https://ropensci.org/blog/2023/12/19/champions-program-2023-experience/
       thumbnail: outreach/bilikisu-blog.png
     - title: Charlas con la comunidad
-      subtitle: Mentoring & training program for Scientific Open Source Champions
+      subtitle: "Mentoring & training program for Scientific Open Source Champions con Carolina Pradier, Victor Ordu y Beatriz Milz"
       href: https://ropensci.org/commcalls/july2023-championprogram/
       thumbnail: outreach/comm-call-bea-caro-victor.jpg
     - title: Webinario
-      subtitle: Screen Reader Accessible Tools and Resources for Learning and Working with R por Liz Hare and Alican Cagri Gokcek
+      subtitle: "Screen Reader Accessible Tools and Resources for Learning and Working with R por Liz Hare and Alican Cagri Gokcek"
       href: https://ropensci.org/events/rsr-learn-and-use/
       thumbnail: outreach/webinario_cagri_liz.png
     - title: Charla con la comunidad
