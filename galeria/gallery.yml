@@ -118,6 +118,15 @@
       subtitle: "R en Red. Arcenso, Oportunidades y Comunidad con Andrea Gómez Vargas"
       href: https://ropensci.org/events/arcenso-2024/
       thumbnail: outreach/rladies-baires-renbaires.jpg
+    - title: Blog Post
+      subtitle: "Recursos para utilizar R con lectores de pantalla por Liz Hare"
+      href: https://ropensci.org/es/blog/2024/09/05/recursos_para_utilizar_r_con_lectores_de_pantalla/
+      thumbnail: outreach/liz-blog-post.png
+
+    - title: Workshop de rOpenSci - Champions Program 2022-2023
+      subtitle: "Developing Software Together. Taller abierto a todas las personas que aplicaron, hayan sido seleccionadas o no. Por Paola Corrales"
+      href: https://paocorrales.github.io/git-developing-software-together/
+      thumbnail: outreach/workshop-pao.png
 
 - category: Participación despues de finalizado el programa
   description: |
@@ -128,11 +137,14 @@
       href: https://ropensci.org/commcalls/first-time-contributor/
       thumbnail: activities/comm_call_sunny.png
     - title: Revision de paquete
-      subtitle: gigs - Victor Ordu
+      subtitle: "gigs: Assess Fetal, Newborn, and Child Growth with International Standards - Victor Ordu"
       href: https://github.com/ropensci/software-review/issues/626
       thumbnail: activities/revision_paquete.png
     - title: Revision de paper en JOSE
       subtitle: "FANGS - Fire Applications with Next-Generation Satellites - César Aybar"
       href: https://github.com/openjournals/jose-reviews/issues/197
       thumbnail: activities/revision_paquete.png
-
+    - title: Workshop de rOpenSci - Champions Program 2023-2024
+      subtitle: "Developing Software Together. Taller abierto a todas las personas que aplicaron, hayan sido seleccionadas o no. Por Paola Corrales"
+      href: https://paocorrales.github.io/git-developing-software-together/
+      thumbnail: outreach/workshop-pao.png
