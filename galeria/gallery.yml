@@ -148,3 +148,15 @@
       subtitle: "Developing Software Together. Taller abierto a todas las personas que aplicaron, hayan sido seleccionadas o no. Por Paola Corrales"
       href: https://paocorrales.github.io/git-developing-software-together/
       thumbnail: outreach/workshop-pao.png
+    - title: Sesión de Coworking de rOpenSci
+      subtitle: "Using R to tell (data science) stories con Apoorv Anand"
+      href: https://ropensci.org/events/coworking-2024-10/
+      thumbnail: activities/coworking_Apoorv-Anand.jpg
+    - title: Sesión de Coworking de rOpenSci
+      subtitle: "Building your first R package con Carolina Pradier"
+      href: https://ropensci.org/events/coworking-2024-08/
+      thumbnail: activities/coworking_Carolina.jpg
+    - title: Sesión de Coworking de rOpenSci
+      subtitle: "Sharing your work with Quarto con Paola Corrales"
+      href: https://ropensci.org/events/coworking-2024-04/
+      thumbnail: activities/coworking_Pao.jpg
