@@ -153,6 +153,10 @@
       href: https://ropensci.org/events/coworking-2024-10/
       thumbnail: activities/coworking_Apoorv-Anand.jpg
     - title: Sesión de Coworking de rOpenSci
+      subtitle: "Creating nice command-line interfaces with cli con Athanasia Mo Mowinckel,"
+      href: https://ropensci.org/events/coworking-2023-10/
+      thumbnail: activities/coworking_Mo.jpg
+    - title: Sesión de Coworking de rOpenSci
       subtitle: "Building your first R package con Carolina Pradier"
       href: https://ropensci.org/events/coworking-2024-08/
       thumbnail: activities/coworking_Carolina.jpg
