@@ -97,7 +97,7 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 |----|-----|
 |Marzo 10, 2025|Se abre el llamado a postulaciones  🎉|
 |Marzo 12, 2025|[Opcional] [Conversaciones con la comunidad](/commcalls/es/march2024-championprogram/) - Aprende de otras personas que participaron del programa. Recibe consejos para que escribas y envies tu postulación al programa|
-|Abril 15, 2025|[Opcional] Clínica de aplicación al programa ([Martes 15 de Abril](/events/coworking-2025-04-15/)): recibe ayuda con tu aplicación para el programa |
+|Abril 15, 2025|[Opcional] Clínica de aplicación al programa ([Martes 15 de Abril](https://ropensci.org/events/clinica-champions-2025-04/): recibe ayuda con tu aplicación para el programa |
 |Abril 30, 2025|Se cierra el llamado a postulaciones|
 
 :::
