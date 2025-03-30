@@ -28,7 +28,7 @@
       href: https://docs.ropensci.org/eph
       code:  https://github.com/ropensci/eph/issues
       thumbnail: projects/eph_logo.png
-    - title: Paquete nuevo
+    - title: Paquete actualizado
       subtitle: bulkreadr - Ezekiel Adebayo Ogundepo
       href: https://gbganalyst.github.io/bulkreadr/
       code: https://github.com/gbganalyst/bulkreadr/
@@ -122,11 +122,18 @@
       subtitle: "Recursos para utilizar R con lectores de pantalla por Liz Hare"
       href: https://ropensci.org/es/blog/2024/09/05/recursos_para_utilizar_r_con_lectores_de_pantalla/
       thumbnail: outreach/liz-blog-post.png
-
     - title: Workshop de rOpenSci - Champions Program 2022-2023
       subtitle: "Developing Software Together. Taller abierto a todas las personas que aplicaron, hayan sido seleccionadas o no. Por Paola Corrales"
       href: https://paocorrales.github.io/git-developing-software-together/
       thumbnail: outreach/workshop-pao.png
+    - title: Workshop
+      subtitle: "Working with JavaScript in R Por Bilikisu Wunmi Olatunji para el capitulo R-Ladies Abuja"
+      href: https://www.meetup.com/rladies-abuja/events/294198849/
+      thumbnail: outreach/r-ladies-abuja-meetup.jpg
+    - title: Webinario EDS Book
+      subtitle: "Preparing remote sensing data for deep learning using r-spatial. Por Cesar Aybar Camacho"
+      href: https://docs.google.com/presentation/d/1Ws2o5WwcRMcYd9YjKcfyLv5X4lOAwJztEU1sMRADTVk/
+      thumbnail: outreach/cesar-talk.png
 
 - category: Participación despues de finalizado el programa
   description: |
