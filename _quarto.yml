@@ -8,7 +8,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: false
-    content: "See https://ropensci.org/champions for general details of the program and when the next cohort will be announced."
+    content: 'See <a href="https://ropensci.org/champions">our main website</a> for general details of the program and when the next cohort will be announced.'
   navbar:
     background: primary
     search: true
