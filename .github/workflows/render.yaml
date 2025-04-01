@@ -41,13 +41,13 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: _site
+          folder: docs
 
       - name: Upload website artifact
         if: ${{ github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master' }}
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "_site"
+          path: "docs"
 
   deploy:
     needs: build
