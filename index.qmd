@@ -19,9 +19,11 @@ Nuestro programa busca **identificar**, **reconocer** y **premiar** a las person
 
 Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de personas expertas. Además, podrás interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo.
 
+<!--
 ::: hero-buttons
 [Aplicar como Campeón/a](https://airtable.com/appF6OXmxkk8VmR8a/shrlvgcNz1R4CoaQN){.btn .btn-primary role="button"} [Aplicar como Mentor/a](https://airtable.com/appF6OXmxkk8VmR8a/shrZnWDRKxXUEmLRM){.btn .btn-primary role="button"}
 :::
+-->
 ::::
 :::::::
 ::::::::
@@ -60,6 +62,7 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 :::::::::
 ::::::::::
 
+<!--
 :::::: content-block
 ::::: {.features .grey-border}
 ::: feature-two
@@ -89,16 +92,25 @@ Los participantes pueden elegir cómo quieren retribuir a sus propias comunidade
 :::
 :::::
 ::::::
+-->
 
 ::: content-block
-### Cronograma de Postulaciones
+### Cronograma Tentativo del Programa
 
-|Fecha|Evento|
-|----|-----|
-|Marzo 10, 2025|Se abre el llamado a postulaciones  🎉|
-|Marzo 12, 2025|[Opcional] [Conversaciones con la comunidad](/commcalls/es/march2024-championprogram/) - Aprende de otras personas que participaron del programa. Recibe consejos para que escribas y envies tu postulación al programa|
-|Abril 15, 2025|[Opcional] Clínica de aplicación al programa ([Martes 15 de Abril](https://ropensci.org/events/clinica-champions-2025-04/): recibe ayuda con tu aplicación para el programa |
-|Abril 30, 2025|Se cierra el llamado a postulaciones|
+El siguiente cuadro esboza un calendario provisional para el Programa. Puede haber cambios menores.
+
+|Fecha|Evento|Detalle|Duración|
+|----|-----|------|--------|
+|Mayo 2025|Reunión de inicio mentores-as|Informarse sobre el programa, revisar las expectativas y encontrar respuestas a tus preguntas. Conocer al equipo de mentores-as.|1.5 h|
+|Junio 2025|Reunión de inicio campones-as|Informarse sobre el programa, revisar expectativas y encontrar respuestas a tus preguntas. Conocer al resto de campeones-as.|1.5 h|
+|Junio 2025|Entrenamiento Mentor(e-a)s|Como hacer una buena mentoria, herramientas y logistica del programa|2 h|
+|Julio 2025|Reunión de cohorte: Presentación de proyectos| Presentación de 5 minutos por parte de campeones-as de su proyecto y comentarios del resto.|1.5 h|
+|Agosto - Noviembre 2025 | Fase de entrenamiento | Son 13 workshops con encuentros semanales de dos horas con temas de Git-GitHub, Programar paquetes de R, Revisión de código, Gestión de comunidades, Participación en software libre y Organización de eventos. Opcional para Mentores.  |2 h|
+|Diciembre 2025 - Mayo 2026 | Desarrollo del proyecto y actividades de divulgación |Cada participante desarrolla su proyecto con soporte de su mentor-a. Reuniones mensuales. |0.5 h|
+|Octubre 2025| Reunión de cohorte | Progreso del proyecto, ideas, cuellos de botella.|1.5 h|
+|Marzo 2026|Reunión de cohorte | Reflecciones sobre el programa y futuras actividades |1.5 h|
+|Mayo 2026 |Fin del término| Reunión final de cohorte presentando los proyectos. |2 h|
+
 
 :::
 

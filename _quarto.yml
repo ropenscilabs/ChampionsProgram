@@ -5,10 +5,6 @@ project:
 
 website:
   title: "rOpenSci"
-  announcement: 
-    icon: info-circle
-    dismissable: false
-    content: 'See <a href="https://ropensci.org/champions">our main website</a> for general details of the program and when the next cohort will be announced.'
   navbar:
     background: primary
     search: true
