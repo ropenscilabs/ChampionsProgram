@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8788edf00db7dfbcfd7c0145ba564f5c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-88f3670047621a849755e74ed8c77cd1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,9 +75,6 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <div id="quarto-announcement" data-announcement-id="9a210721e6747c8fa6e1d3f2134f17c9" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p>See <a href="https://ropensci.org/champions">our main website</a> for general details of the program and when the next cohort will be announced.</p>
-</div></div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -142,9 +139,11 @@ ul.task-list li input[type="checkbox"] {
 <div class="hero-text">
 <p>Nuestro programa busca <strong>identificar</strong>, <strong>reconocer</strong> y <strong>premiar</strong> a las personas <strong>líderes</strong> en una comunidad de ciencia abierta, ingeniería de software de investigación y la comunidad de programación R.</p>
 <p>Es una plataforma increíble para desarrollar tu proyecto de software libre con apoyo de personas expertas. Además, podrás interactuar, compartir y fortalecer una red con otras personas decididas a desarrollar la ciencia abierta y reproducible en tu lugar en el mundo.</p>
-<div class="hero-buttons">
-<p><a href="https://airtable.com/appF6OXmxkk8VmR8a/shrlvgcNz1R4CoaQN" class="btn btn-primary" role="button">Aplicar como Campeón/a</a> <a href="https://airtable.com/appF6OXmxkk8VmR8a/shrZnWDRKxXUEmLRM" class="btn btn-primary" role="button">Aplicar como Mentor/a</a></p>
-</div>
+<!--
+::: hero-buttons
+[Aplicar como Campeón/a](https://airtable.com/appF6OXmxkk8VmR8a/shrlvgcNz1R4CoaQN){.btn .btn-primary role="button"} [Aplicar como Mentor/a](https://airtable.com/appF6OXmxkk8VmR8a/shrZnWDRKxXUEmLRM){.btn .btn-primary role="button"}
+:::
+-->
 </div>
 </div>
 </div>
@@ -173,63 +172,109 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </div>
 </div>
-<div class="content-block">
-<div class="features grey-border">
-<section id="el-programa-de-un-vistazo" class="feature-two">
-<h3>El programa de un vistazo</h3>
-<ul>
-<li><strong>Duración</strong>: 12 meses</li>
-<li><strong>Etapas</strong>: entrenamiento, mentoría y desarrollo del proyecto, divulgación</li>
-<li><strong>Fechas</strong>: La cohorte tres inicia en Junio 2025 y termina en Junio 2026</li>
-<li><strong>Estipendio</strong>: $500 USD (para mentores/as y campeones/as)</li>
-<li><strong>Idioma</strong>: Español</li>
-<li><strong>Cohortes</strong>: entre seis a diez participantes</li>
-<li><strong>Formato del entrenamiento</strong>: online</li>
-<li><strong>Mentoria</strong>: individual</li>
-<li><strong>Proyectos</strong>: desarrollo de un paquete, revisión de un paquete</li>
-</ul>
-</section>
-<section id="quienes-pueden-aplicar" class="feature-two">
-<h3>Quienes pueden aplicar</h3>
-<ul>
-<li><strong>Perfil</strong>: personas que desarrollan software libre utilizando el lenguaje de programación R y sean latinoamericanos o trabajan en América Latina</li>
-<li><strong>Región</strong>: tienen que ser de o trabajar en América Latina</li>
-<li><strong>Requisitos</strong>:
-<ul>
-<li>Ya tienen conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete que les gustaría desarrollar, o</li>
-<li>Ya han desarrollado un paquete que está dentro del <a href="https://devguide.ropensci.org/es/softwarereview_policies.es.html#aims-and-scope">alcance de rOpenSci</a>, y quieren que sea <a href="./es/software-review/">revisado por pares</a> a través de rOpenSci, o</li>
-<li>Quieren <a href="https://devguide.ropensci.org/es/softwarereview_reviewer.es.html">revisar paquetes para rOpenSci</a> y</li>
-<li>Tienen conocimientos básicos de comunicación en español (escrita y verbal).</li>
-</ul></li>
-</ul>
-</section>
-</div>
-</div>
-<section id="cronograma-de-postulaciones" class="content-block">
-<h3>Cronograma de Postulaciones</h3>
+<!--
+:::::: content-block
+::::: {.features .grey-border}
+::: feature-two
+### El programa de un vistazo
+
+-   **Duración**: 12 meses
+-   **Etapas**: entrenamiento, mentoría y desarrollo del proyecto, divulgación
+-   **Fechas**: La cohorte tres inicia en Junio 2025 y termina en Junio 2026
+-   **Estipendio**: \$500 USD (para mentores/as y campeones/as)
+-   **Idioma**: Español
+-   **Cohortes**: entre seis a diez participantes
+-   **Formato del entrenamiento**: online
+-   **Mentoria**: individual
+-   **Proyectos**: desarrollo de un paquete, revisión de un paquete
+:::
+
+::: feature-two
+### Quienes pueden aplicar
+
+-   **Perfil**: personas que desarrollan software libre utilizando el lenguaje de programación R y sean latinoamericanos o trabajan en América Latina
+-   **Región**: tienen que ser de o trabajar en América Latina
+-   **Requisitos**:
+    -   Ya tienen conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete que les gustaría desarrollar, o
+    -   Ya han desarrollado un paquete que está dentro del [alcance de rOpenSci](https://devguide.ropensci.org/es/softwarereview_policies.es.html#aims-and-scope), y quieren que sea [revisado por pares](/es/software-review/) a través de rOpenSci, o
+    -   Quieren [revisar paquetes para rOpenSci](https://devguide.ropensci.org/es/softwarereview_reviewer.es.html) y
+    -   Tienen conocimientos básicos de comunicación en español (escrita y verbal).
+:::
+:::::
+::::::
+-->
+<section id="cronograma-tentativo-del-programa" class="content-block">
+<h3>Cronograma Tentativo del Programa</h3>
+<p>El siguiente cuadro esboza un calendario provisional para el Programa. Puede haber cambios menores.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 21%">
+<col style="width: 26%">
+<col style="width: 34%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Fecha</th>
 <th>Evento</th>
+<th>Detalle</th>
+<th>Duración</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Marzo 10, 2025</td>
-<td>Se abre el llamado a postulaciones 🎉</td>
+<td>Mayo 2025</td>
+<td>Reunión de inicio mentores-as</td>
+<td>Informarse sobre el programa, revisar las expectativas y encontrar respuestas a tus preguntas. Conocer al equipo de mentores-as.</td>
+<td>1.5 h</td>
 </tr>
 <tr class="even">
-<td>Marzo 12, 2025</td>
-<td>[Opcional] <a href="./commcalls/es/march2024-championprogram/">Conversaciones con la comunidad</a> - Aprende de otras personas que participaron del programa. Recibe consejos para que escribas y envies tu postulación al programa</td>
+<td>Junio 2025</td>
+<td>Reunión de inicio campones-as</td>
+<td>Informarse sobre el programa, revisar expectativas y encontrar respuestas a tus preguntas. Conocer al resto de campeones-as.</td>
+<td>1.5 h</td>
 </tr>
 <tr class="odd">
-<td>Abril 15, 2025</td>
-<td>[Opcional] Clínica de aplicación al programa (<a href="https://ropensci.org/events/clinica-champions-2025-04/">Martes 15 de Abril</a>: recibe ayuda con tu aplicación para el programa</td>
+<td>Junio 2025</td>
+<td>Entrenamiento Mentor(e-a)s</td>
+<td>Como hacer una buena mentoria, herramientas y logistica del programa</td>
+<td>2 h</td>
 </tr>
 <tr class="even">
-<td>Abril 30, 2025</td>
-<td>Se cierra el llamado a postulaciones</td>
+<td>Julio 2025</td>
+<td>Reunión de cohorte: Presentación de proyectos</td>
+<td>Presentación de 5 minutos por parte de campeones-as de su proyecto y comentarios del resto.</td>
+<td>1.5 h</td>
+</tr>
+<tr class="odd">
+<td>Agosto - Noviembre 2025</td>
+<td>Fase de entrenamiento</td>
+<td>Son 13 workshops con encuentros semanales de dos horas con temas de Git-GitHub, Programar paquetes de R, Revisión de código, Gestión de comunidades, Participación en software libre y Organización de eventos. Opcional para Mentores.</td>
+<td>2 h</td>
+</tr>
+<tr class="even">
+<td>Diciembre 2025 - Mayo 2026</td>
+<td>Desarrollo del proyecto y actividades de divulgación</td>
+<td>Cada participante desarrolla su proyecto con soporte de su mentor-a. Reuniones mensuales.</td>
+<td>0.5 h</td>
+</tr>
+<tr class="odd">
+<td>Octubre 2025</td>
+<td>Reunión de cohorte</td>
+<td>Progreso del proyecto, ideas, cuellos de botella.</td>
+<td>1.5 h</td>
+</tr>
+<tr class="even">
+<td>Marzo 2026</td>
+<td>Reunión de cohorte</td>
+<td>Reflecciones sobre el programa y futuras actividades</td>
+<td>1.5 h</td>
+</tr>
+<tr class="odd">
+<td>Mayo 2026</td>
+<td>Fin del término</td>
+<td>Reunión final de cohorte presentando los proyectos.</td>
+<td>2 h</td>
 </tr>
 </tbody>
 </table>
