@@ -49,55 +49,6 @@
     "text": "La primera fase del programa se compone de cursos de capacitacion semanales de dos horas de duración sobre los cuatro temas de formación: programación, revisión de software, gestión de comunidades y mentoría.\nEste año agregamos una serie de talleres sobre git y GitHub avanzado y sobre comunicación, aprendizaje y enseñanza.\nLos siguientes materiales corresponden a la primera cohorte en español.\n\n\n\nFormación y orientación para tutores por Yanina Bellini Saibene. 1 encuentro.\n\n\n\n\n\nDesarrollando Software en Comunidad, por Paola Corrales y Yanina Bellini Saibene. 2 encuentros.\n¡Miércoles, Git!, por Maëlle Salmon y Yanina Bellini Saibene. 1 encuentro.\nUsar y mejorar tu historial de Git, por Maëlle Salmon. 1 encuentro.\nComo contribuir a R base, por Heather Turner (solo en inglés, ofrecido a la primera cohorte). 1 encuentro.\n\n\n\n\n\nCódigo hermoso, ¡porque lo valemos!, por Maëlle Salmon. 1 encuentro.\nDesarrollo de paquetes para principiantes: la mecánica, por Maëlle Salmon. 3 encuentros.\nEl desarrollo de paquetes avanzado: no es ciencia de cohetes, por Maëlle Salmon. 1 encuentro.\n\n\n\n\n\nTaller de revisión de software por pares de rOpenSci, por Mauro Lepore. 2 encuentros.\n\n\n\n\n\nCómo contribuir a proyectos y comunidades abiertas, por Yanina Bellini Saibene. 1 encuentro.\nComo crear una charla inolvidable, por Alejandra Bellini. 1 encuentro.\nComo organizar un evento genial, por Yanina Bellini Saibene. 1 encuentro.\nHaciendo un PACTO para reuniones y eventos virtuales activos por CSCCE (solo en inglés, ofrecido a las dos primeras cohortes). 1 encuentro."
   },
   {
-    "objectID": "program/program_timeline_2023.html",
-    "href": "program/program_timeline_2023.html",
-    "title": "rOpenSci",
-    "section": "",
-    "text": "+++ title = “Tentative Program Timeline” description = “If you want to be one of our champions or one of our mentors, here you can find a tentative schedulle for the program” tags = [“champions”] +++\nThe table below outlines a draft timeline for year two of the Champions Program. There may be minor changes to this.\n\n\n\n\n\n\n\n\n\nDate\nEvent\nDetail\nDuration\n\n\n\n\nNovember 2023\nKick-off event\nLearn about the program, review the program expectations, and address questions. Meet mentors.\n1.5 h\n\n\nJanuary - April 2024\nTraining\nHow to plan and facilitate engaging and inclusive workshops to support participants’ success (by CSCCE)\n2 h\n\n\nJanuary - April 2024\nTraining\nKnowledge of various channels through which new members can engage in and contribute to rOpenSci and R projects (by rOpenSci)\n2 h\n\n\nJanuary - April 2024\nTraining\nTechnical skills in software development (by rOpenSci)\n2 h\n\n\nJanuary - April 2024\nTraining\nTechnical skills in software review. (by rOpenSci)\n2 h\n\n\nMarch-July 2024\nDevelop project. Meeting with mentors\nGo through the review process as an author, or as a reviewer, or build the package of their choice\n\n\n\nMay 2024\nCohort meeting: Presentation of projects\nChampions’ 5 minutes presentations of their project (package review or development) and get feedback.\n1.5 h\n\n\nAugust - October 2024\nChampions outreach: host events, deliver talk, write about their experiences.\nChampion’s host: a workshop on good practices to build packages or good practices in software peer review or deliver a talk on a conference/event and one community event to gather feedback to improve rOpenSci’s projects\n1 to 3 h\n\n\nJuly 2024\nCohort meeting: Reflections on projects\nChampions will be invited to share takeaways from their projects with the cohort.\n1.5 h\n\n\nSeptember 2024\nCohort meeting: Reflections on events\nChampions will be invited to share takeaways from their events with the cohort.\n1.5 h\n\n\nOctober 2024\nCohort meeting: Reflections on program\nChampions will be invited to share takeaways from the program with the cohort and start to define future roles for Champions.\n1.5 h\n\n\nNovember 2024\nEnd of term\nClose cohort and define new roles for Champions.\n1 h"
-  },
-  {
-    "objectID": "program/training.html",
-    "href": "program/training.html",
-    "title": "Entrenamiento",
-    "section": "",
-    "text": "El programa tiene una primera fase de entrenamiento. Se compone de tres ejes de contenido:\nCada eje de contenido tiene varios talleres de entre una y dos hora de duracion que se dictan semanalmente."
-  },
-  {
-    "objectID": "program/training.html#desarrollo-de-software-de-investigacion",
-    "href": "program/training.html#desarrollo-de-software-de-investigacion",
-    "title": "Entrenamiento",
-    "section": "Desarrollo de software de investigacion",
-    "text": "Desarrollo de software de investigacion\nTiene como objetivo introducir a los participantes en las buenas practicas de desarrollo de software de investigacion.\n\nTaller 1:"
-  },
-  {
-    "objectID": "program/outreach.html",
-    "href": "program/outreach.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "program/program_timeline.html",
-    "href": "program/program_timeline.html",
-    "title": "rOpenSci",
-    "section": "",
-    "text": "+++ title = “Tentative Program Timeline” description = “If you want to be one of our champions or one of our mentors, here you can find a tentative schedulle for the program” tags = [“champions”] +++\nThe table below outlines a draft timeline for year one of the Champions Program. As this is a pilot year, there may be minor changes to this.\n\n\n\n\n\n\n\n\n\nDate\nEvent\nDetail\nDuration\n\n\n\n\nJanuary 2023\nKick-off event\nLearn about the program, review the program expectations, and address questions. Meet mentors.\n1.5 h\n\n\nFebruary 2023\nTraining\nHow to plan and facilitate engaging and inclusive workshops to support participants’ success (by CSCCE)\n1.5 h\n\n\nFebruary 2023\nTraining\nKnowledge of various channels through which new members can engage in and contribute to rOpenSci and R projects (by rOpenSci)\n1.5 h\n\n\nFebruary 2023\nTraining\nOne of two:Technical skills in software development, or, Technical skills in software review. (by rOpenSci)\n1.5 h\n\n\nMarch 2023\nCohort meeting: Presentation of projects\nChampions’ 5 minutes presentations of their project (package review or development) and get feedback.\n1.5 h\n\n\nMarch-July 2023\nDevelop project. Meeting with mentors\nGo through the review process as an author, or as a reviewer, or build the package of their choice\n\n\n\nJun 2023\nCohort meeting: Reflections on projects\nChampions will be invited to share takeaways from their projects with the cohort.\n1.5 h\n\n\nAugust - November 2023\nChampions outreach: host events, deliver talk, write about their experiences.\nChampion’s host: a workshop on good practices to build packages or good practices in software peer review or deliver a talk on a conference/event and one community event to gather feedback to improve rOpenSci’s projects\n1 to 3 h\n\n\nSeptember 2023\nCohort meeting: Reflections on events\nChampions will be invited to share takeaways from their events with the cohort.\n1.5 h\n\n\nDecember 2023\nCohort meeting: Reflections on program\nChampions will be invited to share takeaways from the program with the cohort and start to define future roles for Champions.\n1.5 h\n\n\nFebruary 2024\nEnd of term\nClose cohort and define new roles for Champions.\n1 h"
-  },
-  {
-    "objectID": "program/completion.html",
-    "href": "program/completion.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n```"
-  },
-  {
-    "objectID": "program/projects.html",
-    "href": "program/projects.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "resources/faq.html",
     "href": "resources/faq.html",
     "title": "Preguntas frecuentes",
