@@ -9,15 +9,15 @@ toc-location: right
 ### ¿El programa tiene algún costo para los participantes?
 
 No, no tiene costo en esta convocatoria. 
-Los campeones, mentores e instructores recibirán un estipendio por formar parte del programa una vez que hayan finalizado con sus tareas en el programa.
+Los y las campeonas, mentoras e instructoras recibirán un estipendio por formar parte del programa una vez que hayan finalizado con sus tareas en el programa.
 
 ### ¿Cuál es el idioma oficial del programa?
 
-Las dos primeras cohortes fueron en Inglés, pero en esta tercera convocatoria el programa será en Español. Esperamos seguir teniendo cohortes tanto en Inglés como en Español en el futuro.
+Las dos primeras cohortes fueron en Inglés, pero en esta convocatoria el programa será en **Español**. Esperamos seguir teniendo cohortes tanto en Inglés como en Español en el futuro.
 
 ### ¿Qué significa RSE?
 
-RSE significa _Research Software Engineer_ o Ingeniería de Software de Investigación. Es un término que se utiliza para describir a las personas que desarrollan software trabajan en la investigación y que tienen habilidades en programación y desarrollo de software.
+RSE significa _Research Software Engineer_ o Ingeniería de Software de Investigación. Es un término que se utiliza para describir a las personas que desarrollan software que se usa para investigación.
 
 ## Información para Campeon(e|a)s
 
@@ -25,30 +25,29 @@ RSE significa _Research Software Engineer_ o Ingeniería de Software de Investig
 
 Si el paquete ya existe, es posible participar enviando el paquete para la [revisión por pares](https://ropensci.org/es/software-review/). En este caso, los requisitos son:
 
-1) Permiso por escrito (puede ser un correo electrónico) de los autores o las personas que mantienen el paquete donde se detalle que te harás cargo del mantenimiento y puedes enviar el paquete a revisión. [Este es un modelo del contenido que debe tener el permiso]()
+1) Permiso por escrito (puede ser un correo electrónico) de los autores o las personas que mantienen el paquete donde se detalle que te harás cargo del mantenimiento y puedes enviar el paquete a revisión. [Este es un modelo del contenido que debe tener el permiso](author_email_template_es.html)
 
 2) Compromiso de mantener el paquete durante al menos dos años
 
 
 ### ¿Podemos presentarnos como equipo?
-
 No en esta convocatoria.  Pueden elegir a una persona del equipo que presente su candidatura con el proyecto. 
 
 Tengan en cuenta que si la persona no ha contribuido al paquete anteriormente, 
-tendrá que presentar una nota que indique que forma parte del equipo del paquete y que tiene permiso de las personas que lo mantienen para trabajar en el paquete. [Este es un modelo del contenido que debe tener el la nota]()
+tendrá que presentar una nota que indique que forma parte del equipo del paquete y que tiene permiso de las personas que lo mantienen para trabajar en el paquete. [Este es un modelo del contenido que debe tener el la nota](author_email_template_es.html)
 
 ### ¿Qué significa pertenecer a un grupo histórica y sistemáticamente excluido?
-
 Pertenecer a un grupo histórica y sistemáticamente excluido significa formar parte de una comunidad o identidad que se ha enfrentado durante mucho tiempo a pautas de marginación, discriminación y desventaja. Abarca grupos que han sido históricamente oprimidos, discriminados o a los que se ha negado la igualdad de oportunidades por diversos factores como la raza, la etnia, el género, la orientación sexual, la religión, la discapacidad, el estatus socioeconómico, la ubicación geográfica o cualquier combinación de los mismos.
 
 ### ¿Puedo proponer más de un paquete?
-
-El tiempo que requiere el programa sólo te permite trabajar en un paquete. Para ayudarte a decidir cuál proponer en la solicitud, compruebe que el paquete está dentro del [rOpenSci Peer-review scope](https://devguide.ropensci.org/policies.html?q=scope#aims-and-scope) o del [rOpenSci Stats Peer-review scope](https://ropensci.org/software-review/).
+No. 
+El tiempo que requiere el programa sólo te permite trabajar en un paquete. 
+Para ayudarte a decidir cuál proponer en la solicitud, compruebe que el paquete está dentro del [alcance de la revisión por pares de software de rOpenSci](https://devguide.ropensci.org/policies.html?q=scope#aims-and-scope) o del [alcance de la revisión por pares de software estadistico de rOpenSci](https://ropensci.org/software-review/).
 
 ### ¿Puedo cambiar el tipo de proyecto que quiero hacer?
 
-No lo recomendamos, ya que buscamos tener un equilibrio en el número de cada tipo de proyecto y asignamos mentores también según el tipo de proyecto. Si por diferentes circunstancias ajenas al participante
-el proyecto no puede realizarse podremos considerar un cambio, pero no es lo habitual.
+No lo recomendamos, ya que buscamos tener un equilibrio en el número de cada tipo de proyecto y asignamos mentores también según el tipo de proyecto. 
+Si por diferentes circunstancias ajenas al participante el proyecto no puede realizarse podremos considerar un cambio, pero no es lo habitual.
 
 ### ¿Qué significa una idea sólida para un paquete? ¿Cuál es el alcance adecuado? 
 
@@ -58,30 +57,43 @@ Estos son los alcances de los paquetes [de rOpenSci que van a revisión por pare
 
 ### No tengo mucha experiencia programando en R, ¿puedo aplicar al programa?
 
-El programa está diseñado para personas que ya tienen experiencia en R. Esperamos que sepa cómo trabajar con proyectos, estructuras de control y cómo escribir funciones. **No es necesario** que tenga experiencia en el desarrollo de paquetes (propios o ajenos), pero si la tiene, ¡mejor que mejor! Sin embargo, esperamos que tengas conocimientos básicos de git y GitHub. 
+El programa está diseñado para personas que ya tienen experiencia en R. Esperamos que sepa cómo trabajar con proyectos, estructuras de control y cómo escribir funciones. **No es necesario** que tenga experiencia en el desarrollo de paquetes (propios o ajenos), pero si la tiene, ¡mejor que mejor! 
 
 ### Tengo un paquete que está en revisión en CRAN, ¿qué opción debo elegir?
 
 Si quiere trabajar en ese paquete durante el programa, la opción que debe elegir es «Someter su paquete al proceso de revisión por pares». Sin embargo, generalmente aconsejamos a la gente que pase primero por nuestra revisión y *luego* envíe el paquete a CRAN.
 
+### ¿Puedo aplicar si ya he participado en una cohorte anterior del programa?
+
+No podes aplicar para ser de nuevo campeon-a en el programa si ya has participado en una cohorte anterior, pero nos encantaria que apliques como mentor o mentora.
+
+### ¿Puedo aplicar de nuevo con un proyecto que no fue seleccionado en llamados anteriores?
+
+Si podes hacerlo. Te recomendamos que tengas en cuenta el feedback que te proporcionamos en su momento y las rubricas de evaluacion de los proyectos para mejorar tu propuesta.  Sabemos que muchas veces los proyectos necesitan varias iteraciones para llegar a un estado adecuado para el programa. Tambien sabemos que hemos tenido que decir que no a muy buenos proyectos en convocatorias anteriores por limitaciones de cupo.
+
+### ¿Por qué el programa tiene cursos que no son de programación?
+
+Porque el desarrollo de software sostenible es mucho más que escribir buen código. El programa incluye cursos sobre comunicación, colaboración, documentación y comunidad, que son claves para que los proyectos de software científico crezcan, se mantengan en el tiempo y tengan impacto real.
+
 
 ## Información para Mentor(e|a)s
 
 ### ¿Se paga a los mentores? 
-
 Si, los mentores reciben un estipendio por su participación en el programa.
 
 ### ¿De cuántas personas seré tutor-a? 
-
 Solo una. Las mentorias son individuales. 
 
 ### ¿Se forma a los mentores?
-
 Sí, ofrecemos formación a las personas que serán mentores sobre cómo realizar esta tarea y sobre la logística del programa. También ofrecemos una guía y recursos para la tarea de mentoría.
 
 ### ¿Voy a poder dar mi opinión sobre los proyectos que voy a mentorear?
-
 Sí, esperamos que hagas la revisión y selección final del listado de campeones y campeonas que participarán en el programa.  También podrás seleccionar hasta tres proyectos que te gustaría dar tutorías.
 Intentaremos que puedas trabajar con uno de esos proyectos que seleccionaste.
 
+### ¿Puedo aplicar para ser mentor-a si no he participado en el programa como campeon-a?
+Sí, puedes aplicar para ser mentor-a aunque no hayas participado en el programa como campeon-a.
+
+### ¿Puedo aplicar para ser mentor-a si ya fui mentor-a en cohortes anteriores?
+Si, puedes aplicar para ser mentor-a de nuevo. Nos encantaria que vuelvas a participar en el programa.
 

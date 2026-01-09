@@ -6,7 +6,7 @@ title: "Plantilla para email de apoyo al proyecto"
 
 *Texto*: 
 
-Comité de Selección del Programa rOpenSci Champions
+Comité de Selección del Programa de Campeon(a|e)s de rOpenSci
 
 Escribo para expresar mi apoyo a la intención de _nombre de la persona solicitante_ de participar en el programa de campeones y campeonas de rOpenSci y contribuir a nuestro paquete de R como su proyecto.
 
@@ -16,4 +16,4 @@ Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros.
 
 Un cordial saludo,
 
-_Nombre y cargo de la persona que envia el mail_
+_Nombre y cargo de la persona que envia el mail y formas de contacto_

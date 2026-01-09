@@ -6,7 +6,8 @@ toc-location: right
 
 ## ¿Qué se espera de una Mentora o un Mentor?
 
-Mentores y mentoras desempeñarán un papel fundamental en el programa de rOpenSci, ayudando a seleccionar a los campeones y campeonas y también asesorando e inspirando a quienes mentoreen. Los mentores y mentoras pondrán en contacto a sus campeones/as con personas, programas y organizaciones; recomendarán recursos, lecturas, formación y experiencias; y proporcionarán comentarios sobre el proyecto de su campeón o campeona.  También pueden ayudar a sus tutelados a realizar otras actividades como: dar una charla, escribir artículos blog, escribir un paper, aplicar a una beca para participar de una conferencia y enseñar a otras personas de la comunidad.
+Mentores y mentoras desempeñarán un papel fundamental en el programa de rOpenSci, ayudando a seleccionar a los campeones y campeonas y también asesorando e inspirando a quienes mentoreen. Los mentores y mentoras pondrán en contacto a sus campeones/as con personas, programas y organizaciones; recomendarán recursos, lecturas, formación y experiencias; y proporcionarán comentarios sobre el proyecto de su campeón o campeona.  
+También pueden ayudar a sus tutelados a realizar otras actividades como: dar una charla, escribir artículos blog, escribir un paper, aplicar a una beca para participar de una conferencia y enseñar a otras personas de la comunidad.
 
 Buscamos personas que:
 
@@ -22,45 +23,48 @@ Buscamos personas que:
 
       * Desarrollar de paquetes y/o revisión de código entre pares.
 
-Los mentores y mentoras adquirirán experiencia y habilidades para realizar su tarea, serán reconocidos en el sitio web de rOpenSci y en los canales de las redes sociales, y harán nuevas conexiones a través de las redes de los Campeones. Al tutelar a nuestros campeones y campeonas seleccionados y ayudar a dar forma a este programa, los tutores y tutoras también estarán retribuyendo a la comunidad rOpenSci de una forma estupenda y significativa. Al finalizar el programa, los mentores recibirán un estipendio de USD 500.
+Los mentores y mentoras adquirirán experiencia y habilidades para realizar su tarea, 
+serán reconocidos en el sitio web de rOpenSci y en los canales de las redes sociales 
+y ampliarán su red de contactos internacionales a través de las redes de su cohorte y cohortes anteriores. 
+Al tutelar a nuestros campeones y campeonas seleccionados y ayudar a dar forma a este programa, mentoras y mentores también estarán retribuyendo a la comunidad rOpenSci de una forma estupenda y significativa. 
+Al finalizar el programa, los mentores recibirán un estipendio de USD 500.
 
 ### Expectativas de tiempo y participación
 
-Se espera que el compromiso total de tiempo sea de aproximadamente 3 a 4 horas al mes desde Mayo 2025 hasta Abril 2026 para completar el siguiente calendario tentativo del programa.
+Se espera que el compromiso total de tiempo sea de aproximadamente 3 a 4 horas al mes desde Marzo de 2026 hasta Marzo de 2027 para completar el siguiente calendario tentativo del programa.
 
 
 |Fecha|Evento|Detalle|Duración|
 |----|-----|------|--------| 
-|Mayo de 2025|Seleccionar participantes |Revisar, clasificar y seleccionar hasta tres proyectos revisados para ser mentor-a.|2 h|
-|Mayo de 2025|Evento de lanzamiento|Conocer el programa, revisar las expectativas del programa y responder preguntas. Conocer a los mentores.|1,5 h|
-|Junio de 2025|Formación|Cómo ser mentor y logística del programa.|2 h|
-|Julio de 2025|Reunirse con los mentores|Proporcionar feedback y orientación sobre el proyecto de los mentores.  Poner en contacto con otras personas expertas, mentores o participantes de la comunidad. Recomendar formación y recursos para el proyecto del alumno. Una reunión al mes.| 0,5 h|
-|Agosto de 2025| Los campeones presentarán su proyecto y recibirán comentarios. |1,5 horas|
-|De Agosto a Noviembre de 2025.|  Conectar con otros expertos, mentores o miembros de la comunidad. Recomendar formación y recursos para el proyecto del alumno. | 0,5 h |
-|Noviembre de 2025 Reunión de cohorte [opcional]| Reflexiones sobre los proyectos. Se invitará a los participantes a compartir con la cohorte las conclusiones de sus proyectos. |  1,5 h|
-|Febrero de 2026 | Reunión de la cohorte [opcional]. Reflexiones sobre los eventos. Se invitará a los campeones-as a compartir con la cohorte los resultados de sus eventos. | 1.5 h|
-|Mayo de 2026 | Reflexiones sobre el programa. Se invitará a los mentores a compartir sus experiencias con la cohorte.|.|1,5h|
-|Junio de 2026 |Fin del trimestre| Cierre de la cohorte y definición de las nuevas funciones de los campeones y los mentores.|1 h|
+|Marzo de 2026|Seleccionar participantes |Revisar, clasificar y seleccionar hasta tres proyectos revisados para ser mentor-a.|2 h|
+|Marzo de 2026|Evento de lanzamiento|Conocer el programa, revisar las expectativas del programa y responder preguntas. Conocer al grupo de mentoría.|1,5 h|
+|Abril de 2026|Formación|Cómo ser mentor y logística del programa.|2 h|
+|Mayo de 2026|Reunirse con los campeones-as|Proporcionar feedback y orientación sobre el proyecto.  Poner en contacto con otras personas expertas, mentores o participantes de la comunidad. Recomendar formación y recursos para el proyecto del campeon-a. Una reunión al mes.| 0,5 h|
+|Mayo de 2026| Los campeones presentarán su proyecto y recibirán comentarios. |1,5 horas|
+|De Mayo a Septiembre de 2026.|  Conectar con otros expertos, mentores o miembros de la comunidad. Recomendar formación y recursos para el proyecto. | 0,5 h |
+|Agosto de 2026 Reunión de cohorte [opcional]| Reflexiones sobre los proyectos. Se invitará a los participantes a compartir con la cohorte las conclusiones de sus proyectos. |  1,5 h|
+|Diciembre de 2026 | Reflexiones sobre el programa. Se invitará a los mentores a compartir sus experiencias con la cohorte.|.|1,5h|
+|Marzo de 2027 |Fin del programa| Cierre de la cohorte y definición de las nuevas funciones de los campeones y los mentores. Entrevista de evaluación |2 h|
 
 ## Beneficios de ser mentor/a
 
 Al convertirte en parte del equipo de mentores de rOpenSci podrás:
 
 * Empoderar a otras personas de América Latina compartiendo tu experiencia; 
-* Conectar con otras personas del equipo de mentores y con la comunidad de los participantes, ampliando tu red profesional;
+* Conectar con otras personas del equipo de mentoría y con la comunidad de los participantes, ampliando tu red profesional;
 * Ganar experiencia y habilidades para realizar mentorías;
 * Ganar exposición, reconocimiento y agradecimiento por tu trabajo en el programa en los espacios de rOpenSci (página web, redes sociales y eventos);
-* Ayudar a rOpenSci y a la comunidad R en general a crecer;
+* Ayudar a rOpenSci, a la comunidad R y de Ciencia Abierta en general a crecer;
 * Recibir un estipendio por tu participación en el programa.
 
-Los mentores y mentoras seleccionados participarán en una formación sobre mentoría y logística del programa como parte de su proceso de inicio y contarán con el apoyo de la _Community Manager_ durante todo el programa.
+Los mentores y mentoras seleccionados participarán en una formación sobre mentoría y logística del programa como parte de su proceso de inicio y contarán con el apoyo de la _Directora del Programa_ durante todo el programa.
 
 ## ¿Cómo aplicar?
 
-Se debe completar el formulario de aplicación antes del _30 de Abril de 2025_. El formulario debe completarse en _castellano_.
+Se debe completar el formulario de aplicación antes del _20 de Febrero de 2026_. El formulario debe completarse en _castellano_.
 
 
-* [**Formulario para aplicar**](). 
+* [**Formulario para aplicar**](https://airtable.com/appF6OXmxkk8VmR8a/shrZnWDRKxXUEmLRM). 
 
 ## Información requerida en el formulario
 
