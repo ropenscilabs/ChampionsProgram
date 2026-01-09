@@ -9,25 +9,41 @@ La primera fase del programa se compone de cursos de capacitacion semanales de d
 
 Este año agregamos una serie de talleres sobre git y GitHub avanzado y sobre comunicación, aprendizaje y enseñanza.
 
-Los siguientes materiales corresponden a las cohortes anteriores y se encuentran en Inglés. Agregaremos las versiones en español a medida que se vayan traduciendo y desarrollando.
+Los siguientes materiales corresponden a la primera cohorte en español. 
 
 ### Mentoría
 
-* [Formación y orientación para tutores](https://ropensci-training.github.io/ropensci-mentors/) por Yanina Bellini Saibene.
+* [Formación y orientación para tutores](https://mentors.ropensci.org/es/index.es.html) por Yanina Bellini Saibene. 1 encuentro.
 
-### Programación
+### Desarrollo colaborativo de software
 
-* [Desarrollando Software en Comunidad](https://paocorrales.github.io/git-developing-software-together/), por Paola Corrales y Yanina Bellini Saibene
-* [Desarrollo de paquetes: la mecánica](https://rpkgdev-mechanics-2024.netlify.app/), por Maëlle Salmon
-* [El desarrollo de paquetes no es ciencia de cohetes](https://rpkgdev-rocket-2024.netlify.app/), por Maëlle Salmon 
-* [Código bonito, ¡porque lo valemos!](https://stylish-code.netlify.app/#/), por Maëlle Salmon
-* [Como contribuir a R base](https://hturner.github.io/rOpenSci_champions/), por Heather Turner
+* [Desarrollando Software en Comunidad](https://paocorrales.github.io/git-desarrollo-software/), por Paola Corrales y Yanina Bellini Saibene. 2 encuentros.
+
+* [¡Miércoles, Git!](https://miercoles-git-mejor.netlify.app/#/), por Maëlle Salmon y Yanina Bellini Saibene. 1 encuentro.
+
+* [Usar y mejorar tu historial de Git](https://historial-git.netlify.app/#/), por Maëlle Salmon. 1 encuentro.
+
+* [Como contribuir a R base](https://hturner.github.io/rOpenSci_champions/), por Heather Turner (solo en inglés, ofrecido a la primera cohorte). 1 encuentro.
+
+### Desarrollo de paquetes de R
+
+* [Código hermoso, ¡porque lo valemos!](https://codigo-hermoso.netlify.app/#/), por Maëlle Salmon. 1 encuentro.
+
+* [Desarrollo de paquetes para principiantes: la mecánica](https://desarrollo-paquetes-basico-2025.netlify.app), por Maëlle Salmon. 3 encuentros.
+
+* [El desarrollo de paquetes avanzado: no es ciencia de cohetes](https://desarrollo-paquetes-avanzado-2025.netlify.app/), por Maëlle Salmon. 1 encuentro. 
+
 
 ### Revisión de Software
 
-* [Cómo rOpenSci realiza la revisión por pares](https://github.com/maurolepore/ropensci-review), por Mauro Lepore y Noam Ross
+* [Taller de revisión de software por pares de rOpenSci](https://ropensci-training.github.io/software-review/), por Mauro Lepore. 2 encuentros.
 
 ### Gestión de comunidades
 
-* [Cómo contribuir a proyectos y comunidades abiertas](https://osschampionsprogram.netlify.app/), por Yanina Bellini Saibene
-* [Haciendo un PACTO para reuniones y eventos virtuales activos](https://zenodo.org/record/4987666#.Y-1Y4nbMK5c) por CSCCE
+* [Cómo contribuir a proyectos y comunidades abiertas](https://yabellini.github.io/osscontribuir/#/), por Yanina Bellini Saibene. 1 encuentro.
+
+* [Como crear una charla inolvidable](), por Alejandra Bellini. 1 encuentro.
+
+* [Como organizar un evento genial](), por Yanina Bellini Saibene. 1 encuentro.
+
+* [Haciendo un PACTO para reuniones y eventos virtuales activos](https://zenodo.org/record/4987666#.Y-1Y4nbMK5c) por CSCCE (solo en inglés, ofrecido a las dos primeras cohortes). 1 encuentro.

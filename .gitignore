@@ -2,10 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
 /.quarto/
 galeria/.DS_Store
 .sass_cache_keys
 galeria/.DS_Store
 draft-applications-intructions
-
-**/*.quarto_ipynb
+program
+docs
