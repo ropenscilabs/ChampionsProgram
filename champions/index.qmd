@@ -11,7 +11,8 @@ En esta tercera cohorte el programa de campeones busca ayudar a personas de *Am�
 A través de este programa, las personas que participen podrán:
 
 * Adquirir las habilidades para desarrollar su propio paquete R o;
-* Adquirir confianza para enviar un paquete R a nuestra revisión por pares o convertirse en parte de nuestro equipo revisor.
+* Adquirir las habilidades y confianza para enviar un paquete R a nuestra revisión por pares o;
+* Adquirir las habilidades y confianza para formar parte de nuestro equipo revisor.
 * Aprender a dirigir un taller, evento u otra actividad de rOpenSci sobre el tema de desarrollo de paquetes, del paquete que desarrollaron o sobre revisión de software por pares en su comunidad local o institución.
 * Conectarse con una red de pares y mentor(a|e)s dentro del ecosistema R.
 * Proporcionar retroalimentación para ayudar a rOpenSci a continuar organizando actividades relevantes y amigables para las personas que desarrollan con R.
@@ -23,15 +24,19 @@ Como en ediciones anteriores esperamos recibir muchas solicitudes y nos comprome
 
 ## Elegibilidad
 
-Buscamos personas que trabajen en campos STEAM, de América Latina que:
+Buscamos personas que trabajen en el desarrollo y uso de herramientas y datos abiertos para investigación reproducible de América Latina que:
+
+* Deseen impulsar el software de investigación y la ciencia abierta en América Latina.
 
 * Ya tengan conocimientos de desarrollo con el lenguaje R y una idea sólida para un paquete R que les gustaría desarrollar, o;
 
 * Ya han desarrollado un paquete R que está dentro del [alcance temático de rOpenSci](https://devguide.ropensci.org/es/softwarereview_policies.es.html), y quieren tenerlo [revisado por pares](/es/software-review/) a través de rOpenSci, o;
 
-* Desea aprender a [revisar](https://devguide.ropensci.org/es/softwarereview_reviewer.es.html) para rOpenSci, y;
+* Desea aprender a [revisar](https://devguide.ropensci.org/es/softwarereview_reviewer.es.html) y aplicar lo que aprendan en el proceso de rOpenSci, 
 
-* Tienen conocimientos básicos de comunicación en español (escrita y oral).
+* Tienen conocimientos básicos de comunicación en español (escrita y oral) y;
+
+* Aceptan nuestro Código de Conducta.
 
 
 ## Acerca del programa
@@ -42,19 +47,19 @@ Las personas participarán en:
 
 * Una formación basada en cohortes sobre:
 
-  - Conocimientos técnicos sobre desarrollo de software de codigo abierto en R (funciones, paquetes, testing),
+  - Conocimientos técnicos sobre desarrollo de software de codigo abierto en R (funciones, paquetes, testing, documentación, estilo de código),
   - Conocimientos técnicos sobre herramientas para desarrollo de software colaborativo (git, GitHub)
   - Conocimientos técnicos sobre revisión de software por pares,
   - Cómo planificar y facilitar talleres atractivos e inclusivos para apoyar el éxito de los participantes,
   - Conocimientos basicos de enseñanza y aprendizaje para aplicarlo en contenido y talleres técnicos,
   - Cómo gestionar una comunidad de personas usuarias y colaboradoras de un paquete R,
-  - Conocimiento de los diversos canales a través de los cuales pueden participar y contribuir a los proyectos de rOpenSci y R
+  - Conocimientos básicos de comunicación y oratoria para preparar charlas efectivas, 
 
 * Tutoría personal y de grupo:
 
   - Una serie de reuniones con tu mentor/a;
   - Reuniones trimestrales de la cohorte;
-  - Horas de oficina periódicas (semanales, mensuales) con la cohorte;
+  - Horas de oficina periódicas con la cohorte;
 
 * Desarrollo de proyectos y actividades con la comunidad:
 
@@ -67,9 +72,11 @@ Las personas participarán en:
 
 Además de la formación, la tutoría personal y la posibilidad de desarrollar un proyecto de tu elección, algunos otros beneficios que recibirás son:
 
-* Aprender y practicar como organizar y enseñar talleres;
+* Desarrollar tu propio proyecto de software en R con apoyo de rOpenSci;
 
 * Aprender y practicar habilidades para revisar software y desarrollar paquetes R;
+
+* Aprender y practicar como organizar y enseñar talleres;
 
 * Obtener información de personas expertas y ampliar tu red profesional;
 
@@ -81,7 +88,7 @@ Además de la formación, la tutoría personal y la posibilidad de desarrollar u
 
 * Convertirte en parte activa de la comunidad rOpenSci;
 
-* Cree software, contenidos y eventos en el idioma de tu comunidad;
+* Crear software, contenidos y eventos en el idioma de tu comunidad;
 
 * Capacitar y compartir con las personas de tu comunidad lo que aprendas y desarroles en el programa;
 
@@ -97,12 +104,12 @@ Los Campeon(e|a)s también elegirán y llevarán a cabo varias actividades, como
 
 Se espera que los Campeon(e|a)s promuevan la participación en la revisión de software por pares y la contribución al software de código abierto, la infraestructura y la documentación de rOpenSci. También recopilarán información sobre cómo mejorar la programación actual de rOpenSci para satisfacer las necesidades de todas las personas que deseen participar.
 
-El compromiso de tiempo estimado para cada Campeón es, en promedio, de __16 horas al mes__ (incluyendo formaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquetes o proceso de revisión, y preparación y organización de eventos). El compromiso total de tiempo de cada persona variará en función de la trayectoria y las actividades que elija realizar durante el programa.
+El compromiso de tiempo estimado para cada Campeón es, en promedio, de __24 horas al mes__ (incluyendo formaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquetes o proceso de revisión, y preparación y organización de eventos). El compromiso total de tiempo de cada persona variará en función de la trayectoria y las actividades que elija realizar durante el programa.  
 
 
 ## ¿Cómo aplicar?
 
-Se debe completar el formulario de aplicación antes del **30 de Abril de 2025**. El formulario debe completarse en _castellano_.
+Se debe completar el formulario de aplicación antes del **20 de Febrero de 2026**. El formulario debe completarse en _castellano_.
 
 * [Formulario para aplicar](https://airtable.com/appF6OXmxkk8VmR8a/shrlvgcNz1R4CoaQN).
 
@@ -118,10 +125,10 @@ A continuación detallamos toda la información que solicitamos en el formulario
 * Email: _correo electrónico que quieres que usemos para comunicarnos contigo._
 * País: _país de residencia_.
 * Zona horaria: _Indica tu zona horaria en UTC (por ejemplo, Santa Rosa, Argentina es UTC -3)._.
-* Pronombres: _por favor, comparte los pronombres que quieres que usemos para referirnos a tí (por ejemplo, el pronombre de Yanina es "ella")_
-* GitHub o GitLab: _Por favor, proporciona el enlace a tu perfil. Comparte la url completa, por ejemplo, https://github.com/ropensci. Recomendamos que tu perfil sea informativo: completa la información de tu perfil de GitHub (y mantenla actualizada); Anota tus repositorios más importantes. Pueden ser repositorios a los que hayas contribuido; Publica las afiliaciones a organizaciones que quieras mostrar; Añade un README del perfil._
+* Pronombres: _por favor, comparte los pronombres que quieres que usemos para referirnos a tí (por ejemplo, el pronombre de Yanina es "ella", el de Noam es "el")_
+* GitHub/GitLab/Codeberg: _Por favor, proporciona el enlace a tu perfil. Comparte la url completa, por ejemplo, https://github.com/ropensci. Recomendamos que tu perfil sea informativo: completa la información de tu perfil de GitHub (y mantenla actualizada); Anota tus repositorios más importantes. Pueden ser repositorios a los que hayas contribuido; Publica las afiliaciones a organizaciones que quieras mostrar; Añade un README del perfil._
 * Redes sociales: _por favor, facilita el enlace a tu perfil de LinkedIn/Mastodon, etc. (opcional)_
-* Sitio Web: _por favor, facilita el enlace a tu sitio web  (optional)_
+* Sitio Web: _por favor, facilita el enlace a tu sitio web  (opcional)_
 * Afiliación: _por favor, indica tu afiliación a una universidad/institución/organización u otro empleador_
 * Comunidad: _por favor, indica tu participación en comunidades (como R-Ladies, Grupos RSE, LatinR, ReproHack, etc. o indica NA)_
 
@@ -147,23 +154,23 @@ Si has desarrollado un paquete de R, por favor, comparte el link al repositorio 
 _Selecciona una opción_
 
 [] Quiero desarrollar un nuevo paquete. 
-_Describe tu proyecto en un máximo de 400 palabras._
+_Describe tu proyecto en un máximo de 500 palabras._
 
 [] Quiero enviar un paquete al proceso de revisión. 
-_Describe tu proyecto en un máximo de 400 palabras. Incluye el enlace al repositorio de github/gitlab del paquete._
+_Describe tu proyecto en un máximo de 500 palabras. Incluye el enlace al repositorio de github/gitlab del paquete._
 
   * Subir documento de acuerdo. _Si quieres trabajar en un paquete, pero no eres la persona que lo creó o lo mantiene, por favor añade un documento (un email impreso como PDF) del/la autor(a)/mantenedor(a) donde exprese(n) su acuerdo con tu proyecto._ 
 
 [] Quiero participar en el proceso de revisión como revisor/a. 
-_Describe los temas sobre los que puedes revisar en un máximo de 400 palabras_
+_Describe los temas sobre los que puedes revisar en un máximo de 500 palabras_
 
 #### Motivación
 
-* ¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? _Por favor, responde en un máximo de 400 palabras._
+* ¿Por qué te gustaría formar parte del Programa de Campeonas/es de rOpenSci? _Por favor, responde en un máximo de 500 palabras._
 
-* ¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? _Por favor, responde en un máximo de 400 palabras._
+* ¿Cómo esperas que tu rol de campeón/a de rOpenSci apoye a tu comunidad u organización/institución o empleador? _Por favor, responde en un máximo de 500 palabras._
 
-* ¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? _Por favor, explícalo en un máximo de 400 palabras._
+* ¿Cuáles son las tres cosas que consideras más importantes para hacer o tener en cuenta cuando se participa en una comunidad de práctica como rOpenSci? _Por favor, explícalo en un máximo de 500 palabras._
 
 * Por favor, indica cómo tu situación laboral actual te da la flexibilidad para dedicar el tiempo necesario para cumplir con las responsabilidades del Programa de Campeones/as de rOpenSci. 
 _El compromiso de tiempo estimado para cada Campeón-a es, en promedio, de 16 horas por mes (incluye capacitaciones, eventos de cohorte, reuniones de tutoría, desarrollo de paquete o proceso de revisión, y preparación y organización de eventos). El compromiso de tiempo total para cada pariticipante variará en función de la trayectoria y las actividades que elijan realizar durante el programa.Por favor, responde en un máximo de 200 palabras. _ 
