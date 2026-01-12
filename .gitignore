@@ -10,3 +10,5 @@ galeria/.DS_Store
 draft-applications-intructions
 program
 docs
+
+**/*.quarto_ipynb
